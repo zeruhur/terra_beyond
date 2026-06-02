@@ -10,7 +10,7 @@ These sources of inspiration offer a wealth of knowledge, ideas, and narratives 
 
 * **Paul Elliott, Orbital 2100:** a science fiction roleplaying game that focuses on the colonization and exploitation of space. The game delves into the technical aspects of space habitats, mining operations, and interplanetary travel, providing a detailed and realistic framework for space-based adventures.
 
-* **Makoto Yukimura, Planetes:**a manga series by Makoto Yukimura that follows a group of astronauts working as space debris collectors in Earth's orbit. It explores the challenges and dangers of space travel, as well as the personal and ethical dilemmas faced by the characters.
+* **Makoto Yukimura, Planetes:** A manga series that follows a group of astronauts working as space debris collectors in Earth's orbit. It explores the challenges and dangers of space travel, as well as the personal and ethical dilemmas faced by the characters.
 
 * **Bruce Sterling, Schismatrix:** a science fiction novel by Bruce Sterling set in a future where humanity has colonized the solar system. The book delves into themes of transhumanism, politics, and the consequences of radical technological advancements on society.
 
@@ -27,4 +27,3 @@ These sources of inspiration offer a wealth of knowledge, ideas, and narratives 
 * **Kim Stanley Robinson, Mars Trilogy:** the trilogy presents a detailed and scientifically grounded vision of the colonization and terraforming of Mars. The books delve into the social, political, and ecological challenges faced by the colonists and offer a comprehensive exploration of the Red Planet.
 
 * **Andy Weir, The Martian:** this novel follows the gripping story of an astronaut stranded on Mars and his struggle for survival. The novel showcases the importance of scientific knowledge, problem-solving, and resilience in an inhospitable environment.
-

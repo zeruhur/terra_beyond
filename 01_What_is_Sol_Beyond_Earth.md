@@ -1,10 +1,10 @@
 # What is Sol: Beyond Earth
 
-*Sol: Beyond Earth* (SBE) is a roleplaying game in which you will define an imagined space bounded by rules. Actions and events occur through procedure-driven player interaction. This facilitates an emergent shared narrative.
+*Sol: Beyond Earth* is a roleplaying game in which you will define an imagined space bounded by rules. Actions and events occur through procedure-driven player interaction. This facilitates an emergent shared narrative.
 
-Put plainly, players will assume the roles of characters in a fictional setting. The characters will act according to the rules of the game that will guarantee their success or failure. The outcome of actions will have an effect on the narrative that emerges.
+Put plainly, players will assume the roles of characters in a fictional setting. The characters will act according to the rules of the game that will determine their success or failure. The outcome of actions will have an effect on the narrative that emerges.
 
-A game of SBE takes place as a conversation between the Referee and the other players.
+A game of *Sol: Beyond Earth* takes place as a conversation between the Referee and the other players.
 
 * The Referee sets up the situation, describes the environment and setting, moves the dialogue and actions of the Non-Playing Characters.
 
@@ -12,7 +12,7 @@ A game of SBE takes place as a conversation between the Referee and the other pl
 
 To play you will need:
 
-* At least 2 players, one will cover the role of Referee. The ideal number of players is 4-5 players, maximum 6\.
+* At least 2 players are needed; one takes the role of Referee. The ideal group is 4–5 players total, maximum 6.
 
 * A complete set of polyhedral dice, preferably one for each player.
 
@@ -36,11 +36,11 @@ It is important that everyone at the table feels comfortable and has the followi
 
 * **Emergent Fiction.** The game thrives on emergent fiction, where the narrative evolves naturally from player choices and interactions. Be prepared for unexpected twists and developments, and allow the story to unfold organically based on the characters' actions and decisions. Embrace the creativity and spontaneity that arise from collaborative storytelling, and don't be afraid to deviate from preconceived notions of how the plot should progress.
 
-* **Embrace uncertainty.** Embracing uncertainty is at the core of this game. Embrace the unpredictability of player choices and the twists and turns the narrative may take. Avoid rigidly planning every detail and be open to adapting to the unexpected. This willingness to embrace uncertainty can lead to some of the most memorable and engaging moments in the game, so relish the uncertainty and let it guide the storytelling.
+* **Embrace uncertainty.** Uncertainty drives the game. Embrace the unpredictability of player choices and the twists and turns the narrative may take. Avoid rigidly planning every detail and be open to adapting to the unexpected. The most memorable moments tend to come from outcomes no one planned for.
 
 ## A word about “realism”
 
-In playing Sol: Beyond Earth, it is important to embrace a sense of realism that remains consistent with the game's setting, backgrounds, equipment, and accompanying illustrations. The carefully crafted retrofuture hard sci-fi universe is designed to inspire players and immerse them in a believable and captivating experience. While it is not mandatory to have prior knowledge of the specific science fiction genre or to read the sources of inspiration, doing so can deepen the appreciation for the game's intricacies. While true "realism" is impossible in a fictional game, it is crucial to avoid indulging in absurdities and instead strive for consistency with the established setting and adhere to general principles of physics. By embracing this approach, players can engage in an authentic and immersive gaming experience that respects the established rules and allows for a compelling and plausible narrative to unfold.
+Consistency matters more than simulation. The setting, equipment, and factions follow internal logic; keep decisions within what physics and the established world make possible, and avoid choices that only work if you ignore both. Prior knowledge of the hard sci-fi genre helps but is not required; familiarity with the inspirations listed at the back deepens appreciation for some of the design choices.
 
 ## Safety Tools
 
@@ -49,4 +49,3 @@ It is important to remember that not everyone at the table may be comfortable wi
 There are various safety tools and techniques that can help create a comfortable and safe environment for everyone involved in the game, such as [Lines And Veils](https://rpg.stackexchange.com/questions/30906/what-do-the-terms-lines-and-veils-mean), [C.A.T.S.](http://proleary.com/2016/04/25/the-cats-method-a-story-telling-game-opening-ritual/), the [X-Card](https://docs.google.com/document/d/1SB0jsx34bWHZWbnNIVVuMjhDkrdFGo1_hSC2BWPlI3A/edit?usp=sharing), and [Script Change](https://briebeau.com/thoughty/script-change/).
 
 It is important to familiarize yourself with these tools and techniques and to use them proactively to ensure that everyone feels safe and comfortable during the game.
-

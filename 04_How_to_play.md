@@ -1,12 +1,12 @@
 # How to play
 
+*Sol: Beyond Earth* is built for mission-based play. Each session centers on a specific job or objective with a clear scope. This keeps the system's risk-driven resolution working as intended. The rules are calibrated for situations where something is at stake, and a mission frame ensures something usually is. Extended low-pressure stretches work best as transitions between missions, not as the main mode of play.
+
 The role of the Referee is to control the game universe: he describes situations, NPCs, and their reactions to the PCs' actions. He or she should be as clear as possible about the conditions of the context in which the characters are immersed: if there is a reasonable certainty that the character has access to a piece of information or knowledge, the referee should communicate it to the player, without asking for a roll. In this game, a roll is made only for situations of risk or uncertainty of the outcome of a direct action.
 
-* If an action is impossible, the referee simply declares it so by explaining why and describing the possible alternatives to the player.
-
-* If the cost of an action is explicit, the referee will clearly present it. The player can decide whether to take the action or try another one.
-
-* If the action involves a risk, the referee will communicate this clearly. The player will be able to make informed decisions about the action they want to take and they will pull to determine the outcome.
+- If an action is impossible, the referee simply declares it so by explaining why and describing the possible alternatives to the player.
+- If the cost of an action is explicit, the referee will clearly present it. The player can decide whether to take the action or try another one.
+- If the action involves a risk, the referee will communicate this clearly. The player will be able to make informed decisions about the action they want to take and they will pull to determine the outcome.
 
 In all other cases, the action is automatically successful.
 
@@ -16,7 +16,7 @@ When a character attempts an action with significant risk, the player rolls a sk
 
 * If the character has applicable skills or talents, they roll a bigger die like d8 or d10 to represent competence. 
 
-* Conversely, if *hindered* by injuries or obstacles may warrant a smaller die like d4 to show impairment.
+* Conversely, a character *hindered* by injuries or obstacles rolls a smaller die like d4 to show impairment.
 
 The player can also roll bonus dice based on circumstances:
 
@@ -52,7 +52,7 @@ After successfully completing a mission or major story milestone, each player ch
 
 For example, after infiltrating an enemy base undetected and stealing valuable data, a character with stealth and hacking skills currently at d8 could increase their stealth to d10 for greater sneaking ability. They also would gain somewhere between 1-6 credits to spend on desired upgrades and purchases.
 
-This dual progression system rewards both new capabilities and resources, allowing characters to become more powerful and versatile over the course of the campaign. The incremental upgrades create a satisfying sense of growth and advancement for each successful mission. But the unpredictability keeps material gain uncertain, maintaining long-term goals and motivation.
+Each mission adds a skill rank and an uncertain credit payout. Characters improve through use, and the randomness in credits means players can plan upgrades but not rely on them.
 
 ## Damage Control
 
@@ -62,7 +62,7 @@ When a character is about to take damage from an attack or hazard, the player ca
 
 After being used to soak damage this way, that gear becomes disabled and non-functional until it can be repaired back at a home base or facility with the proper tools and parts.
 
-The referee will determine if using the gear fully negates the attack or just reduces the damage taken. More powerful or intense attacks may overwhelm a piece of gear's protection capacity.
+The referee determines whether the gear fully negates the attack or only reduces it. High-damage or repeated attacks may exhaust a piece of gear's capacity to absorb.
 
 ## Injuries
 
@@ -72,7 +72,7 @@ If a character is killed, the player should introduce a new character as soon as
 
 When adjudicating the effects of injuries or character death, inclusion of the affected player takes priority over adhering to strict realism. The referee should aim to avoid excluding a player from participation due to their character being incapacitated. Workarounds like having the player take temporary control of a supporting character can help keep everyone involved.
 
-The risks of combat and other dangerous activities are an important part of the game's drama and stakes. However, the ultimate goal is for everyone to have fun together. So when serious consequences occur, the referee should guide the narrative in a direction that returns the affected player to active participation in a seamless, collaborative manner.
+The risks of combat and other dangerous activities are an important part of the game's drama and stakes. However, the ultimate goal is for everyone to have fun together. When serious consequences occur, the referee should find a way to return the affected player to active participation quickly.
 
 ## Mission Control
 
@@ -84,9 +84,121 @@ The referee should present dilemmas and challenges without pre-planned solutions
 
 To give everyone screen time, the referee moves the spotlight around, checking in with each player in turn.
 
-To inject randomness and chaos, the referee can occasionally test for bad luck by rolling a die \- a 1-2 means trouble occurs, like running out of ammo at a bad time or stumbling into patrolling guards. A 3-4 indicates signs of impending trouble.
+When careful play has kept the dice quiet for a while, test for bad luck to restore external input: roll a die. On 1–2, trouble surfaces (a patrol changes route, a contact gets nervous, a resource runs out). On 3–4, signs of trouble ahead. Before a session of low-profile play, establish at least one ambient pressure (a suspicion level, a deadline, a finite resource) so the bad luck check has something concrete to trigger.
 
 When the written rules don't adequately cover a situation, the referee improvises rulings in the moment to keep the game moving. If any rulings seem unsatisfactory, the group should discuss them on a break and revise them collaboratively. 
 
-The referee portrays the world and inhabitants surrounding the player characters. By sharing narrative power while guiding pacing and monitoring safety, the referee enables the group to collectively build an exciting and satisfying story.
+The referee portrays the world and inhabitants surrounding the player characters, sharing narrative power while guiding pacing and monitoring safety.
 
+## Playing Solo
+
+*Sol: Beyond Earth* can be played alone. You take on both the protagonist and the world: making decisions as your character, then stepping back to let the setting respond through the oracles below.
+
+The **Risk Oracle** tells you how much friction the world offers before you commit to an action. The **Question Oracle** lets the world answer questions you can't resolve alone (what an NPC does, whether the docking bay is sealed, if the cargo matches the manifest). **Sparks** give you a prompt when you need direction or momentum.
+
+Trust the results. When an oracle contradicts what you expected, that's where the story is.
+
+### The Loop
+
+Each time your character acts, go through these steps:
+
+1. **Declare your action.** What are you doing, and what do you want to happen?
+2. **Assess the situation.** Use the *Risk Oracle* to read how much is at stake.
+3. **Roll if needed.** If the Risk Oracle says there's friction or volatility, make your standard roll. Otherwise, it just happens.
+4. **Interpret the outcome.** Let the result shape the fiction. If you need to know how the world or an NPC responds, use the *Question Oracle*.
+
+---
+
+### Risk Oracle
+
+Before your character acts, roll to assess how much control you have over the situation.
+
+| Situation    | Die  |
+|--------------|------|
+| Chaotic      | d4   |
+| Precarious   | d6   |
+| Manageable   | d8   |
+| Predictable  | d10  |
+| Stable       | d12  |
+
+Interpret the result:
+
+- **1-2: Volatile.** The situation is unstable. Make your standard roll, and failure hits hard.
+- **3-4: Friction.** Something could go wrong. Make your standard roll.
+- **5+: Clean.** The situation is in hand. No roll needed; it happens.
+
+---
+
+### Question Oracle
+
+When the outcome isn't about what your character *does* (NPC reactions, world states, things off-screen), ask a yes/no question and roll based on the odds.
+
+| Likelihood     | Die  |
+|----------------|------|
+| Very Unlikely  | d4   |
+| Unlikely       | d6   |
+| Likely         | d8   |
+| Very Likely    | d10  |
+| Almost Certain | d12  |
+
+Interpret the result:
+
+- **1-2: No, and…** It doesn't happen, and things get worse.
+- **3-4: Yes, but…** It happens, but with a complication.
+- **5+: Yes, and…** It happens, and something else opens up.
+
+---
+
+### Sparks
+
+When you need a fresh angle or you're stuck, combine an Action and a Theme to generate a prompt.
+
+#### Action
+
+| D20 | Action      |
+|-----|-------------|
+| 1   | Investigate |
+| 2   | Rescue      |
+| 3   | Sabotage    |
+| 4   | Pursue      |
+| 5   | Retrieve    |
+| 6   | Expose      |
+| 7   | Defend      |
+| 8   | Infiltrate  |
+| 9   | Negotiate   |
+| 10  | Escape      |
+| 11  | Salvage     |
+| 12  | Destroy     |
+| 13  | Protect     |
+| 14  | Surveil     |
+| 15  | Confront    |
+| 16  | Transport   |
+| 17  | Warn        |
+| 18  | Steal       |
+| 19  | Betray      |
+| 20  | Liberate    |
+
+#### Theme
+
+| D20 | Theme      |
+|-----|------------|
+| 1   | Wreck      |
+| 2   | Fugitive   |
+| 3   | Conspiracy |
+| 4   | Data       |
+| 5   | Agent      |
+| 6   | Evidence   |
+| 7   | Outpost    |
+| 8   | Syndicate  |
+| 9   | Contact    |
+| 10  | Cargo      |
+| 11  | Survivor   |
+| 12  | Rival      |
+| 13  | Anomaly    |
+| 14  | Habitat    |
+| 15  | Technology |
+| 16  | Mutiny     |
+| 17  | Lockdown   |
+| 18  | Vacuum     |
+| 19  | Signal     |
+| 20  | Claim      |

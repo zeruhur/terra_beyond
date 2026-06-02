@@ -24,7 +24,7 @@ Playable characters are the players' gateway to the game universe. By assuming t
 
 **2\) Pick 3 more skills increases (from no skill-\>d8-\>d10-\>d12):**
 
-Athletics, CQC (Close Quarters Combat), Computers, Engineering, Firearms, G-Zero, Leadership, Linguistics, Medicine, Navigation, Piloting, Psychology, Resources, Robotics, Science
+Athletics, CQC (Close Quarters Combat), Computers, Engineering, Firearms, G-Zero, Leadership, Linguistics, Medicine, Navigation, Negotiation, Networking, Piloting, Psychology, Repair, Resources, Robotics, Science
 
 ## Details
 
@@ -68,10 +68,9 @@ Customize details to fit the setting. Here are some options fitting a hard sci-f
 
 ### Quirks
 
-| 1 | Launch buff | 6 | Lucky socks |  | Conspiracy theorist | 16 | Contraband hooch |
+| 1 | Launch buff | 6 | Lucky socks | 11 | Conspiracy theorist | 16 | Contraband hooch |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| 2 | Homesick | 7 | Compulsive journaler |  | Meticulous documenter | 17 | Knuckle cracker |
-| 3 | Spacesick | 8 | Green thumb |  | Washout grudge | 18 | Claustrophobic |
-| 4 | Diet zealot | 9 | Sports nut |  | Retrogamer | 19 | Illegal tunes |
-| 5 | Pizza lover | 10 | Divorcing |  | Midlife crisis | 20 | Last mission |
-
+| 2 | Homesick | 7 | Compulsive journaler | 12 | Meticulous documenter | 17 | Knuckle cracker |
+| 3 | Spacesick | 8 | Green thumb | 13 | Washout grudge | 18 | Claustrophobic |
+| 4 | Diet zealot | 9 | Sports nut | 14 | Retrogamer | 19 | Illegal tunes |
+| 5 | Pizza lover | 10 | Divorcing | 15 | Midlife crisis | 20 | Last mission |

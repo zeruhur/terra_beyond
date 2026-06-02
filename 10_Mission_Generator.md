@@ -1,6 +1,6 @@
 # Mission Generator
 
-With this Generator, players can create unique missions within the Sol: Beyond Earth universe. The combination of the mission, client, conditions, possible obstacles, and rewards adds depth and unpredictability to each assignment, ensuring a diverse and engaging gameplay experience. Players will have the opportunity to tackle a wide range of challenges, interact with various factions and organizations, and reap the rewards of their successful missions.
+Roll on the tables below to build a mission: combine a type, location, client, complication, hazard, reward, and contact to generate the shape of an assignment. The tables are starting points; adjust results that contradict each other or that don't fit the current fiction.
 
 ## Finding Missions
 
@@ -11,6 +11,8 @@ Roll 1d6 to get a job offer. Spend 1₡ to re-roll.
 5-6: Choose between two open missions.
 
 ## Mission Table
+
+Roll d20:
 
 1. Transport supplies
 
@@ -54,6 +56,8 @@ Roll 1d6 to get a job offer. Spend 1₡ to re-roll.
 
 ## Location
 
+Roll d20:
+
 1. Mars base
 
 2. Asteroid colony
@@ -68,7 +72,7 @@ Roll 1d6 to get a job offer. Spend 1₡ to re-roll.
 
 7. Research lab
 
-8. Alien ruins on Mars/moon
+8. Abandoned research outpost
 
 9. Derelict ship in asteroid belt
 
@@ -84,7 +88,7 @@ Roll 1d6 to get a job offer. Spend 1₡ to re-roll.
 
 15. Solar storm
 
-16. Black hole study site
+16. Deep space relay station
 
 17. Neptune/Uranus moon
 
@@ -96,7 +100,9 @@ Roll 1d6 to get a job offer. Spend 1₡ to re-roll.
 
 ## Client Table
 
-1. United Nations of Earth
+Roll d20:
+
+1. Sol Union
 
 2. European Federation
 
@@ -136,123 +142,97 @@ Roll 1d6 to get a job offer. Spend 1₡ to re-roll.
 
 20. Interplanetary Medical Association
 
-21. Terraforming Research Institute
-
-22. Orbital Tourism Corporation
-
-23. Deep Space Exploration Society
-
-24. Lunar Research Foundation
-
-25. Mars Cultural Exchange Program
-
-26. Solar Power Satellite Consortium
-
-27. International Diplomatic Corps
-
-28. Spacecraft Engineering Consortium
-
-29. Asteroid Mining Guild
-
-30. Interstellar Communication Union
-
-31. Security and Defense Alliance
-
-32. Interplanetary Agriculture Association
-
-33. Planetary Defense Force
-
-34. Lunar Heritage Foundation
-
-35. Mars University
-
-36. Venusian Arts and Culture Council
-
 ## Complication
 
-1. Vital equipment damaged
+Roll d20:
 
-2. Unexpected environmental hazard
+1. Vital equipment damaged on arrival
 
-3. Cryptic alien technology
+2. Unexpected radiation event at the site
 
-4. Rival faction interferes
+3. Encrypted data: crew lacks clearance to access key files
 
-5. Strange space phenomenon
+4. Rival faction is already working the same objective
 
-6. Crew member incapacitated
+5. Solar flare disrupts electronics and communications
 
-7. Communications disrupted
+6. Crew member suffers acute medical crisis
 
-8. Life support compromised
+7. Long-range comms blacked out for the duration
 
-9. Sabotage or mutiny
+8. Life support begins to degrade
 
-10. Hostile lifeform appears
+9. Evidence of deliberate sabotage found aboard ship
 
-11. Dangerous spatial anomaly
+10. Corporate overseer orders mission abort; crew disagrees
 
-12. Psychotic episode
+11. Navigation data was wrong; you're at the wrong location
 
-13. Quarantine protocol enforced
+12. Psychological break: isolation and stress peak at the worst moment
 
-14. VIP causes problems
+13. Quarantine protocol triggered by unknown contamination
 
-15. Faction politics cause friction
+14. VIP observer actively interferes with operations
 
-16. Unethical orders given
+15. Faction politics among crew create dangerous friction
 
-17. Test subject is sentient being
+16. Mission orders turn out to be illegal under Sol Union law
 
-18. Unexpected first contact event
+17. The subject of the mission is not what the briefing described
 
-19. Secret corporate agenda
+18. A second crew is already here running the same job
 
-20. Distress signal appears to be trap
+19. Corporate black site discovered: client has a hidden agenda
+
+20. The distress signal that led to this mission was a deliberate trap
 
 ## Hazards
 
-1. Malfunctioning equipment
+Roll d20:
 
-2. Uncharted space anomaly
+1. Malfunctioning life support component
 
-3. Adverse environment
+2. Uncharted debris field in transit path
 
-4. Experimental technology
+3. Extreme local environment (temperature, pressure, or radiation beyond suit tolerances)
 
-5. Cryptic alien artifact
+4. Experimental equipment behaves unpredictably
 
-6. Rival faction
+5. Classified hardware: illegal to possess, dangerous to ignore
 
-7. Space phenomena
+6. Rival crew or faction ship on an intercept course
 
-8. Dangerous lifeform
+7. Intense solar activity flooding sensors and communications
 
-9. Unstable crew member
+8. Armed individuals have taken or are targeting the ship
 
-10. VIP/client
+9. Crew member becomes irrational under stress or substance use
 
-11. Unethical orders
+10. VIP or client is actively undermining the mission
 
-12. Quarantine protocol
+11. Orders received mid-mission require something unethical
 
-13. Secret corporate agenda
+12. Quarantine breach: contamination risk of unknown origin
 
-14. Desperate civilians
+13. Corporate agent embedded in crew is reporting everything back
 
-15. Spatial anomaly
+14. Civilians or refugees discovered and requiring immediate assistance
 
-16. Hostile ship
+15. Radiation pocket in an otherwise charted safe zone
 
-17. Rogue AI
+16. Hostile ship with unclear affiliation has the crew outgunned
 
-18. Strange signals
+17. Rogue AI controlling a facility or ship refuses crew commands
 
-19. Wartime politics
+18. Unexplained broadcast signal: origin and intent unknown
 
-20. Test subject
+19. The political situation has changed; the mission is now illegal
+
+20. The cargo or test subject is something very different from the manifest
 
 ## Mission Reward
+
+Roll d20:
 
 1. Money
 
@@ -270,7 +250,7 @@ Roll 1d6 to get a job offer. Spend 1₡ to re-roll.
 
 8. Advanced base
 
-9. First contact
+9. Exclusive access secured
 
 10. Historic discovery
 
@@ -296,6 +276,8 @@ Roll 1d6 to get a job offer. Spend 1₡ to re-roll.
 
 ## Contact
 
+Roll d20:
+
 1. Grizzled veteran
 
 2. Brash hotshot
@@ -310,7 +292,7 @@ Roll 1d6 to get a job offer. Spend 1₡ to re-roll.
 
 7. Unstable genius
 
-8. Enigmatic alien
+8. Veteran deep-space recluse
 
 9. Quirky engineer
 
@@ -335,4 +317,3 @@ Roll 1d6 to get a job offer. Spend 1₡ to re-roll.
 19. Eccentric inventor
 
 20. Rogue AI
-

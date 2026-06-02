@@ -1,8 +1,8 @@
 # License
 
-(CC) 2023 Roberto Bisceglie
+© 2023-2026 Roberto Bisceglie
 
-The original 24XX SRD is by Jason Tocci license under Creative Commons Attribution 4.0 International License.
+The original 24XX SRD is by Jason Tocci, licensed under Creative Commons Attribution 4.0 International License.
 
 Cover and internal illustrations are released in public domain by NASA.
 

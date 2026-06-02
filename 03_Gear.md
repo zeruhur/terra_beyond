@@ -9,4 +9,3 @@
 **ARMOR:** Flak jacket, combat armor (bulky; bulky helmet grants oxygen).
 
 **CYBERNETICS:** Cybernetic leg (faster movement), eye (enhanced vision), arm (increased strength).
-
