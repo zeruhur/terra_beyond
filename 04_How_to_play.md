@@ -84,9 +84,9 @@ The referee should present dilemmas and challenges without pre-planned solutions
 
 To give everyone screen time, the referee moves the spotlight around, checking in with each player in turn.
 
-When careful play has kept the dice quiet for a while, test for bad luck to restore external input: roll a die. On 1–2, trouble surfaces (a patrol changes route, a contact gets nervous, a resource runs out). On 3–4, signs of trouble ahead. Before a session of low-profile play, establish at least one ambient pressure (a suspicion level, a deadline, a finite resource) so the bad luck check has something concrete to trigger.
+When careful play has kept the dice quiet for a while, test for bad luck to restore external input: roll a die. On 1–2, trouble surfaces (a patrol changes route, a contact gets nervous, a resource runs out). On 3–4, signs of trouble ahead. Before a session of low-profile play, establish at least one ambient pressure (fuel shortage, oxygen shortage, time pressure, missing clearance, unstable weather, equipment wear, communications delay, or political scrutiny) so the bad luck check has something concrete to trigger.
 
-When the written rules don't adequately cover a situation, the referee improvises rulings in the moment to keep the game moving. If any rulings seem unsatisfactory, the group should discuss them on a break and revise them collaboratively. 
+When the written rules don't adequately cover a situation, the referee improvises rulings in the moment to keep the game moving. If any rulings seem unsatisfactory, the group should discuss them on a break and revise them collaboratively.
 
 The referee portrays the world and inhabitants surrounding the player characters, sharing narrative power while guiding pacing and monitoring safety.
 
@@ -107,8 +107,6 @@ Each time your character acts, go through these steps:
 3. **Roll if needed.** If the Risk Oracle says there's friction or volatility, make your standard roll. Otherwise, it just happens.
 4. **Interpret the outcome.** Let the result shape the fiction. If you need to know how the world or an NPC responds, use the *Question Oracle*.
 
----
-
 ### Risk Oracle
 
 Before your character acts, roll to assess how much control you have over the situation.
@@ -127,8 +125,6 @@ Interpret the result:
 - **3-4: Friction.** Something could go wrong. Make your standard roll.
 - **5+: Clean.** The situation is in hand. No roll needed; it happens.
 
----
-
 ### Question Oracle
 
 When the outcome isn't about what your character *does* (NPC reactions, world states, things off-screen), ask a yes/no question and roll based on the odds.
@@ -146,8 +142,6 @@ Interpret the result:
 - **1-2: No, and…** It doesn't happen, and things get worse.
 - **3-4: Yes, but…** It happens, but with a complication.
 - **5+: Yes, and…** It happens, and something else opens up.
-
----
 
 ### Sparks
 
