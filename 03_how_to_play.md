@@ -1,5 +1,7 @@
 # How to play
 
+*Frontier: Beyond Sol* is built for mission-based play. Each session centers on a specific job or objective with a clear scope. This keeps the system's risk-driven resolution working as intended. The rules are calibrated for situations where something is at stake, and a mission frame ensures something usually is. Extended low-pressure stretches work best as transitions between missions, not as the main mode of play.
+
 The role of the Referee is to control the game universe: he describes situations, NPCs, and their reactions to the PCs' actions. He or she should be as clear as possible about the conditions of the context in which the characters are immersed: if there is a reasonable certainty that the character has access to a piece of information or knowledge, the referee should communicate it to the player, without asking for a roll. In this game, a roll is made only for situations of risk or uncertainty of the outcome of a direct action.
 
 - If an action is impossible, the referee simply declares it so by explaining why and describing the possible alternatives to the player.
@@ -73,11 +75,11 @@ The referee portrays non-player characters (NPCs) by describing their behaviors,
 
 To control pacing and safety, the referee can fast-forward through uneventful stretches, pause play for breaks or sidebar discussions, or even rewind and redo a scene if needed. The referee should invite players to request scene edits too.
 
-The referee should present dilemmas and challenges without pre-planned solutions, allowing the players to drive the direction of the story through their choices. 
+The referee should present dilemmas and challenges without pre-planned solutions, allowing the players to drive the direction of the story through their choices.
 
 To give everyone screen time, the referee checks in with each player in turn.
 
-To inject randomness and chaos, the referee can occasionally test for bad luck by rolling a die - a 1-2 means trouble occurs, like running out of ammo at a bad time or stumbling into patrolling guards. A 3-4 indicates signs of impending trouble.
+When careful play has kept the dice quiet for a while, test for bad luck to restore external input: roll a die — 1–2 means trouble surfaces (a patrol changes route, a contact gets nervous, a resource runs out), 3–4 means signs of trouble ahead. Before a session of low-profile play, establish at least one ambient pressure (a suspicion level, a deadline, a finite resource) so the bad luck check has something concrete to trigger.
 
 When the written rules don't adequately cover a situation, the referee improvises rulings in the moment to keep the game moving. If any rulings seem unsatisfactory, the group should discuss them on a break and revise them collaboratively. 
 
@@ -85,105 +87,114 @@ The referee portrays the world and inhabitants surrounding the player characters
 
 ## Playing Solo
 
-In a solo role-playing game, use these steps to guide your scenes:
+*Frontier: Beyond Sol* can be played alone, without a Referee. You control a single character navigating the interstellar frontier, and a set of oracles takes the Referee's place — answering questions, introducing complications, and keeping the fiction honest when you can't answer for yourself.
 
-1. **Set Expectations:** Think about your character's traits, goals, and motivations. Picture their action and how the game world might respond.  
-2. **Test Expectations:** If you're unsure how the world reacts, ask the oracle a "Yes" or "No" question to gauge possible outcomes—advantages or setbacks.  
-3. **Interpret the Outcome:** Compare the oracle's answer to your expectations. If it matches, proceed as planned. If it doesn't, think about how the unexpected result could shift the scene or story.  
+The tools below work as a cycle: The Loop tells you when to roll and how to read outcomes; the Risk Oracle gauges how much control you have before you act; the Question Oracle resolves anything off-screen or outside your character's direct influence; and Sparks give you a prompt when you need a new direction.
 
-Testing your assumptions keeps the game engaging and opens up fresh story possibilities.
+### The Loop
 
-When deciding outcomes for actions beyond your character's control or answering questions about the game world or NPC (Non-Player Character) reactions, try one of these methods:
+Each time your character acts, go through these steps:
 
-1. **Draw a Conclusion:** Choose the answer that’s the most interesting or logical.  
-2. **Ask a Closed Question:** Estimate the odds of a "Yes," then roll on the table below for the answer.  
-3. **Choose Between Two Options:** Imagine two possible outcomes, mark one as "likely," and roll to see if it’s true. If not, go with the other option.  
-4. **Spark an Idea:** Brainstorm or use a random prompt.
+1. **Declare your action.** What are you doing, and what do you want to happen?
+2. **Assess the situation.** Use the *Risk Oracle* to read how much is at stake.
+3. **Roll if needed.** If the Risk Oracle says there's friction or volatility, make your standard roll. Otherwise, it just happens.
+4. **Interpret the outcome.** Let the result shape the fiction. If you need to know how the world or an NPC responds, use the *Question Oracle*.
 
-### Asking Questions
+---
 
-For closed questions (with a "Yes" or "No" answer), follow these steps:
+### Risk Oracle
 
-1. Roll a die based on the likelihood:
+Before your character acts, roll to assess how much control you have over the situation.
 
-| Likelihood         | Die to Roll |
-|--------------------|-------------|
-| Very Unlikely      | 1d4         |
-| Unlikely           | 1d6         |
-| Uncertain          | 1d6         |
-| Likely             | 1d10        |
-| Very Likely        | 1d12        |
+| Situation    | Die  |
+|--------------|------|
+| Chaotic      | d4   |
+| Precarious   | d6   |
+| Manageable   | d8   |
+| Predictable  | d10  |
+| Stable       | d12  |
 
-2. Interpret the roll:  
-   - **1-2 No, and...**: What you expected doesn’t happen, and things get worse.  
-   - **3-4 Yes, but...**: What you expected happens, but with a complication.  
-   - **5+ Yes, and...**: What you expected happens, plus something even better!  
+Interpret the result:
 
-3. Think about the answer in the context of your question and the situation. Does it fit? Does it inspire you?  
-4. If you’ve got your answer, great! Play it out. If you need more details, use the Sparks tables for inspiration.  
-5. If you’re still stuck, try rolling again, exploring a different Spark, or trust your instincts to move forward.
+- **1-2 — Volatile:** The situation is unstable. Make your standard roll, and failure hits hard.
+- **3-4 — Friction:** Something could go wrong. Make your standard roll.
+- **5+ — Clean:** The situation is in hand. No roll needed — it happens.
 
-For open-ended questions, skip the oracle and roll directly on the Sparks tables. Let the results guide your imagination.
+---
+
+### Question Oracle
+
+When the outcome isn't about what your character *does* — NPC reactions, world states, things off-screen — ask a yes/no question and roll based on the odds.
+
+| Likelihood     | Die  |
+|----------------|------|
+| Very Unlikely  | d4   |
+| Unlikely       | d6   |
+| Likely         | d8   |
+| Very Likely    | d10  |
+| Almost Certain | d12  |
+
+Interpret the result:
+
+- **1-2 — No, and…** It doesn't happen, and things get worse.
+- **3-4 — Yes, but…** It happens, but with a complication.
+- **5+ — Yes, and…** It happens, and something else opens up.
+
+---
 
 ### Sparks
 
-Use these tables to spark adventure ideas for *Frontier: Beyond Sol*. Combine an Action with a Theme to generate prompts like:  
-
-- **"Investigate a signal in an uncharted star system."**  
-- **"Defend an outpost from a hostile faction."**  
-- **"Chart a stargate route through a debris field."**  
-- **"Retrieve an ancient alien artifact buried in a ruin."**  
-
+When you need a fresh angle or you're stuck, combine an Action and a Theme to generate a prompt.
 
 #### Action
 
-| D20 | Action        |  
-|------|---------------|  
-| 1    | Chart         |  
-| 2    | Protect       |  
-| 3    | Explore       |  
-| 4    | Negotiate     |  
-| 5    | Retrieve      |  
-| 6    | Investigate   |  
-| 7    | Survey        |  
-| 8    | Defend        |  
-| 9    | Salvage       |  
-| 10   | Liberate      |  
-| 11   | Analyze       |  
-| 12   | Stop          |  
-| 13   | Escort        |  
-| 14   | Harvest       |  
-| 15   | Repair        |  
-| 16   | Decode        |  
-| 17   | Rebuild       |  
-| 18   | Discover      |  
-| 19   | Conceal       |  
-| 20   | Lead          |  
+| D20 | Action      |
+|-----|-------------|
+| 1   | Investigate |
+| 2   | Rescue      |
+| 3   | Sabotage    |
+| 4   | Pursue      |
+| 5   | Retrieve    |
+| 6   | Expose      |
+| 7   | Defend      |
+| 8   | Infiltrate  |
+| 9   | Negotiate   |
+| 10  | Escape      |
+| 11  | Salvage     |
+| 12  | Destroy     |
+| 13  | Protect     |
+| 14  | Surveil     |
+| 15  | Confront    |
+| 16  | Transport   |
+| 17  | Warn        |
+| 18  | Steal       |
+| 19  | Betray      |
+| 20  | Liberate    |
 
 #### Theme
 
-| D20 | Theme            |  
-|------|------------------|  
-| 1    | Stargate         |  
-| 2    | Colony           |  
-| 3    | Alien Ruin       |  
-| 4    | Relic            |  
-| 5    | Void             |  
-| 6    | Signal           |  
-| 7    | Anomaly          |  
-| 8    | Conflict         |  
-| 9    | Artifact         |  
-| 10   | Radiation        |  
-| 11   | Ecosystem        |  
-| 12   | Mutation         |  
-| 13   | Frontier         |  
-| 14   | Debris Field     |  
-| 15   | Outpost          |  
-| 16   | Secret           |  
-| 17   | Energy Source    |  
-| 18   | Distress Beacon  |  
-| 19   | Faction          |  
-| 20   | Shadow           |  
+| D20 | Theme      |
+|-----|------------|
+| 1   | Wreck      |
+| 2   | Fugitive   |
+| 3   | Conspiracy |
+| 4   | Data       |
+| 5   | Agent      |
+| 6   | Artifact   |
+| 7   | Outpost    |
+| 8   | Syndicate  |
+| 9   | Contact    |
+| 10  | Cargo      |
+| 11  | Survivor   |
+| 12  | Rival      |
+| 13  | Anomaly    |
+| 14  | Ecosystem  |
+| 15  | Technology |
+| 16  | Mutiny     |
+| 17  | Ruin       |
+| 18  | Vacuum     |
+| 19  | Signal     |
+| 20  | Precursor  |
 
 
 

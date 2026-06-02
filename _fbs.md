@@ -90,7 +90,7 @@ Playable characters are the players' gateway to the game universe in the year 24
 
 **2) Pick 3 more skill increases (from no skill-\>d8-\>d10-\>d12):**
 
-Athletics, Close Quarters Combat, Computers, Cyber-Ops, Demolitions, Engineering, Environmental Suit, Exo-Suit Operation, Firearms, G-Zero Maneuvering, Gravities, Hacking, Heavy Machinery, Hyperspace Navigation, Jumpgate Operation, Leadership, Linguistics, Medicine, Navigation, Negotiation, Piloting, Planetside Survival, Prospecting, Psi-Ops, Resources, Science (sub-fields like Physics, Biology, Xenology, etc.), Sensors, Stealth, Streetwise, Tactics, Zero-G Training
+Athletics, Close Quarters Combat, Computers, Cyber-Ops, Demolitions, Engineering, Environmental Suit, Exo-Suit Operation, Firearms, G-Zero Maneuvering, Gravities, Hacking, Heavy Machinery, Hyperspace Navigation, Jumpgate Operation, Leadership, Linguistics, Medicine, Navigation, Negotiation, Piloting, Planetside Survival, Prospecting, Resources, Science (sub-fields like Physics, Biology, Xenology, etc.), Sensors, Stealth, Streetwise, Tactics, Zero-G Training
 
 ## Details
 
@@ -289,6 +289,8 @@ Customize details to fit the setting. Here are some options fitting a hard sci-f
 
 # How to play
 
+*Frontier: Beyond Sol* is built for mission-based play. Each session centers on a specific job or objective with a clear scope. This keeps the system's risk-driven resolution working as intended. The rules are calibrated for situations where something is at stake, and a mission frame ensures something usually is. Extended low-pressure stretches work best as transitions between missions, not as the main mode of play.
+
 The role of the Referee is to control the game universe: he describes situations, NPCs, and their reactions to the PCs' actions. He or she should be as clear as possible about the conditions of the context in which the characters are immersed: if there is a reasonable certainty that the character has access to a piece of information or knowledge, the referee should communicate it to the player, without asking for a roll. In this game, a roll is made only for situations of risk or uncertainty of the outcome of a direct action.
 
 -   If an action is impossible, the referee simply declares it so by explaining why and describing the possible alternatives to the player.
@@ -302,7 +304,7 @@ In all other cases, the action is automatically successful.
 When a character attempts an action with significant risk, the player rolls a skill die to determine the outcome. The default is a d6.
 
 -   If the character has applicable skills or talents, they roll a bigger die like d8 or d10 to represent competence.
--   Conversely, if *hindered* by injuries or obstacles may warrant a smaller die like d4 to show impairment.
+-   Conversely, if *hindered* by injuries or obstacles, a character may roll a smaller die like d4 to show impairment.
 
 The player can also roll bonus dice based on circumstances:
 
@@ -323,7 +325,7 @@ Characters can carry as many possessions as reasonably fits their physical capac
 
 However, if a character loads themselves down with multiple overly bulky or heavy items, it may hinder their ability to move and act freely at times. For instance, carrying a large shield, a two-handed weapon, and a bulging sack of gear may make it difficult to squeeze through narrow spaces or balance while climbing.
 
-In such cases, the referee will inform the player that their character's encumbrance is \_hindering \_their movement or dexterity in the current situation. The player can then decide to temporarily set down some of their carried items to proceed unfettered, stowing the extra gear nearby to be retrieved later. Or they may opt to continue carrying everything, accepting additional challenges or risks to their intended actions.
+In such cases, the referee will inform the player that their character's encumbrance is *hindering* their movement or dexterity in the current situation. The player can then decide to temporarily set down some of their carried items to proceed unfettered, stowing the extra gear nearby to be retrieved later. Or they may opt to continue carrying everything, accepting additional challenges or risks to their intended actions.
 
 ## Advancement
 
@@ -366,7 +368,7 @@ The referee should present dilemmas and challenges without pre-planned solutions
 
 To give everyone screen time, the referee checks in with each player in turn.
 
-To inject randomness and chaos, the referee can occasionally test for bad luck by rolling a die - a 1-2 means trouble occurs, like running out of ammo at a bad time or stumbling into patrolling guards. A 3-4 indicates signs of impending trouble.
+When careful play has kept the dice quiet for a while, test for bad luck to restore external input: roll a die — 1–2 means trouble surfaces (a patrol changes route, a contact gets nervous, a resource runs out), 3–4 means signs of trouble ahead. Before a session of low-profile play, establish at least one ambient pressure (a suspicion level, a deadline, a finite resource) so the bad luck check has something concrete to trigger.
 
 When the written rules don't adequately cover a situation, the referee improvises rulings in the moment to keep the game moving. If any rulings seem unsatisfactory, the group should discuss them on a break and revise them collaboratively.
 
@@ -374,107 +376,114 @@ The referee portrays the world and inhabitants surrounding the player characters
 
 ## Playing Solo
 
-In a solo role-playing game, use these steps to guide your scenes:
+*Frontier: Beyond Sol* can be played alone, without a Referee. You control a single character navigating the interstellar frontier, and a set of oracles takes the Referee's place — answering questions, introducing complications, and keeping the fiction honest when you can't answer for yourself.
 
-1.  **Set Expectations:** Think about your character's traits, goals, and motivations. Picture their action and how the game world might respond.
-2.  **Test Expectations:** If you're unsure how the world reacts, ask the oracle a "Yes" or "No" question to gauge possible outcomes—advantages or setbacks.
-3.  **Interpret the Outcome:** Compare the oracle's answer to your expectations. If it matches, proceed as planned. If it doesn't, think about how the unexpected result could shift the scene or story.
+The tools below work as a cycle: The Loop tells you when to roll and how to read outcomes; the Risk Oracle gauges how much control you have before you act; the Question Oracle resolves anything off-screen or outside your character's direct influence; and Sparks give you a prompt when you need a new direction.
 
-Testing your assumptions keeps the game engaging and opens up fresh story possibilities.
+### The Loop
 
-When deciding outcomes for actions beyond your character's control or answering questions about the game world or NPC (Non-Player Character) reactions, try one of these methods:
+Each time your character acts, go through these steps:
 
-1.  **Draw a Conclusion:** Choose the answer that’s the most interesting or logical.
-2.  **Ask a Closed Question:** Estimate the odds of a "Yes," then roll on the table below for the answer.
-3.  **Choose Between Two Options:** Imagine two possible outcomes, mark one as "likely," and roll to see if it’s true. If not, go with the other option.
-4.  **Spark an Idea:** Brainstorm or use a random prompt.
+1.  **Declare your action.** What are you doing, and what do you want to happen?
+2.  **Assess the situation.** Use the *Risk Oracle* to read how much is at stake.
+3.  **Roll if needed.** If the Risk Oracle says there's friction or volatility, make your standard roll. Otherwise, it just happens.
+4.  **Interpret the outcome.** Let the result shape the fiction. If you need to know how the world or an NPC responds, use the *Question Oracle*.
 
-### Asking Questions
+------------------------------------------------------------------------
 
-For closed questions (with a "Yes" or "No" answer), follow these steps:
+### Risk Oracle
 
-1.  Roll a die based on the likelihood:
+Before your character acts, roll to assess how much control you have over the situation.
 
-| Likelihood    | Die to Roll |
-|---------------|-------------|
-| Very Unlikely | 1d4         |
-| Unlikely      | 1d6         |
-| Uncertain     | 1d6         |
-| Likely        | 1d10        |
-| Very Likely   | 1d12        |
+| Situation   | Die |
+|-------------|-----|
+| Chaotic     | d4  |
+| Precarious  | d6  |
+| Manageable  | d8  |
+| Predictable | d10 |
+| Stable      | d12 |
 
-2.  Interpret the roll:
+Interpret the result:
 
-    -   **1-2 No, and...**: What you expected doesn’t happen, and things get worse.
-    -   **3-4 Yes, but...**: What you expected happens, but with a complication.
-    -   **5+ Yes, and...**: What you expected happens, plus something even better!
+-   **1-2 — Volatile:** The situation is unstable. Make your standard roll, and failure hits hard.
+-   **3-4 — Friction:** Something could go wrong. Make your standard roll.
+-   **5+ — Clean:** The situation is in hand. No roll needed — it happens.
 
-3.  Think about the answer in the context of your question and the situation. Does it fit? Does it inspire you?
+------------------------------------------------------------------------
 
-4.  If you’ve got your answer, great! Play it out. If you need more details, use the Sparks tables for inspiration.
+### Question Oracle
 
-5.  If you’re still stuck, try rolling again, exploring a different Spark, or trust your instincts to move forward.
+When the outcome isn't about what your character *does* — NPC reactions, world states, things off-screen — ask a yes/no question and roll based on the odds.
 
-For open-ended questions, skip the oracle and roll directly on the Sparks tables. Let the results guide your imagination.
+| Likelihood     | Die |
+|----------------|-----|
+| Very Unlikely  | d4  |
+| Unlikely       | d6  |
+| Likely         | d8  |
+| Very Likely    | d10 |
+| Almost Certain | d12 |
+
+Interpret the result:
+
+-   **1-2 — No, and…** It doesn't happen, and things get worse.
+-   **3-4 — Yes, but…** It happens, but with a complication.
+-   **5+ — Yes, and…** It happens, and something else opens up.
+
+------------------------------------------------------------------------
 
 ### Sparks
 
-Use these tables to spark adventure ideas for *Frontier: Beyond Sol*. Combine an Action with a Theme to generate prompts like:
-
--   **"Investigate a signal in an uncharted star system."**
--   **"Defend an outpost from a hostile faction."**
--   **"Chart a stargate route through a debris field."**
--   **"Retrieve an ancient alien artifact buried in a ruin."**
+When you need a fresh angle or you're stuck, combine an Action and a Theme to generate a prompt.
 
 #### Action
 
-\| D20 \| Action \|  
-\|------\|---------------\|  
-\| 1 \| Chart \|  
-\| 2 \| Protect \|  
-\| 3 \| Explore \|  
-\| 4 \| Negotiate \|  
-\| 5 \| Retrieve \|  
-\| 6 \| Investigate \|  
-\| 7 \| Survey \|  
-\| 8 \| Defend \|  
-\| 9 \| Salvage \|  
-\| 10 \| Liberate \|  
-\| 11 \| Analyze \|  
-\| 12 \| Stop \|  
-\| 13 \| Escort \|  
-\| 14 \| Harvest \|  
-\| 15 \| Repair \|  
-\| 16 \| Decode \|  
-\| 17 \| Rebuild \|  
-\| 18 \| Discover \|  
-\| 19 \| Conceal \|  
-\| 20 \| Lead \|
+| D20 | Action      |
+|-----|-------------|
+| 1   | Investigate |
+| 2   | Rescue      |
+| 3   | Sabotage    |
+| 4   | Pursue      |
+| 5   | Retrieve    |
+| 6   | Expose      |
+| 7   | Defend      |
+| 8   | Infiltrate  |
+| 9   | Negotiate   |
+| 10  | Escape      |
+| 11  | Salvage     |
+| 12  | Destroy     |
+| 13  | Protect     |
+| 14  | Surveil     |
+| 15  | Confront    |
+| 16  | Transport   |
+| 17  | Warn        |
+| 18  | Steal       |
+| 19  | Betray      |
+| 20  | Liberate    |
 
 #### Theme
 
-\| D20 \| Theme \|  
-\|------\|------------------\|  
-\| 1 \| Stargate \|  
-\| 2 \| Colony \|  
-\| 3 \| Alien Ruin \|  
-\| 4 \| Relic \|  
-\| 5 \| Void \|  
-\| 6 \| Signal \|  
-\| 7 \| Anomaly \|  
-\| 8 \| Conflict \|  
-\| 9 \| Artifact \|  
-\| 10 \| Radiation \|  
-\| 11 \| Ecosystem \|  
-\| 12 \| Mutation \|  
-\| 13 \| Frontier \|  
-\| 14 \| Debris Field \|  
-\| 15 \| Outpost \|  
-\| 16 \| Secret \|  
-\| 17 \| Energy Source \|  
-\| 18 \| Distress Beacon \|  
-\| 19 \| Faction \|  
-\| 20 \| Shadow \|
+| D20 | Theme      |
+|-----|------------|
+| 1   | Wreck      |
+| 2   | Fugitive   |
+| 3   | Conspiracy |
+| 4   | Data       |
+| 5   | Agent      |
+| 6   | Artifact   |
+| 7   | Outpost    |
+| 8   | Syndicate  |
+| 9   | Contact    |
+| 10  | Cargo      |
+| 11  | Survivor   |
+| 12  | Rival      |
+| 13  | Anomaly    |
+| 14  | Ecosystem  |
+| 15  | Technology |
+| 16  | Mutiny     |
+| 17  | Ruin       |
+| 18  | Vacuum     |
+| 19  | Signal     |
+| 20  | Precursor  |
 
 # Interstellar Travel
 
@@ -500,7 +509,7 @@ Characters skilled in astrogation, astrometrics and hyperspace physics will bett
 
 ### Random Interstellar Encounter Table
 
-Roll 2d6 to determine a random encounter:
+Roll 1d12 to determine a random encounter:
 
 1.  **Spatial Anomaly:** The ship encounters strange phenomena like subspace eddies, gravitational lensing or radiation spikes requiring emergency navigation.
 
@@ -523,6 +532,8 @@ Roll 2d6 to determine a random encounter:
 10. **Celestial Phenomenon:** A rare stellar event like a pulsar flare or comet's passing presents awe or research opportunities.
 
 11. **Alien Artifact:** The ship's sensors detect a drifting alien artifact of potentially immense value or power.
+
+12. **Military Patrol:** A Sol Union or frontier patrol vessel hails the ship, requesting transponder codes and cargo manifests.
 
 Interstellar voyages demand exceptional astrogation skills, quick reactions and courage to overcome navigation perils and strange encounters lurking in the cosmic void between stars.
 
@@ -555,7 +566,7 @@ Operating a jumpgate requires astronomical quantities of exotic matter and antim
 
 Key limitations:
 
--   Only a few dozen jumpgates exist across inhabited space
+-   Gate connections link roughly a dozen core systems; the remaining 85+ systems in the Union rely on conventional travel
 -   Maximum range is 15 light-years between connected gates
 -   Transits are effectively instantaneous but consume huge resources
 -   Undiscovered systems lack gate access entirely
@@ -718,7 +729,7 @@ This section showcases the diverse classes of starships designed to face the myr
 
 #### Pioneer Vessel: Celestial Nomad
 
-Small, agile ships designed for rapid exploration of new worlds in frontier regions. Equipped for short surface missions and orbit-based reconnaissance.
+Large ship designed for long-duration interstellar voyages, equipped for the exploration of new star systems and resource mapping. Functions as both a mobile laboratory and an advanced base for exploration.
 
 -   **COMMS:** Advanced Radio
 -   **EMBARKATION:** Heavy Shuttles
@@ -1133,7 +1144,7 @@ From a fragile beginning to an expanding web of stargates and alliances, this er
 -   **2125**: The first "wormhole engine" is successfully experimented with, opening a temporary gateway to Alpha Centauri on an unmanned mission.
 -   **2128**: The first manned voyage to Alpha Centauri marks an era of interstellar exploration, even though the energy required and dangers initially limit the use of the technology.
 -   **2140**: Interstellar exploration slowly expands due to technical challenges and high costs. Humanity establishes scientific outposts in nearby star systems such as Sirius and Tau Ceti.
--   **2155**: The Sol Unification Treaty is signed, the result of decades of negotiations, marking the formal union of major powers and interplanetary blocks into a single governmental entity: the **Sol Union**.
+-   **2155**: The Sol Unification Treaty is signed, the result of decades of negotiations, marking the formal union of major powers and interplanetary blocs into a single governmental entity: the **Sol Union**.
 -   **2160**: The first stable "portal" is constructed between Sol and Alpha Centauri, facilitating travel and interstellar transport, but at a still high energy cost.
 
 ### 2161-2294: Expansion and Colonization
@@ -1142,21 +1153,22 @@ From a fragile beginning to an expanding web of stargates and alliances, this er
 -   **2200**: Human colonization extends to numerous star systems. The challenges of living on alien worlds lead to new scientific and technological discoveries.
 -   **2220**: The first non-intelligent alien life forms are discovered, sparking excitement and debates on extraterrestrial biology and conservation.
 -   **2250**: Despite the absence of intelligent extraterrestrial life, humanity learns much from alien animal and plant life forms, adapting technologies for the exploration and colonization of alien environments.
+-   **2285**: Nova Terra in the Chara system is colonized, the first world beyond Sol considered truly Earth-like (gravity 0.98g, atmosphere 95% compatible). It grows quickly into the dominant cultural and scientific hub of the frontier worlds.
 
 ### 2290: The Systems Conflict
 
--   **2290**: Tensions between "frontier" systems, desiring greater autonomy, and the Union, determined to maintain control, explode into a brief but intense interstellar conflict. Dissatisfaction with trade restrictions and resource control turns into armed action, culminating in a war that highlights deep political and cultural divisions between "core" and "frontier" worlds. The conflict ends with a treaty granting more autonomy to frontier systems, marking a new beginning for interstellar cooperation and establishing a balance between unity and independence within humanity scattered among the stars.
+-   **2290**: Tensions between "frontier" systems, desiring greater autonomy, and the Union, determined to maintain control, explode into a brief but intense interstellar conflict. Dissatisfaction with trade restrictions and gate access turns into armed action; frontier systems blockade the Alpha Centauri gate, the Union responds with fleet. The war lasts six months with roughly 5,000 deaths. It ends with the **Frontier Autonomy Accord**: frontier systems gain 60% voting power and gate tolls are reduced to 4% of cargo value.
 
 ### 2295: The Discovery That Changes Everything
 
--   **2295**: The discovery of ancient alien ruins on Delta Pavonis reveals that humanity is not alone in the universe, even though the creators of such structures have long disappeared. This event marks a turning point, pushing humanity to reflect on its place in the universe and to intensify interstellar exploration in search of other lost civilizations.
+-   **2295**: The discovery of ancient alien ruins on Delta Pavonis reveals that humanity is not alone in the universe, even though the creators have long disappeared. The 300-meter stone structures are estimated at 50,000 years old. This event marks a turning point, pushing humanity to reflect on its place in the universe and to intensify interstellar exploration in search of other lost civilizations.
+-   **2297**: The first Precursor artifact is recovered — a metal alloy unknown to human science.
 
 ### 2296-2399: Stabilization and Integration
 
 -   **2300-2380**: Stabilization of interstellar relations and integration of frontier systems into the economy and culture of the Sol Union.
--   **2385**: Discovery of a second site of alien ruins on Kappa Ceti, further strengthening interest and efforts in interstellar exploration.
--   **2390**: The colonization of Nova Terra in the Chara system becomes a galactic significance event. Nova Terra's similarity to Earth itself makes it an ideal "bridge" for future human expansions in the galaxy. This planet, characterized by an environment extremely suitable for human life, quickly becomes a hub for research, innovation, and culture, marking the beginning of a new era of prosperity and interstellar cooperation.
--   **2400**: Humanity is well established in dozens of star systems, with a "stargate" network connecting "core" and "frontier" worlds. Ancient alien ruins fuel a new era of exploration, with the hope of discovering more about galactic history and perhaps, one day, meeting other intelligent life forms.
+-   **2385**: Discovery of a second ruin site on Kappa Ceti: a 15-km complex estimated at 1 million years old, far older than the Delta Pavonis structures. This intensifies the search for Precursor history.
+-   **2400**: Humanity is established across over 85 star systems, with a total population of 5 billion (4 billion interstellar). The Sol Union controls roughly 50% of jumpgates, the Frontier Coalition 30%, independent systems 20%. Ancient alien ruins fuel ongoing exploration, with the hope of uncovering more about galactic history.
 
 ## Major Factions
 
@@ -1338,8 +1350,8 @@ The Sol Union is continuously evolving to face the challenges of the future, ada
 
 ## Chronology of Planetary Colonization
 
-1.  **Alpha Centauri A (Alpha)**: Second decade of the 22nd century.
-2.  **Alpha Centauri B (Aqua)**: Third decade of the 22nd century.
+1.  **Alpha Centauri A (Alpha)**: Mid-22nd century.
+2.  **Alpha Centauri B (Aqua)**: Late 22nd century.
 3.  **Tau Ceti (Tau Ceti Prime)**: Mid-22nd century.
 4.  **40 Eridani A (Eridani Aqua)**: End of the 22nd century.
 5.  **Ran (Epsilon Eridani) (Frost)**: First half of the 23rd century.
@@ -1396,7 +1408,7 @@ The Sol Union is continuously evolving to face the challenges of the future, ada
 
 ### Habitability and Colonization:
 
--   **Colonization History:** Colonized in the second decade of the 22nd century, Centauri Prime has become a living laboratory for human adaptation to extrasolar Earth-like worlds.
+-   **Colonization History:** Colonized in the mid-22nd century, Centauri Prime has become a living laboratory for human adaptation to extrasolar Earth-like worlds.
 -   **Current Population:** Approximately 500,000, focused on biodomes and protected settlements to adapt to the unique atmospheric conditions.
 -   **Main Settlements:** Nova Harmonia (scientific and cultural capital), Port Astra (main space port), Biome Haven (biodiversity research center).
 -   **Economy:** Based on scientific research, eco-tourism, adapted agriculture, and interstellar trade.
@@ -1433,7 +1445,7 @@ The Sol Union is continuously evolving to face the challenges of the future, ada
 
 ### Habitability and Colonization:
 
--   **Colonization History:** Aqua was colonized in the third decade of the 22nd century, attracting communities oriented towards marine research and sustainable development.
+-   **Colonization History:** Aqua was colonized in the late 22nd century, attracting communities oriented towards marine research and sustainable development.
 -   **Current Population:** Approximately 3 million, with human presence concentrated on floating platforms and archipelagos.
 -   **Main Settlements:** Marina Haven (political and marine research capital), Archipelago City (residential and tourist community), Deepwater (industrial center for marine resource extraction).
 -   **Economy:** Dominated by ocean exploration, marine biotechnologies, tourism, and the cultivation of algae for food and biofuels.
@@ -1514,7 +1526,7 @@ The Sol Union is continuously evolving to face the challenges of the future, ada
 
 ### Habitability and Colonization:
 
--   **Colonization History:** Colonized in the early 22nd century, Eridani Aqua attracted a variety of colonists due to its favorable conditions for life and agriculture.
+-   **Colonization History:** Colonized in the late 22nd century, Eridani Aqua attracted a variety of colonists due to its favorable conditions for life and agriculture.
 -   **Current Population:** About 2 million, largely distributed along the coasts and islands.
 -   **Main Settlements:** New Port Eridani (commercial and cultural capital), Hydro Haven (sustainable development and research center), Aquarius City (tourism hub and spaceport).
 -   **Economy:** Strongly linked to aquaculture, tourism, scientific research, and renewable energy production.
@@ -2119,7 +2131,7 @@ Equipped with a range of interchangeable modules, the Orion can be configured fo
 | **Armaments**      | Low-level laser defense systems for space debris and small threats, security drones for protection against space piracy                           |
 | **Defenses**       | Basic energy shield for environmental protection, composite reactive armor for impact resistance and micro-meteorites                             |
 
-Thanks to its standard FTL engines, the Orion Heavy Lifter can carry out interstellar journeys with massive loads, maintaining competitive transport times. Its ionic thrusters ensure precision in maneuvers near space stations, stargates, and asteroid fields.
+Thanks to its standard FTL engines, the Orion Heavy Lifter can carry out interstellar journeys with massive loads, maintaining competitive transport times. Its ionic thrusters ensure precision in maneuvers near space stations, jumpgates, and asteroid fields.
 
 Although its primary function is not combat, the Orion is equipped with laser defense systems to neutralize threats like space debris and small asteroids. Security drones can be deployed for deterrence against piracy attempts.
 
@@ -2253,7 +2265,7 @@ As it is not a combat vessel, the Lifeline Guardian does not have armaments. How
 
 With its commitment to providing excellent medical care and its leading role in space medical research, the Lifeline Guardian has saved countless lives and improved the quality of healthcare available in space communities.
 
-# Sistems Details
+# Systems Details
 
 Each solar system is different, with planets moving in unique patterns around their stars. In this section, we'll explore the star systems where humans are starting to venture. These systems are incredibly varied - you'll find everything from scorching hot planets to frozen ice worlds, and from Mars-like deserts to the rare planets that might actually support life. By studying these space environments, we learn about places where we might one day live, while better understanding where we fit in this massive universe.
 
