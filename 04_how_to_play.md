@@ -1,5 +1,7 @@
 # How to play
 
+*Orion: Beyond the Frontier* is built for mission-based play. Each session centers on a specific job or objective with a clear scope. This keeps the system's risk-driven resolution working as intended. The rules are calibrated for situations where something is at stake, and a mission frame ensures something usually is. Extended low-pressure stretches work best as transitions between missions, not as the main mode of play.
+
 The role of the Referee is to control the game universe: he describes situations, NPCs, and their reactions to the PCs' actions. He or she should be as clear as possible about the conditions of the context in which the characters are immersed: if there is a reasonable certainty that the character has access to a piece of information or knowledge, the referee should communicate it to the player, without asking for a roll. In this game, a roll is made only for situations of risk or uncertainty of the outcome of a direct action.
 
 - If an action is impossible, the referee simply declares it so by explaining why and describing the possible alternatives to the player.
@@ -75,112 +77,123 @@ The referee should present dilemmas and challenges without pre-planned solutions
 
 To give everyone screen time, the referee checks in with each player in turn.
 
-To inject randomness and chaos, the referee can occasionally test for bad luck by rolling a die - a 1-2 means trouble occurs, like running out of ammo at a bad time or stumbling into patrolling guards. A 3-4 indicates signs of impending trouble.
+When careful play has kept the dice quiet for a while, test for bad luck to restore external input: roll a die — 1–2 means trouble surfaces (a patrol changes route, a contact gets nervous, a resource runs out), 3–4 means signs of trouble ahead. Before a session of low-profile play, establish at least one ambient pressure (a suspicion level, a deadline, a finite resource) so the bad luck check has something concrete to trigger.
 
 When the written rules don't adequately cover a situation, the referee improvises rulings in the moment to keep the game moving. If any rulings seem unsatisfactory, the group should discuss them on a break and revise them collaboratively. 
 
 The referee portrays the world and inhabitants surrounding the player characters. 
+
 ## Playing Solo
 
-In a solo role-playing game, use these steps to guide your scenes:
+*Orion: Beyond the Frontier* works as a solo game. You play your character; two oracles cover everything else.
 
-1. **Set Expectations:** Think about your character's traits, goals, and motivations. Picture their action and how the game world might respond.  
-2. **Test Expectations:** If you're unsure how the world reacts, ask the oracle a "Yes" or "No" question to gauge possible outcomes: advantages or setbacks.  
-3. **Interpret the Outcome:** Compare the oracle's answer to your expectations. If it matches, proceed as planned. If it doesn't, think about how the unexpected result could shift the scene or story.  
+The **Risk Oracle** tells you how much control you have before you act — whether the situation is stable enough to skip a roll or volatile enough to make failure hit hard. The **Question Oracle** answers yes/no questions about the world: NPC reactions, off-screen events, things your character can't directly observe. Use the Sparks tables when you need a fresh direction and nothing comes to mind.
 
+You don't need to use all three tools every scene. Most moments resolve through the Risk Oracle alone. The Question Oracle comes in when the fiction raises a question your character can't answer by acting. Sparks are a last resort, not a crutch.
 
-When deciding outcomes for actions beyond your character's control or answering questions about the game world or NPC (Non-Player Character) reactions, try one of these methods:
+### The Loop
 
-1. **Draw a Conclusion:** Choose the answer that’s the most interesting or logical.  
-2. **Ask a Closed Question:** Estimate the odds of a "Yes," then roll on the table below for the answer.  
-3. **Choose Between Two Options:** Imagine two possible outcomes, mark one as "likely," and roll to see if it’s true. If not, go with the other option.  
-4. **Spark an Idea:** Brainstorm or use a random prompt.
+Each time your character acts, go through these steps:
 
-### Asking Questions
+1. **Declare your action.** What are you doing, and what do you want to happen?
+2. **Assess the situation.** Use the *Risk Oracle* to read how much is at stake.
+3. **Roll if needed.** If the Risk Oracle says there's friction or volatility, make your standard roll. Otherwise, it just happens.
+4. **Interpret the outcome.** Let the result shape the fiction. If you need to know how the world or an NPC responds, use the *Question Oracle*.
 
-For closed questions (with a "Yes" or "No" answer), follow these steps:
+---
 
-1. Roll a die based on the likelihood:
+### Risk Oracle
 
-| Likelihood         | Die to Roll |
-|--------------------|-------------|
-| Very Unlikely      | 1d4         |
-| Unlikely           | 1d6         |
-| Uncertain          | 1d8         |
-| Likely             | 1d10        |
-| Very Likely        | 1d12        |
+Before your character acts, roll to assess how much control you have over the situation.
 
-2. Interpret the roll:  
-   - **1-2 No, and...**: What you expected doesn’t happen, and things get worse.  
-   - **3-4 Yes, but...**: What you expected happens, but with a complication.  
-   - **5+ Yes, and...**: What you expected happens, plus something even better!  
+| Situation    | Die  |
+|--------------|------|
+| Chaotic      | d4   |
+| Precarious   | d6   |
+| Manageable   | d8   |
+| Predictable  | d10  |
+| Stable       | d12  |
 
-3. Think about the answer in the context of your question and the situation. Does it fit? Does it inspire you?  
-4. If you’ve got your answer, great! Play it out. If you need more details, use the Sparks tables for inspiration.  
-5. If you’re still stuck, try rolling again, exploring a different Spark, or trust your instincts to move forward.
+Interpret the result:
 
-For open-ended questions, skip the oracle and roll directly on the Sparks tables.
+- **1-2 — Volatile:** The situation is unstable. Make your standard roll, and failure hits hard.
+- **3-4 — Friction:** Something could go wrong. Make your standard roll.
+- **5+ — Clean:** The situation is in hand. No roll needed — it happens.
+
+---
+
+### Question Oracle
+
+When the outcome isn't about what your character *does* — NPC reactions, world states, things off-screen — ask a yes/no question and roll based on the odds.
+
+| Likelihood     | Die  |
+|----------------|------|
+| Very Unlikely  | d4   |
+| Unlikely       | d6   |
+| Likely         | d8   |
+| Very Likely    | d10  |
+| Almost Certain | d12  |
+
+Interpret the result:
+
+- **1-2 — No, and…** It doesn't happen, and things get worse.
+- **3-4 — Yes, but…** It happens, but with a complication.
+- **5+ — Yes, and…** It happens, and something else opens up.
+
+---
 
 ### Sparks
 
-Use these tables to spark adventure ideas for *Orion: Beyond the Frontier*. Combine an Action with a Theme to generate prompts like:  
+When you need a fresh angle or you're stuck, combine an Action and a Theme to generate a prompt.
 
-- **"Investigate a signal in an uncharted star system."**  
-- **"Defend an outpost from a hostile faction."**  
-- **"Chart a jumpgate route through a debris field."**  
-- **"Retrieve an ancient alien artifact buried in a ruin."**  
+#### Action
 
+| D20 | Action      |
+|-----|-------------|
+| 1   | Investigate |
+| 2   | Rescue      |
+| 3   | Sabotage    |
+| 4   | Pursue      |
+| 5   | Retrieve    |
+| 6   | Expose      |
+| 7   | Defend      |
+| 8   | Infiltrate  |
+| 9   | Negotiate   |
+| 10  | Escape      |
+| 11  | Salvage     |
+| 12  | Decrypt     |
+| 13  | Protect     |
+| 14  | Surveil     |
+| 15  | Confront    |
+| 16  | Transport   |
+| 17  | Warn        |
+| 18  | Steal       |
+| 19  | Betray      |
+| 20  | Liberate    |
 
-### Sparks Tables
+#### Theme
 
-#### **Action**  
-
-| D20 | Action        |  
-|------|---------------|  
-| 1    | Chart         |  
-| 2    | Protect       |  
-| 3    | Explore       |  
-| 4    | Negotiate     |  
-| 5    | Retrieve      |  
-| 6    | Investigate   |  
-| 7    | Survey        |  
-| 8    | Defend        |  
-| 9    | Salvage       |  
-| 10   | Liberate      |  
-| 11   | Analyze       |  
-| 12   | Stop          |  
-| 13   | Escort        |  
-| 14   | Harvest       |  
-| 15   | Repair        |  
-| 16   | Decode        |  
-| 17   | Rebuild       |  
-| 18   | Uncover       |  
-| 19   | Forge         |  
-| 20   | Infiltrate    |  
-
-#### **Theme**  
-
-| D20 | Theme            |  
-|------|------------------|  
-| 1    | Jumpgate         |  
-| 2    | Colony           |  
-| 3    | Precursor Ruin   |  
-| 4    | Ancient Relic    |  
-| 5    | Void Rift        |  
-| 6    | Mysterious Signal|  
-| 7    | Cosmic Anomaly   |  
-| 8    | Faction Conflict |  
-| 9    | Alien Artifact   |  
-| 10   | Radiation Zone   |  
-| 11   | Bioengineered Ecosystem |  
-| 12   | Genetic Mutation |  
-| 13   | Frontier Outpost |  
-| 14   | Wreckage Field   |  
-| 15   | Hidden Outpost   |  
-| 16   | Cryptic Secret   |  
-| 17   | Exotic Energy Source |  
-| 18   | Distress Call    |  
-| 19   | Rogue AI         |  
-| 20   | Shadow Entity    |  
+| D20 | Theme        |
+|-----|--------------|
+| 1   | Ruin         |
+| 2   | Jumpgate     |
+| 3   | Resonant     |
+| 4   | Megastructure|
+| 5   | Shard        |
+| 6   | Eclipse      |
+| 7   | Varnon       |
+| 8   | Rivalry      |
+| 9   | Upload       |
+| 10  | Contract     |
+| 11  | Zynthari     |
+| 12  | Anomaly      |
+| 13  | Colony       |
+| 14  | Alien        |
+| 15  | Contraband   |
+| 16  | Transhuman   |
+| 17  | Scar         |
+| 18  | Tevkar       |
+| 19  | Void         |
+| 20  | Derelict     |
 
 
