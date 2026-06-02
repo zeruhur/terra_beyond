@@ -2,8 +2,8 @@
 
 ## Chronology of Planetary Colonization
 
-1. **Alpha Centauri A (Alpha)**: Second decade of the 22nd century.
-2. **Alpha Centauri B (Aqua)**: Third decade of the 22nd century.
+1. **Alpha Centauri A (Alpha)**: Mid-22nd century.
+2. **Alpha Centauri B (Aqua)**: Late 22nd century.
 3. **Tau Ceti (Tau Ceti Prime)**: Mid-22nd century.
 4. **40 Eridani A (Eridani Aqua)**: End of the 22nd century.
 5. **Ran (Epsilon Eridani) (Frost)**: First half of the 23rd century.
@@ -59,7 +59,7 @@
 - **Atmosphere:** The atmospheric pressure is about 0.272 Earth atmospheres with a composition of 53.1% nitrogen, 46.4% oxygen, and traces of argon.
 
 ### Habitability and Colonization:
-- **Colonization History:** Colonized in the second decade of the 22nd century, Centauri Prime has become a living laboratory for human adaptation to extrasolar Earth-like worlds.
+- **Colonization History:** Colonized in the mid-22nd century, Centauri Prime has become a living laboratory for human adaptation to extrasolar Earth-like worlds.
 - **Current Population:** Approximately 500,000, focused on biodomes and protected settlements to adapt to the unique atmospheric conditions.
 - **Main Settlements:** Nova Harmonia (scientific and cultural capital), Port Astra (main space port), Biome Haven (biodiversity research center).
 - **Economy:** Based on scientific research, eco-tourism, adapted agriculture, and interstellar trade.
@@ -93,7 +93,7 @@
 - **Atmosphere:** Breathable, with a higher atmospheric pressure than Earth, composed of 79.7% nitrogen and 19.5% oxygen.
 
 ### Habitability and Colonization:
-- **Colonization History:** Aqua was colonized in the third decade of the 22nd century, attracting communities oriented towards marine research and sustainable development.
+- **Colonization History:** Aqua was colonized in the late 22nd century, attracting communities oriented towards marine research and sustainable development.
 - **Current Population:** Approximately 3 million, with human presence concentrated on floating platforms and archipelagos.
 - **Main Settlements:** Marina Haven (political and marine research capital), Archipelago City (residential and tourist community), Deepwater (industrial center for marine resource extraction).
 - **Economy:** Dominated by ocean exploration, marine biotechnologies, tourism, and the cultivation of algae for food and biofuels.
@@ -167,13 +167,13 @@
 - **Atmosphere:** Primarily composed of nitrogen (55.5%) and oxygen (44.1%), with an atmospheric pressure slightly lower than Earth's.
 
 ### Habitability and Colonization:
-- **Colonization History:** Colonized in the early 22nd century, Eridani Aqua attracted a variety of colonists due to its favorable conditions for life and agriculture.
+- **Colonization History:** Colonized in the late 22nd century, Eridani Aqua attracted a variety of colonists due to its favorable conditions for life and agriculture.
 - **Current Population:** About 2 million, largely distributed along the coasts and islands.
 - **Main Settlements:** New Port Eridani (commercial and cultural capital), Hydro Haven (sustainable development and research center), Aquarius City (tourism hub and spaceport).
 - **Economy:** Strongly linked to aquaculture, tourism, scientific research, and renewable energy production.
 - **Culture and Society:** Society is characterized by a deep respect for the natural environment, with a strong emphasis on sustainability and marine conservation.
 - **Relations with the Sol Union:** Eridani Aqua plays a strategic role in the Union as a marine research center and as a model for sustainable colonization.
-- **Interesting Fact:** The "Lightfalls," a unique natural phenomenon due to the refraction of light through the high atmosphere, create vibrant light displays visible from many parts of the planet.
+- **Interesting Fact:** The "Lightfalls," a unique natural phenomenon due to the refraction of light through the high atmosphere, create light displays visible from many parts of the planet.
 
 ### Notes on Fauna and Flora:
 - **Notable Species:** "Luminous Jellyfish," capable of illuminating the marine depths with their bioluminescence; "Singing Trees," whose leaves emit harmonious melodies when struck by oceanic winds.
@@ -303,12 +303,12 @@
 - **Atmosphere:** Rich in nitrogen (92.3%) and oxygen (7.5%), with a significantly higher atmospheric pressure than Earth, making the air dense but breathable.
 
 ### Habitability and Colonization:
-- **Colonization History:** Chara Terra was colonized in the late 23rd century, attracting a wide variety of colonists due to its Earth-like conditions and potential for sustainable development.
+- **Colonization History:** Nova Terra was colonized in the late 23rd century, attracting a wide variety of colonists due to its Earth-like conditions and potential for sustainable development.
 - **Current Population:** About 5 million, with a homogeneous distribution between urban and rural areas.
 - **Main Settlements:** New Hope (political and commercial capital), Green Valleys (key agricultural region), Blue Horizon (marine research center and tourist hub).
 - **Economy:** Based on agriculture, fishing, scientific research, and tourism, exploiting the planet's rich biodiversity and natural resources.
 - **Culture and Society:** Life on Nova Terra is strongly oriented towards sustainability and environmental conservation, with a great respect for the natural environment and the harmonious integration of advanced technologies.
-- **Relations with the Sol Union:** An important contributor to the science and economy of the Sol Union, Chara Terra is an example of successful colonization and self-sufficiency.
+- **Relations with the Sol Union:** An important contributor to the science and economy of the Sol Union, Nova Terra is an example of successful colonization and self-sufficiency.
 - **Interesting Fact:** "The Nights of Light," a series of nighttime events celebrating the culture, art, and science of the planet, utilize the dense atmosphere to create unique light shows.
 
 ### Notes on Fauna and Flora:
@@ -346,7 +346,7 @@
 - **Interesting Fact:** "The Solstice Festival," celebrating the longest day of the year on Hydra, is known for its spectacular light and color celebrations.
 
 ### Notes on Fauna and Flora:
-- **Notable Species:** "Flying Giraffes," creatures that glide through the forest canopies on large membranes; "Sun Flowers," plants that track the sun's movement and glow at night.
+- **Notable Species:** "Canopy Mantas," broad-winged creatures that drift between the forest layers on updrafts, feeding on aerial plankton; "Chorus Reeds," tall aquatic plants whose hollow stems produce harmonic tones in the wind, used by local fauna for navigation.
 - **Conservation and Biodiversity:** Large areas of the planet are protected as nature reserves, with intensive research programs dedicated to protecting Hydra's unique species.
 
 ### Strategic or Scientific Importance:

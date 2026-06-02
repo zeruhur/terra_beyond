@@ -13,7 +13,7 @@ In all other cases, the action is automatically successful.
 When a character attempts an action with significant risk, the player rolls a skill die to determine the outcome. The default is a d6. 
 
 - If the character has applicable skills or talents, they roll a bigger die like d8 or d10 to represent competence. 
-- Conversely, if _hindered_ by injuries or obstacles may warrant a smaller die like d4 to show impairment.
+- Conversely, if _hindered_ by injuries or obstacles, a character may roll a smaller die like d4 to show impairment.
 
 The player can also roll bonus dice based on circumstances:
 
@@ -34,7 +34,7 @@ Characters can carry as many possessions as reasonably fits their physical capac
 
 However, if a character loads themselves down with multiple overly bulky or heavy items, it may hinder their ability to move and act freely at times. For instance, carrying a large shield, a two-handed weapon, and a bulging sack of gear may make it difficult to squeeze through narrow spaces or balance while climbing.
 
-In such cases, the referee will inform the player that their character's encumbrance is _hindering _their movement or dexterity in the current situation. The player can then decide to temporarily set down some of their carried items to proceed unfettered, stowing the extra gear nearby to be retrieved later. Or they may opt to continue carrying everything, accepting additional challenges or risks to their intended actions.
+In such cases, the referee will inform the player that their character's encumbrance is _hindering_ their movement or dexterity in the current situation. The player can then decide to temporarily set down some of their carried items to proceed unfettered, stowing the extra gear nearby to be retrieved later. Or they may opt to continue carrying everything, accepting additional challenges or risks to their intended actions.
 
 ## Advancement
 
@@ -65,7 +65,7 @@ If a character is killed, the player should introduce a new character as soon as
 
 When adjudicating the effects of injuries or character death, inclusion of the affected player takes priority over adhering to strict realism. The referee should aim to avoid excluding a player from participation due to their character being incapacitated. Workarounds like having the player take temporary control of a supporting character can help keep everyone involved.
 
-The risks of combat and other dangerous activities are an important part of the game's drama and stakes. However, the ultimate goal is for everyone to have fun together. So when serious consequences occur, the referee should guide the narrative in a direction that returns the affected player to active participation in a seamless, collaborative manner.
+The risks of combat and other dangerous activities are an important part of the game's drama and stakes. However, the ultimate goal is for everyone to have fun together. So when serious consequences occur, the referee should guide the narrative in a direction that returns the affected player to active participation in a collaborative manner.
 
 ## Game mastering
 
@@ -75,13 +75,13 @@ To control pacing and safety, the referee can fast-forward through uneventful st
 
 The referee should present dilemmas and challenges without pre-planned solutions, allowing the players to drive the direction of the story through their choices. 
 
-To give everyone screen time, the referee moves the spotlight around, checking in with each player in turn.
+To give everyone screen time, the referee checks in with each player in turn.
 
 To inject randomness and chaos, the referee can occasionally test for bad luck by rolling a die - a 1-2 means trouble occurs, like running out of ammo at a bad time or stumbling into patrolling guards. A 3-4 indicates signs of impending trouble.
 
 When the written rules don't adequately cover a situation, the referee improvises rulings in the moment to keep the game moving. If any rulings seem unsatisfactory, the group should discuss them on a break and revise them collaboratively. 
 
-The referee portrays the world and inhabitants surrounding the player characters. By sharing narrative power while guiding pacing and monitoring safety, the referee enables the group to collectively build an exciting and satisfying story.
+The referee portrays the world and inhabitants surrounding the player characters.
 
 ## Playing Solo
 

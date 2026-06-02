@@ -8,11 +8,11 @@ Zan, her second-in-command, scanned the data streaming on his screen. “Approac
 
 In the dim light of the command deck, Ila, their communications and tech expert, piped up, “Jamming signals ready. We’ll be in and out before they know it.”
 
-Elena nodded, turning to the rest of her crew. “This isn’t just about the tech. It’s about sending a message. We do this right, we could be paving the way for a new era of cooperation — or confrontation.”
+Elena nodded, turning to the rest of her crew. “We do this right, we could be paving the way for a new era of cooperation, or confrontation.”
 
 Tarek, the team's engineer, adjusted his gear, a mix of excitement and focus on his face. “Let’s make sure it’s cooperation then. I didn’t tweak these suits for nothing.”
 
-A soft chuckle ran through the crew, easing the tension. Lian, who had been studying the planet’s atmospheric readings, added, “Remember, we’re not just operatives. We’re ambassadors. Every action reflects on the Sol Union.”
+A soft chuckle ran through the crew, easing the tension. Lian, who had been studying the planet’s atmospheric readings, added, “Remember, we’re ambassadors. Every action reflects on the Sol Union.”
 
 As the *Nimbus* neared the drop point, Elena shared a final glance with her team. “We all know the stakes. Let’s show them what the Sol Union stands for.”
 

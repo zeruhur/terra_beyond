@@ -97,12 +97,12 @@ Space combat can have long-lasting consequences, damaging ship systems and poten
 
 ## Shipyard
 
-This section showcases the diverse classes of starships that ply the cosmic sea, each designed to face the myriad challenges of space travel and the unique demands of their missions. Whether you're delving into the unknown aboard an Explorer, conducting vital research in a Mobile Orbital Laboratory, or defending the frontiers of human space on a Stellar Defender, these ships are your home, your protection, and your means to adventure among the stars. 
+This section showcases the diverse classes of starships designed to face the myriad challenges of space travel and the unique demands of their missions.
 
 ### Interstellar Explorers
 
 #### Pioneer Vessel: Celestial Nomad
-Small, agile ships designed for rapid exploration of new worlds in frontier regions. Equipped for short surface missions and orbit-based reconnaissance.
+Large ship designed for long-duration interstellar voyages, equipped for the exploration of new star systems and resource mapping. Functions as both a mobile laboratory and an advanced base for exploration.
 - **COMMS:** Advanced Radio
 - **EMBARKATION:** Heavy Shuttles
 - **HULL:** Reinforced Alloy
@@ -183,7 +183,7 @@ Acts as a control center for interstellar transit, coordinating traffic through 
 ### Cargo and Mining Vessels
 
 #### Multifunction Space Cargo: Star Mule
-Robust ships for transporting goods across star systems, some specialized for asteroid or planetary mining.
+Sturdy ships for transporting goods across star systems, some specialized for asteroid or planetary mining.
 
 - **COMMS:** Basic Radio
 - **EMBARKATION:** Basic Shuttles
@@ -360,7 +360,7 @@ Compact and agile, designed for deep-space exploration and reconnaissance in new
 - **ARMAMENTS:** Railguns
 
 #### Galactic Probe: Void Seeker
-Unmanned and robust, sent ahead to gather data on uncharted systems or phenomena, paving the way for manned missions.
+Unmanned, sent ahead to gather data on uncharted systems or phenomena before manned missions arrive.
 
 - **COMMS:** Basic
 - **EMBARKATION:** None

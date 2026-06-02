@@ -2,7 +2,7 @@
 
 Interstellar travel in this universe is not only about reaching distant star systems but also about managing resources, calculating travel times through hyperspace corridors or wormholes, and facing unexpected encounters along the journey. The advanced propulsion systems and starships available offer a range of options, each with its own capabilities and limitations. 
 
-As you traverse the vastness of interstellar space, be prepared for the unexpected. Navigation hazards, random anomalies, and dangerous encounters may test your skills and decision-making. Whether negotiating with alien civilizations, repairing hyperdrives, or avoiding cosmic phenomena, your voyages will be filled with peril and wonder.
+As you traverse the vastness of interstellar space, be prepared for the unexpected. Navigation hazards, random anomalies, and dangerous encounters may test your skills and decision-making. Negotiating with alien civilizations, repairing hyperdrives, and avoiding cosmic phenomena are all part of these voyages.
 
 ## Navigation Hazards
 
@@ -22,7 +22,7 @@ Characters skilled in astrogation, astrometrics and hyperspace physics will bett
 
 ### Random Interstellar Encounter Table  
 
-Roll 2d6 to determine a random encounter:
+Roll 1d12 to determine a random encounter:
 
 1. **Spatial Anomaly:** The ship encounters strange phenomena like subspace eddies, gravitational lensing or radiation spikes requiring emergency navigation.
 
@@ -45,6 +45,8 @@ Roll 2d6 to determine a random encounter:
 10. **Celestial Phenomenon:** A rare stellar event like a pulsar flare or comet's passing presents awe or research opportunities.  
 
 11. **Alien Artifact:** The ship's sensors detect a drifting alien artifact of potentially immense value or power.
+
+12. **Military Patrol:** A Sol Union or frontier patrol vessel hails the ship, requesting transponder codes and cargo manifests.
 
 Interstellar voyages demand exceptional astrogation skills, quick reactions and courage to overcome navigation perils and strange encounters lurking in the cosmic void between stars.
 
@@ -75,7 +77,7 @@ While passage through a jumpgate is nearly instantaneous, the gates themselves a
 Operating a jumpgate requires astronomical quantities of exotic matter and antimatter fuel sources. This ensures they remain under strict control of system authorities and powerful corporations.
 
 Key limitations:
-- Only a few dozen jumpgates exist across inhabited space
+- Gate connections link roughly a dozen core systems; the remaining 85+ systems in the Union rely on conventional travel
 - Maximum range is 15 light-years between connected gates  
 - Transits are effectively instantaneous but consume huge resources
 - Undiscovered systems lack gate access entirely
@@ -118,7 +120,7 @@ Environmental suits provide protection against the harsh space environments, inc
 
 - **Atmospheric Skimmer:** The Atmospheric Skimmer is a sleek and aerodynamic spacecraft designed for low-altitude flight within a planet's atmosphere. It utilizes advanced propulsion and control systems to glide effortlessly through the skies, providing a versatile platform for atmospheric research, reconnaissance missions, and rapid transport over long distances on planets with breathable atmospheres.
 
-- **Interplanetary Shuttle:** The Interplanetary Shuttle is a robust and powerful spacecraft designed for transporting passengers, crew, and cargo between planets within a single star system. It features advanced life support systems, ample cargo capacity, and powerful engines capable of planetary takeoffs and landings. The Interplanetary Shuttle is a crucial component of the transportation infrastructure connecting colonized worlds, facilitating the movement of people, resources, and supplies.
+- **Interplanetary Shuttle:** The Interplanetary Shuttle is a heavy-duty spacecraft designed for transporting passengers, crew, and cargo between planets within a single star system. It features advanced life support systems, ample cargo capacity, and powerful engines capable of planetary takeoffs and landings. The Interplanetary Shuttle is a crucial component of the transportation infrastructure connecting colonized worlds, facilitating the movement of people, resources, and supplies.
 
 - **System Hauler:** The System Hauler is a heavy-duty cargo spacecraft specifically designed for transporting large payloads and bulky equipment between planets, moons, and space stations within a star system. It boasts a modular design, allowing for the attachment of various specialized cargo modules and containers. The System Hauler ensures the efficient and timely delivery of essential resources, construction materials, and heavy machinery to support the growth and development of interstellar colonies.
 

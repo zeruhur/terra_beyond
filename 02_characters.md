@@ -26,7 +26,7 @@ Playable characters are the players' gateway to the game universe in the year 24
 
 **2) Pick 3 more skill increases (from no skill->d8->d10->d12):**
 
-Athletics, Close Quarters Combat, Computers, Cyber-Ops, Demolitions, Engineering, Environmental Suit, Exo-Suit Operation, Firearms, G-Zero Maneuvering, Gravities, Hacking, Heavy Machinery, Hyperspace Navigation, Jumpgate Operation, Leadership, Linguistics, Medicine, Navigation, Negotiation, Piloting, Planetside Survival, Prospecting, Psi-Ops, Resources, Science (sub-fields like Physics, Biology, Xenology, etc.), Sensors, Stealth, Streetwise, Tactics, Zero-G Training
+Athletics, Close Quarters Combat, Computers, Cyber-Ops, Demolitions, Engineering, Environmental Suit, Exo-Suit Operation, Firearms, G-Zero Maneuvering, Gravities, Hacking, Heavy Machinery, Hyperspace Navigation, Jumpgate Operation, Leadership, Linguistics, Medicine, Navigation, Negotiation, Piloting, Planetside Survival, Prospecting, Resources, Science (sub-fields like Physics, Biology, Xenology, etc.), Sensors, Stealth, Streetwise, Tactics, Zero-G Training
 
 ## Details
 

@@ -19,7 +19,7 @@ From a fragile beginning to an expanding web of stargates and alliances, this er
 - **2125**: The first "wormhole engine" is successfully experimented with, opening a temporary gateway to Alpha Centauri on an unmanned mission.
 - **2128**: The first manned voyage to Alpha Centauri marks an era of interstellar exploration, even though the energy required and dangers initially limit the use of the technology.
 - **2140**: Interstellar exploration slowly expands due to technical challenges and high costs. Humanity establishes scientific outposts in nearby star systems such as Sirius and Tau Ceti.
-- **2155**: The Sol Unification Treaty is signed, the result of decades of negotiations, marking the formal union of major powers and interplanetary blocks into a single governmental entity: the **Sol Union**.
+- **2155**: The Sol Unification Treaty is signed, the result of decades of negotiations, marking the formal union of major powers and interplanetary blocs into a single governmental entity: the **Sol Union**.
 - **2160**: The first stable "portal" is constructed between Sol and Alpha Centauri, facilitating travel and interstellar transport, but at a still high energy cost.
 
 ### 2161-2294: Expansion and Colonization
@@ -27,18 +27,19 @@ From a fragile beginning to an expanding web of stargates and alliances, this er
 - **2200**: Human colonization extends to numerous star systems. The challenges of living on alien worlds lead to new scientific and technological discoveries.
 - **2220**: The first non-intelligent alien life forms are discovered, sparking excitement and debates on extraterrestrial biology and conservation.
 - **2250**: Despite the absence of intelligent extraterrestrial life, humanity learns much from alien animal and plant life forms, adapting technologies for the exploration and colonization of alien environments.
+- **2285**: Nova Terra in the Chara system is colonized, the first world beyond Sol considered truly Earth-like (gravity 0.98g, atmosphere 95% compatible). It grows quickly into the dominant cultural and scientific hub of the frontier worlds.
 
 ### 2290: The Systems Conflict
-- **2290**: Tensions between "frontier" systems, desiring greater autonomy, and the Union, determined to maintain control, explode into a brief but intense interstellar conflict. Dissatisfaction with trade restrictions and resource control turns into armed action, culminating in a war that highlights deep political and cultural divisions between "core" and "frontier" worlds. The conflict ends with a treaty granting more autonomy to frontier systems, marking a new beginning for interstellar cooperation and establishing a balance between unity and independence within humanity scattered among the stars.
+- **2290**: Tensions between "frontier" systems, desiring greater autonomy, and the Union, determined to maintain control, explode into a brief but intense interstellar conflict. Dissatisfaction with trade restrictions and gate access turns into armed action; frontier systems blockade the Alpha Centauri gate, the Union responds with fleet. The war lasts six months with roughly 5,000 deaths. It ends with the **Frontier Autonomy Accord**: frontier systems gain 60% voting power and gate tolls are reduced to 4% of cargo value.
 
 ### 2295: The Discovery That Changes Everything
-- **2295**: The discovery of ancient alien ruins on Delta Pavonis reveals that humanity is not alone in the universe, even though the creators of such structures have long disappeared. This event marks a turning point, pushing humanity to reflect on its place in the universe and to intensify interstellar exploration in search of other lost civilizations.
+- **2295**: The discovery of ancient alien ruins on Delta Pavonis reveals that humanity is not alone in the universe, even though the creators have long disappeared. The 300-meter stone structures are estimated at 50,000 years old. This event marks a turning point, pushing humanity to reflect on its place in the universe and to intensify interstellar exploration in search of other lost civilizations.
+- **2297**: The first Precursor artifact is recovered — a metal alloy unknown to human science.
 
 ### 2296-2399: Stabilization and Integration
 - **2300-2380**: Stabilization of interstellar relations and integration of frontier systems into the economy and culture of the Sol Union.
-- **2385**: Discovery of a second site of alien ruins on Kappa Ceti, further strengthening interest and efforts in interstellar exploration.
-- **2390**: The colonization of Nova Terra in the Chara system becomes a galactic significance event. Nova Terra's similarity to Earth itself makes it an ideal "bridge" for future human expansions in the galaxy. This planet, characterized by an environment extremely suitable for human life, quickly becomes a hub for research, innovation, and culture, marking the beginning of a new era of prosperity and interstellar cooperation.
-- **2400**: Humanity is well established in dozens of star systems, with a "stargate" network connecting "core" and "frontier" worlds. Ancient alien ruins fuel a new era of exploration, with the hope of discovering more about galactic history and perhaps, one day, meeting other intelligent life forms.
+- **2385**: Discovery of a second ruin site on Kappa Ceti: a 15-km complex estimated at 1 million years old, far older than the Delta Pavonis structures. This intensifies the search for Precursor history.
+- **2400**: Humanity is established across over 85 star systems, with a total population of 5 billion (4 billion interstellar). The Sol Union controls roughly 50% of jumpgates, the Frontier Coalition 30%, independent systems 20%. Ancient alien ruins fuel ongoing exploration, with the hope of uncovering more about galactic history.
 
 ## Major Factions
 
@@ -83,7 +84,7 @@ Evolving from Earth Global, TerraGenesis Collective represents the merger of env
 
 The discovery of interstellar travel and the subsequent colonization of nearby stars have had profound and transformative impacts on human society as a whole. Over two centuries, by 2400, humanity has undergone a cultural, social, political, and economic metamorphosis, influenced not only by new technologies but also by the challenges and opportunities presented by exploration and life in space.
 
-Human society in 2400 is profoundly different from that of its terrestrial ancestors. It is characterized by remarkable adaptability, innovation, and a deep awareness of its place in the universe. This evolution reflects optimism and an aspiration towards a future where humanity not only survives but thrives in the infinite landscape of interstellar space.
+Human society in 2400 is profoundly different from that of its terrestrial ancestors. It is characterized by remarkable adaptability, innovation, and a deep awareness of its place in the universe.
 
 ### Decentralization and Diversification
 Human society has progressively decentralized, moving from a model centered on national governments to a complex fabric of interstellar communities. This has led to unprecedented diversification in social structures, forms of government, and cultures, with colonies often experimenting with innovative socio-political systems tailored to the specific needs and challenges of their environments.
@@ -98,7 +99,7 @@ Technologies developed for interstellar travel and life in space have found appl
 The economy has transformed into a complex interstellar system, with the trade of rare resources, knowledge, and technologies flowing between star systems. Corporations like the InterStellar Mining Alliance and NovaKyushu Robotics have become trans-stellar entities, operating and influencing the economy on an intergalactic scale.
 
 ### Universal Awareness
-The discovery of ancient alien ruins on Keid (Omicron2 Eridani) did not lead to contact with living alien civilizations but had a profound impact on humanity's collective consciousness. This finding confirmed that we are not alone in the universe and highlighted the fragility of intelligent life. Faced with this revelation, humanity strengthened its commitment to internal cooperation and preparation for future interspecies interactions.
+The discovery of ancient alien ruins on Delta Pavonis did not lead to contact with living alien civilizations but had a profound impact on humanity's collective consciousness. This finding confirmed that we are not alone in the universe and highlighted the fragility of intelligent life. Faced with this revelation, humanity strengthened its commitment to internal cooperation and preparation for future interspecies interactions.
 
 ### Sustainability and Conservation
 Awareness of the ecological impacts of space colonization has led to a renewed commitment to sustainability and conservation, both on Earth and in new worlds. Initiatives like those promoted by the TerraGenesis Collective highlight the desire for human expansion into space to respect alien ecosystems and protect galactic biodiversity.
