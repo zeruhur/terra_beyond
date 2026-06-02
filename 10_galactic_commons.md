@@ -1,28 +1,28 @@
 # **Galactic Commons**
 
-The Galactic Commons refers to the shared spaces in the Orion Frontier where the various factions, cultures, and species converge. These areas are vital for diplomacy, trade, and intrigue, acting as melting pots of diverse interests and the backdrop for countless adventures. While nominally neutral, these zones often simmer with underlying tensions, as alliances are forged, rivalries fester, and fortunes are won or lost.
+The Galactic Commons are the shared spaces where factions, cultures, and species converge: trade stations, diplomatic platforms, contested resource zones. Nominally neutral, they simmer with hidden agendas, alliances in the making, and rivalries looking for an opening.
 
 ## **Types of Galactic Commons**
 ### **Trading Hubs**
 1. **Stellar Market Stations**  
-   Orbiting resource-rich planets or busy stargate intersections, these massive stations house sprawling marketplaces. Goods from all corners of the galaxy are exchanged here, ranging from raw minerals to Precursor artifacts.  
+   Orbiting resource-rich planets or busy jumpgate intersections, these massive stations house sprawling marketplaces. Goods from all corners of the galaxy are exchanged here, ranging from raw minerals to Precursor artifacts.  
    - **Example**: *Aether's Reach*: A sprawling trade station with tiers dedicated to different classes of merchants. The lower docks teem with smugglers, while the upper levels are reserved for corporate magnates and diplomats.
 
 2. **Open Skyports**  
    Spaceports on neutral planets offer a mix of trade and cultural exchange. Vendors set up bazaars in orbital rings or planetary hubs, where wanderers, traders, and explorers rub shoulders.  
-   - **Example**: *Rionas Port*: A renowned skyport where artisans and tech-scavengers showcase exotic wares, with live performances and communal feasts adding to its vibrant atmosphere.
+   - **Example**: *Rionas Port*: A renowned skyport where artisans and tech-scavengers sell exotic wares, with live performances and communal feasts running most hours.
 
 ### **Diplomatic Zones**
 1. **Embassy Stations**  
    These are floating platforms designated for interstellar diplomacy. Representatives of human and alien factions convene to negotiate treaties, exchange intelligence, or settle disputes.  
-   - **Example**: *Concordium Spire*: A station governed by AI mediators, known for hosting delicate peace talks between rival stellar nations.
+   - **Example**: *Concordium Spire*: A station administered by Orion Concordium arbiters, known for hosting peace talks between rival stellar nations.
 
 2. **Nomadic Convoys**  
    Some diplomatic zones exist on massive migratory fleets, where temporary agreements are brokered before moving on. These fleets often double as neutral ground for trade and cultural showcases.  
    - **Example**: *The Circling Accord*: A fleet of ships acting as a roving parliament for smaller factions and frontier representatives.
 
 ### **Contested Spaces**
-1. **Frontier Freeholds**  
+1. **Independent Outposts**  
    Settlements in disputed territories often act as makeshift hubs for renegades, explorers, and entrepreneurs. Their independence makes them chaotic but valuable for under-the-table dealings.  
    - **Example**: *Driftwood Haven*: A crumbling asteroid station where smugglers and bounty hunters gather to exchange secrets and services.
 
@@ -32,7 +32,7 @@ The Galactic Commons refers to the shared spaces in the Orion Frontier where the
 
 ## **Key Features of the Galactic Commons**
 1. **Neutral Governance**
-   Many of these zones are maintained by impartial entities—often automated systems or councils composed of various factions. However, neutrality is rarely absolute, and hidden agendas abound.
+   Many of these zones are maintained by impartial entities: automated systems or multi-faction councils. Neutrality is rarely absolute, and hidden agendas are standard.
 
 2. **Diverse Inhabitants**
    The Commons attract a mix of individuals: traders, diplomats, mercenaries, scientists, and refugees. Alien species mingle with humans, creating opportunities for cultural exchange and tension.
@@ -55,7 +55,7 @@ The Galactic Commons refers to the shared spaces in the Orion Frontier where the
    Compete in an interstellar auction for a rare artifact while uncovering rival bidders’ dirty tricks.
 
 4. **Contest in Chaos**  
-   A contested resource zone erupts in skirmishes. Players must navigate alliances and sabotage to emerge victorious.
+   A contested resource zone erupts in skirmishes. Players must manage competing claims and deal with sabotage on both sides.
 
 ### **Random Commons Encounter Table**  
 Roll 1d10:

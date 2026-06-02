@@ -1,8 +1,6 @@
 # **Interstellar Travel**  
 
-Interstellar travel in *Orion: Beyond the Frontier* is more than a journey between stars—it’s a test of resource management, advanced technology, and tactical decision-making. Humanity has transcended traditional propulsion systems with technologies like **Phase Resonance Drives** and **Quantum Slipstreams**, but even these advancements come with challenges. Travel across the Orion Frontier is fraught with unknowns: Precursor relics that warp space-time, alien patrols guarding restricted zones, and mysterious anomalies that defy physics.  
-
-Every voyage is a blend of wonder, peril, and discovery. Whether negotiating Zynthari-controlled sectors, stabilizing damaged drives near a void rift, or navigating the remnants of a Precursor Dyson Sphere, each journey tests the crew’s skills and resolve.  
+Interstellar travel in *Orion: Beyond the Frontier* is a test of resource management, advanced technology, and tactical decision-making at every jump. Humanity relies on two principal technologies: the relatively new **Phase Resonance Drives** and the legacy network of **Jumpgates**, each with its own constraints and politics. Travel across the Orion Frontier is fraught with unknowns: Precursor relics that warp space-time, alien patrols guarding restricted zones, and anomalies that defy physics.  
 
 ## **Navigation Hazards**  
 
@@ -22,27 +20,21 @@ During journeys, travelers may encounter:
 
 6. **Celestial Hazards:** Massive asteroid fields, rogue comets, and stellar debris from ancient battles pose navigational challenges. Evasive maneuvers and repair capabilities are vital.  
 
-7. **Subspace Phenomena:** Unstable pockets of space can interfere with Quantum Slipstreams or disrupt Phase Resonance Drives, stranding ships far from their intended destination.  
+7. **Subspace Phenomena:** Unstable pockets of space can destabilize Phase Resonance Drives, stranding ships far from their intended destination.  
 
 ## **Core Technologies for Travel**  
 
-1. **Phase Resonance Drives:** Enable near-instantaneous travel by resonating with the fabric of space-time, but are prone to destabilization in proximity to rifts or anomalies.  
+1. **Phase Resonance Drives:** The primary FTL method of 4000 CE. PRDs resonate with the fabric of space-time to enable near-instantaneous transit between calibrated resonance points, with a maximum range of 30 light-years per jump. They are prone to destabilization near void rifts or dense Precursor anomalies, and expanding the network requires locating and calibrating new resonance points — a task that draws explorers into uncharted space. PRD nodes are often discovered near ancient Precursor ruins.
 
-2. **Quantum Slipstreams:** Efficient for long-range travel, these channels require constant recalibration to account for gravitational fluctuations and interference from Precursor relics.  
-
-3. **Jumpgates:** Though increasingly rare, these remnants of early interstellar expansion provide near-instant travel between connected systems. Many are controlled by powerful factions and require negotiation or hacking to access.  
-
-4. **Dyson Pathways:** A newly discovered network of interconnected megastructures, potentially created by the Precursors, offers high-speed transit across vast distances. Navigating them requires deciphering cryptic Precursor codes.  
+2. **Jumpgates:** Legacy infrastructure from the interstellar expansion of the 2100s–2400s, now rare and increasingly faction-controlled. Those that survive provide near-instant transit between connected systems up to 15 light-years apart, but operating them requires tolls, faction authorization, or hacking. Some gates have fallen into disuse or been seized by the Sirius Compact or IFMC as strategic choke points. Where PRDs are the open road, jumpgates are the toll bridges.  
 
 ## **Skills for Interstellar Success**  
 
-Characters with expertise in astrogation, hyperspace mechanics, or subspace anomalies will excel in managing the intricacies of interstellar travel. Roles such as **Horizon Pilots**, **Tech-Scavengers**, and **Archivists** bring invaluable skills to the table, ensuring survival and success amid the vast unknown of the Orion Frontier.  
-
-Exploring this frontier is not just about reaching the next destination—it’s about uncovering its secrets and surviving its dangers. With every successful journey, players will bring humanity one step closer to mastering the mysteries of the cosmos.
+Horizon Pilots, Tech-Scavengers, and Archivists are the roles best suited to managing the demands of interstellar travel.
 
 ### Random Interstellar Encounters  
 
-Roll 2d6 to determine a random encounter in the unpredictable and mysterious **Orion Frontier**:
+Roll 1d12 to determine a random encounter in the unpredictable and mysterious **Orion Frontier**:
 
 1. **Void Rift Anomaly:** The ship encounters a pocket of unstable space-time, warping sensors and navigation systems. Emergency adjustments are needed to avoid being displaced into an unknown region.  
 
@@ -62,23 +54,22 @@ Roll 2d6 to determine a random encounter in the unpredictable and mysterious **O
 
 9. **Interstellar Trade Convoy:** A group of independent traders or smugglers offers goods, intel, or barter. They may also share warnings about local dangers—or have hidden motives.  
 
-10. **Celestial Phenomenon:** The ship encounters a rare cosmic event—like a quasar pulse or an exploding star. It could be a scientific breakthrough or a threat to nearby systems.  
+10. **Celestial Phenomenon:** The ship encounters a rare cosmic event, like a quasar pulse or an exploding star. It could be a scientific breakthrough or a threat to nearby systems.  
 
-11. **Drifting Artifact:** Sensors detect a mysterious alien object emitting faint energy signals. Its true nature is unknown—it could be valuable, dangerous, or both.  
+11. **Drifting Artifact:** Sensors detect a mysterious alien object emitting faint energy signals. Its true nature is unknown; it could be valuable, dangerous, or both.  
 
 12. **AI Outpost Contact:** The ship receives a cryptic message from a rogue AI installation. The AI might offer trade, riddles, or a trap.  
 
-Interstellar travel in the Orion Frontier is fraught with the unexpected. Whether encountering remnants of ancient civilizations, natural cosmic marvels, or deadly threats, these encounters demand resourcefulness, courage, and teamwork to ensure survival and success.
 
 ## **Travel Time and Fuel Consumption**  
 
-In *Orion: Beyond the Frontier*, interstellar travel balances cutting-edge technologies and resource-intensive logistics. Humanity's reach extends across the vastness of the Orion sector, but even with advanced propulsion systems and Precursor-derived innovations, journeys require meticulous planning. Two principal methods of travel exist: **conventional interplanetary propulsion** and **Phase Resonance technology**, a successor to jumpgates.  
+Two principal methods of travel exist: **conventional interplanetary propulsion** and **Phase Resonance technology**, a successor to jumpgates. Both demand planning; neither is cheap.  
 
 ## **Interplanetary Travel**  
 
 Voyages within star systems rely on conventional propulsion, updated with advanced materials and efficiency.  
 - **Fusion Torches and Ion Drives:** Still the workhorses of interplanetary travel, providing sustained acceleration for cargo, personnel, and exploration missions.  
-- **Phase Resonance Boosters:** These augment sublight speeds, allowing quicker traversal within systems, though at higher energy costs.  
+- **Phase Resonance Boosters:** These augment sublight speeds for quicker traversal within systems, though at higher energy costs.  
 
 Travel times between planets, while reduced, still take days to weeks depending on distance. For example:  
 - A journey equivalent to Earth to Neptune takes **4-6 weeks** using modern fusion engines.  
@@ -96,21 +87,20 @@ Fuel use depends on the ship’s mass and energy requirements:
 
 ### **Phase Resonance Technology**  
 
-A leap beyond jumpgate technology, **Phase Resonance Drives (PRDs)** allow near-instantaneous transit between aligned star systems. Using spacetime resonance fields derived from Precursor artifacts, these drives bypass light-speed limitations. However, they are far from ubiquitous:  
+**Phase Resonance Drives (PRDs)** allow near-instantaneous transit between aligned star systems. Using spacetime resonance fields derived from Precursor-artifact research, these drives bypass light-speed limitations. They are the dominant FTL method but are not without constraints:
 
 **Key Features:**  
-- **Aligned Systems:** Only systems with known and calibrated resonance points are accessible. Expanding the network requires extensive research into system-specific resonance harmonics.  
+- **Aligned Systems:** Only systems with known and calibrated resonance points are accessible. Discovering and calibrating new nodes is a primary driver of frontier exploration.  
 - **Instantaneous Transit:** Travel between aligned systems takes seconds, but initiating the drive consumes enormous energy.  
-- **Resource Costs:** PRDs require antimatter and rare Precursor materials, limiting their use to major factions and wealthy explorers.  
+- **Resource Costs:** PRDs require antimatter and rare materials, limiting their use to major factions and well-funded explorers.  
 
 **Limitations:**  
-- **Range:** Maximum effective range between resonance points is **30 light-years**, double that of jumpgates, but still restrictive compared to galactic scales.  
+- **Range:** Maximum effective range between resonance points is **30 light-years**, double that of old jumpgates, but still restrictive compared to galactic scales.  
 - **Risk of Malfunction:** Improper calibration can result in catastrophic outcomes, including dimensional rift creation or complete vessel destruction.  
-- **Fewer Nodes:** Unlike jumpgates, PRD nodes are uncharted and often discovered near ancient alien ruins, requiring exploration to expand humanity's reach.  
 
 ### **Hybrid Travel**  
 
-The combination of **interplanetary propulsion** and **Phase Resonance Drives** is common in the Orion sector:  
+The combination of **interplanetary propulsion** and **Phase Resonance Drives** defines most voyages in the Orion sector:  
 - **In-System Maneuvers:** Fusion engines navigate local celestial hazards and bring vessels into alignment with resonance points.  
 - **Interstellar Jumps:** Once aligned, PRDs allow rapid leaps to distant systems, enabling trade and exploration across far-flung colonies.  
 
@@ -122,9 +112,8 @@ The combination of **interplanetary propulsion** and **Phase Resonance Drives** 
 
 ### **The Future of Travel**  
 
-Rumors persist of advanced **Precursor Starpaths**—hidden networks of interconnected systems that might allow instant travel without energy costs. The discovery of such paths would revolutionize travel in the Orion sector, though no faction has fully mapped or understood their workings yet.  
+Rumors persist that the Phase Resonance network is only a surface layer of a deeper Precursor architecture — a fully integrated interstellar web that would allow transit without calibration costs or antimatter expenditure. No faction has proven this, but it drives much of the research conducted near ancient ruins. If the rumor is true, humanity has been rediscovering a road the Precursors paved millions of years ago.  
 
-Interstellar travel in *Orion: Beyond the Frontier* remains an intricate dance of innovation and resourcefulness. It reflects both humanity’s ingenuity and the challenges of exploring the infinite.  
 
 ## **Environmental Hazards**  
 
@@ -232,9 +221,9 @@ A modular, self-contained exploration craft capable of adapting to any environme
 - **Usage:** Used by scientific expeditions to study anomalies, dimensional rifts, or newly discovered planets.  
 - **Unique Tech:** **Dimensional phase-shifters** allow temporary entry into alternate spatial layers for unique research opportunities.  
 
-### **Zynthari Hybrid Scout Pod**  
-A lightweight vehicle combining human and Zynthari technology, designed for exploration at the galactic rim.  
-- **Features:** Compact propulsion units leveraging **spacetime manipulation**, making it faster and more efficient than purely human designs.  
-- **Usage:** Used by rogue researchers or fringe explorers venturing into contested or unexplored Zynthari space.  
-- **Unique Tech:** Integrated **spacetime resonance beacon** for rapid extraction to allied systems.  
+### **Precursor-Adapted Scout Pod**  
+A compact exploration craft reverse-engineered from Precursor ruin components grafted onto a human-built frame.  
+- **Features:** Hull sections of unknown alloy composition resist radiation and gravitational distortion far better than manufactured equivalents. Equipped with a **Precursor Spatial Awareness Array** that passively maps nearby dimensional anomalies and Phase Resonance points.  
+- **Usage:** Favored by Precursor Seekers and tech-scavengers entering void rifts or unstable megastructure interiors. The navigational interface requires Sensors to use effectively; without it the craft is flyable but blind to its most valuable data streams.  
+- **Unique Tech:** The alien hull geometry grants a natural stealth profile against conventional sensors, though the reason remains poorly understood.  
 

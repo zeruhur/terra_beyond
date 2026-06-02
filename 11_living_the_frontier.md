@@ -7,7 +7,7 @@ The outer systems of the Orion Frontier are both a promise and a peril. Life her
 - **Pioneers**: Settlers driven by hope or desperation. They are farmers, miners, artisans, and dreamers who carve out a living in the face of harsh conditions.
 - **Mercenaries**: Soldiers of fortune who offer protection to colonies, enforce local laws, or hunt down bounties.
 - **Scavengers and Explorers**: Those who brave the dangers of derelict ruins or hostile terrains in search of riches or discovery.
-- **Nomadic Tribes**: Alien and human groups who traverse the Frontier, living off the land and trading goods or stories.
+- **Nomadic Traders**: Independent human groups who move between frontier worlds, living off trade, salvage, and whatever the next system offers.
 
 ### **A Typical Day**
 - **Morning:**  
@@ -32,7 +32,7 @@ The outer systems of the Orion Frontier are both a promise and a peril. Life her
 2. **Alien Fauna**: Gigantic predators, swarming insects, and symbiotic parasites are common threats.  
    - **Tactic**: Establish perimeter defenses, including sonic emitters or automated turrets.  
 
-3. **Natural Disasters**: Earthquakes, solar flares, and meteor showers can devastate settlements.  
+3. **Natural Disasters**: Earthquakes, stellar flares, and meteor showers can devastate settlements.  
    - **Tactic**: Build subterranean bunkers or reinforce habitats with Precursor alloys.
 
 ### **Resource Scarcity**
@@ -93,7 +93,7 @@ The outer systems of the Orion Frontier are both a promise and a peril. Life her
    A once-thriving town lies eerily abandoned, its residents vanished. Players investigate, finding clues that hint at a greater cosmic mystery.
 
 4. **Cultural Celebration**  
-   Players attend a vibrant festival only to discover that saboteurs are plotting to incite chaos for a rival faction.
+   Players attend a festival only to discover that saboteurs are working to incite chaos for a rival faction.
 
 ### **Random Frontier Encounter Table**  
 Roll 1d10:

@@ -68,5 +68,5 @@ The *Radiant Horizon* shot into slipstream, narrowly escaping the singularity’
 
 Jassir held the shard up to the light, its crystalline surface shifting with an otherworldly glow. "This... this could change everything."
 
-Maia nodded, her gaze fixed on the distant stars. "Or it could destroy us. Either way, it’s not the end—it’s just the beginning."
+Maia nodded, her gaze fixed on the distant stars. "Or it could destroy us. Either way, it’s not the end, it’s just the beginning."
 

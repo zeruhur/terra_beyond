@@ -38,14 +38,14 @@
 - **Standard:** None.  
 - **Upgrades:** Precursor energy lances, phase disruption torpedoes, kinetic rail cannons.  
 
-Effective starship performance in the Orion Frontier hinges on the strategic implementation of upgrades. Wise captains balance exploration, combat readiness, and resource efficiency to navigate the galaxy's myriad challenges.
+Wise captains balance exploration, combat readiness, and resource efficiency. The right upgrades determine what a ship can handle and what it cannot.
 
 ## **Starship Types and Classes**  
 
-The Orion Frontier's vast and varied expanse demands a wide array of starships, each tailored to specific missions, environments, and challenges. Below are the primary types and classes of starships suited to the setting of 4000 CE.  
+Below are the primary types and classes of starships suited to the setting of 4000 CE.  
 
 ### **Interstellar Explorers**  
-**Dedicated to exploration and discovery, these ships are the vanguard of humanity’s push into the unknown.**  
+**Built for long-range exploration and survey, often operating far from resupply.**  
 
 - **Pioneer Vessel**: Massive ships equipped for multi-decade voyages, combining advanced laboratories, extensive crew quarters, and self-sustaining systems. Perfect for deep exploration into uncharted regions.  
 - **Pathfinder**: Smaller, faster exploration vessels specializing in charting Phase Resonance points and surveying potentially habitable systems.  
@@ -148,7 +148,7 @@ This section presents sample ships from the diverse classes of starships operati
 
 ### Interstellar Explorers  
 
-#### Pioneer Vessel: *Starward Pathfinder*  
+#### Pioneer Vessel: *Horizon Eternal*  
 Large, versatile ships built for prolonged interstellar missions, combining exploration tools with a self-sustaining habitat.  
 - **COMMS:** Quantum Hyperwave Communicator  
 - **EMBARKATION:** Modular Drop Shuttles  

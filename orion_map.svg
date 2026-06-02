@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1020 700">
+  <title>Orion's Arm — Human Space, c. 4000 CE</title>
+  <defs>
+    <radialGradient id="bg" cx="40%" cy="50%" r="75%">
+      <stop offset="0%" stop-color="#0b1a2d"/>
+      <stop offset="100%" stop-color="#020509"/>
+    </radialGradient>
+    <filter id="starGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <radialGradient id="varnonGrad" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#661010" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#661010" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="zynthGrad" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#102050" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#102050" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1020" height="700" fill="url(#bg)"/>
+
+  <!-- Background starfield -->
+  <g fill="#ffffff">
+    <circle cx="38" cy="28" r="0.7" opacity="0.35"/>
+    <circle cx="95" cy="72" r="0.5" opacity="0.28"/>
+    <circle cx="155" cy="48" r="0.8" opacity="0.32"/>
+    <circle cx="288" cy="35" r="0.6" opacity="0.28"/>
+    <circle cx="420" cy="22" r="0.7" opacity="0.32"/>
+    <circle cx="558" cy="58" r="0.5" opacity="0.25"/>
+    <circle cx="672" cy="38" r="0.8" opacity="0.28"/>
+    <circle cx="780" cy="25" r="0.6" opacity="0.32"/>
+    <circle cx="890" cy="48" r="0.5" opacity="0.28"/>
+    <circle cx="982" cy="30" r="0.7" opacity="0.25"/>
+    <circle cx="48" cy="148" r="0.5" opacity="0.28"/>
+    <circle cx="128" cy="125" r="0.7" opacity="0.32"/>
+    <circle cx="245" cy="162" r="0.5" opacity="0.25"/>
+    <circle cx="395" cy="138" r="0.6" opacity="0.28"/>
+    <circle cx="520" cy="115" r="0.8" opacity="0.32"/>
+    <circle cx="655" cy="145" r="0.5" opacity="0.28"/>
+    <circle cx="758" cy="125" r="0.7" opacity="0.25"/>
+    <circle cx="848" cy="155" r="0.5" opacity="0.28"/>
+    <circle cx="955" cy="128" r="0.6" opacity="0.32"/>
+    <circle cx="62" cy="225" r="0.6" opacity="0.28"/>
+    <circle cx="180" cy="205" r="0.5" opacity="0.25"/>
+    <circle cx="335" cy="232" r="0.7" opacity="0.28"/>
+    <circle cx="485" cy="210" r="0.5" opacity="0.32"/>
+    <circle cx="608" cy="238" r="0.6" opacity="0.28"/>
+    <circle cx="740" cy="218" r="0.8" opacity="0.25"/>
+    <circle cx="868" cy="228" r="0.5" opacity="0.28"/>
+    <circle cx="990" cy="215" r="0.7" opacity="0.32"/>
+    <circle cx="30" cy="325" r="0.5" opacity="0.28"/>
+    <circle cx="118" cy="348" r="0.6" opacity="0.25"/>
+    <circle cx="310" cy="338" r="0.7" opacity="0.28"/>
+    <circle cx="558" cy="312" r="0.5" opacity="0.32"/>
+    <circle cx="700" cy="355" r="0.6" opacity="0.25"/>
+    <circle cx="850" cy="322" r="0.8" opacity="0.28"/>
+    <circle cx="975" cy="340" r="0.5" opacity="0.32"/>
+    <circle cx="55" cy="428" r="0.7" opacity="0.28"/>
+    <circle cx="198" cy="442" r="0.5" opacity="0.25"/>
+    <circle cx="358" cy="418" r="0.6" opacity="0.28"/>
+    <circle cx="548" cy="445" r="0.7" opacity="0.32"/>
+    <circle cx="688" cy="430" r="0.5" opacity="0.28"/>
+    <circle cx="820" cy="415" r="0.6" opacity="0.25"/>
+    <circle cx="968" cy="440" r="0.8" opacity="0.28"/>
+    <circle cx="42" cy="525" r="0.5" opacity="0.28"/>
+    <circle cx="155" cy="548" r="0.7" opacity="0.32"/>
+    <circle cx="285" cy="535" r="0.6" opacity="0.25"/>
+    <circle cx="450" cy="552" r="0.5" opacity="0.28"/>
+    <circle cx="618" cy="528" r="0.8" opacity="0.32"/>
+    <circle cx="762" cy="545" r="0.6" opacity="0.28"/>
+    <circle cx="895" cy="532" r="0.5" opacity="0.25"/>
+    <circle cx="985" cy="555" r="0.7" opacity="0.28"/>
+    <circle cx="72" cy="618" r="0.6" opacity="0.32"/>
+    <circle cx="225" cy="638" r="0.5" opacity="0.28"/>
+    <circle cx="380" cy="648" r="0.7" opacity="0.25"/>
+    <circle cx="542" cy="625" r="0.5" opacity="0.28"/>
+    <circle cx="705" cy="640" r="0.6" opacity="0.32"/>
+    <circle cx="840" cy="622" r="0.8" opacity="0.28"/>
+    <circle cx="960" cy="645" r="0.5" opacity="0.25"/>
+  </g>
+
+  <!-- Threat zones (behind all else) -->
+  <ellipse cx="918" cy="468" rx="95" ry="120" fill="url(#varnonGrad)"/>
+  <ellipse cx="948" cy="160" rx="82" ry="105" fill="url(#zynthGrad)"/>
+
+  <!-- Zone dividers -->
+  <line x1="342" y1="72" x2="342" y2="685" stroke="#334466" stroke-width="0.8" stroke-dasharray="5,18" opacity="0.3"/>
+  <line x1="582" y1="72" x2="582" y2="685" stroke="#334466" stroke-width="0.8" stroke-dasharray="5,18" opacity="0.3"/>
+  <line x1="802" y1="72" x2="802" y2="685" stroke="#334466" stroke-width="0.8" stroke-dasharray="5,18" opacity="0.3"/>
+
+  <!-- Zone labels -->
+  <text x="171" y="88" text-anchor="middle" fill="#5577aa" opacity="0.5" font-size="10" font-family="Courier New, monospace" letter-spacing="3">CORE SYSTEMS</text>
+  <text x="462" y="88" text-anchor="middle" fill="#5577aa" opacity="0.5" font-size="10" font-family="Courier New, monospace" letter-spacing="3">MID-RIM</text>
+  <text x="692" y="88" text-anchor="middle" fill="#5577aa" opacity="0.5" font-size="10" font-family="Courier New, monospace" letter-spacing="3">FRONTIER</text>
+  <text x="912" y="88" text-anchor="middle" fill="#5577aa" opacity="0.5" font-size="10" font-family="Courier New, monospace" letter-spacing="3">DEEP RIM</text>
+
+  <!-- Travel routes (dashed) -->
+  <g fill="none" stroke="#4a6a9a" stroke-width="1.2" stroke-dasharray="5,9" opacity="0.45">
+    <line x1="215" y1="305" x2="165" y2="385"/>
+    <line x1="215" y1="305" x2="178" y2="242"/>
+    <line x1="215" y1="305" x2="162" y2="450"/>
+    <line x1="215" y1="305" x2="300" y2="215"/>
+    <line x1="300" y1="215" x2="450" y2="178"/>
+    <line x1="450" y1="178" x2="510" y2="268"/>
+    <line x1="510" y1="268" x2="492" y2="378"/>
+    <line x1="492" y1="378" x2="658" y2="330"/>
+    <line x1="658" y1="330" x2="628" y2="138"/>
+    <line x1="628" y1="138" x2="720" y2="180"/>
+  </g>
+
+  <!-- ═══════════════════════════════════════════
+       STARS
+       ═══════════════════════════════════════════ -->
+
+  <!-- SOL UNION (#aad4f0) -->
+
+  <!-- Sol -->
+  <circle cx="215" cy="305" r="16" fill="#4a8fcf" opacity="0.12" filter="url(#starGlow)"/>
+  <circle cx="215" cy="305" r="9" fill="#4a8fcf" opacity="0.42"/>
+  <circle cx="215" cy="305" r="5.5" fill="#aad4f0" filter="url(#starGlow)"/>
+  <text x="228" y="300" fill="#aad4f0" font-size="12" font-family="Courier New, monospace" font-weight="bold">Sol</text>
+  <text x="228" y="313" fill="#4d6e8a" font-size="9" font-family="Courier New, monospace">Sol Union</text>
+
+  <!-- Alpha Centauri -->
+  <circle cx="165" cy="385" r="11" fill="#4a8fcf" opacity="0.12"/>
+  <circle cx="165" cy="385" r="5.5" fill="#4a8fcf" opacity="0.38"/>
+  <circle cx="165" cy="385" r="3" fill="#aad4f0"/>
+  <text x="152" y="383" text-anchor="end" fill="#88b8d8" font-size="10" font-family="Courier New, monospace">α Centauri</text>
+
+  <!-- Keid -->
+  <circle cx="178" cy="242" r="10" fill="#4a8fcf" opacity="0.12"/>
+  <circle cx="178" cy="242" r="5" fill="#4a8fcf" opacity="0.38"/>
+  <circle cx="178" cy="242" r="3" fill="#aad4f0"/>
+  <text x="165" y="240" text-anchor="end" fill="#88b8d8" font-size="10" font-family="Courier New, monospace">Keid</text>
+
+  <!-- SIRIUS COMPACT (#ffe077) -->
+
+  <!-- Sirius -->
+  <circle cx="300" cy="215" r="14" fill="#ddaa00" opacity="0.13" filter="url(#starGlow)"/>
+  <circle cx="300" cy="215" r="7.5" fill="#ddaa00" opacity="0.42"/>
+  <circle cx="300" cy="215" r="4.5" fill="#ffe077" filter="url(#starGlow)"/>
+  <text x="313" y="210" fill="#ffe077" font-size="12" font-family="Courier New, monospace" font-weight="bold">Sirius</text>
+  <text x="313" y="223" fill="#8a7000" font-size="9" font-family="Courier New, monospace">Sirius Compact</text>
+
+  <!-- Vega -->
+  <circle cx="450" cy="178" r="11" fill="#ddaa00" opacity="0.12"/>
+  <circle cx="450" cy="178" r="5.5" fill="#ddaa00" opacity="0.38"/>
+  <circle cx="450" cy="178" r="3" fill="#ffe077"/>
+  <text x="462" y="175" fill="#ffe077" font-size="10" font-family="Courier New, monospace">Vega</text>
+
+  <!-- INTERSTELLAR ALLIANCE (#88ddaa) -->
+
+  <!-- Epsilon Eridani -->
+  <circle cx="162" cy="450" r="10" fill="#44aa66" opacity="0.12"/>
+  <circle cx="162" cy="450" r="5" fill="#44aa66" opacity="0.38"/>
+  <circle cx="162" cy="450" r="3" fill="#88ddaa"/>
+  <text x="150" y="448" text-anchor="end" fill="#77cc99" font-size="10" font-family="Courier New, monospace">ε Eridani</text>
+
+  <!-- Tau Ceti -->
+  <circle cx="128" cy="508" r="10" fill="#44aa66" opacity="0.12"/>
+  <circle cx="128" cy="508" r="5" fill="#44aa66" opacity="0.38"/>
+  <circle cx="128" cy="508" r="3" fill="#88ddaa"/>
+  <text x="116" y="505" text-anchor="end" fill="#77cc99" font-size="10" font-family="Courier New, monospace">τ Ceti</text>
+  <text x="116" y="516" text-anchor="end" fill="#336655" font-size="8.5" font-family="Courier New, monospace">Zal-Terran Commonwealth</text>
+
+  <!-- INDEPENDENT -->
+
+  <!-- Luyten's Star -->
+  <circle cx="268" cy="415" r="9" fill="#888888" opacity="0.12"/>
+  <circle cx="268" cy="415" r="4.5" fill="#888888" opacity="0.32"/>
+  <circle cx="268" cy="415" r="2.5" fill="#aaaaaa"/>
+  <text x="278" y="412" fill="#999999" font-size="9" font-family="Courier New, monospace">Luyten's Star</text>
+  <text x="278" y="422" fill="#606060" font-size="8" font-family="Courier New, monospace">Tevkar homeworld ◆</text>
+
+  <!-- NOVA TERRA ASSEMBLY (#cc88ff) -->
+
+  <!-- Chara -->
+  <circle cx="510" cy="268" r="13" fill="#9955cc" opacity="0.13" filter="url(#starGlow)"/>
+  <circle cx="510" cy="268" r="7" fill="#9955cc" opacity="0.42"/>
+  <circle cx="510" cy="268" r="4" fill="#cc88ff" filter="url(#starGlow)"/>
+  <text x="523" y="263" fill="#cc88ff" font-size="12" font-family="Courier New, monospace" font-weight="bold">Chara</text>
+  <text x="523" y="276" fill="#6a3a8a" font-size="9" font-family="Courier New, monospace">Nova Terra Assembly</text>
+
+  <!-- Zeta Reticuli -->
+  <circle cx="388" cy="525" r="10" fill="#9955cc" opacity="0.12"/>
+  <circle cx="388" cy="525" r="5" fill="#9955cc" opacity="0.38"/>
+  <circle cx="388" cy="525" r="3" fill="#cc88ff"/>
+  <text x="400" y="522" fill="#bb77ee" font-size="10" font-family="Courier New, monospace">ζ Reticuli</text>
+  <text x="400" y="533" fill="#4a2a66" font-size="8.5" font-family="Courier New, monospace">Ark of Precursor Knowledge</text>
+
+  <!-- ORION CONCORDIUM (#ffaa55) -->
+
+  <!-- Orionis Refuge (Chi1 Orionis A) -->
+  <circle cx="492" cy="378" r="13" fill="#ee7722" opacity="0.13" filter="url(#starGlow)"/>
+  <circle cx="492" cy="378" r="7" fill="#ee7722" opacity="0.42"/>
+  <circle cx="492" cy="378" r="4" fill="#ffaa55" filter="url(#starGlow)"/>
+  <text x="505" y="373" fill="#ffaa55" font-size="12" font-family="Courier New, monospace" font-weight="bold">Orionis Refuge</text>
+  <text x="505" y="385" fill="#996633" font-size="9" font-family="Courier New, monospace">χ¹ Orionis</text>
+  <text x="505" y="396" fill="#663a1a" font-size="8.5" font-family="Courier New, monospace">Orion Concordium</text>
+
+  <!-- Bellatrix -->
+  <circle cx="658" cy="330" r="10" fill="#ee7722" opacity="0.12"/>
+  <circle cx="658" cy="330" r="5" fill="#ee7722" opacity="0.38"/>
+  <circle cx="658" cy="330" r="3" fill="#ffaa55"/>
+  <text x="670" y="327" fill="#ffaa55" font-size="10" font-family="Courier New, monospace">Bellatrix</text>
+
+  <!-- Spica -->
+  <circle cx="748" cy="458" r="10" fill="#ee7722" opacity="0.12"/>
+  <circle cx="748" cy="458" r="5" fill="#ee7722" opacity="0.38"/>
+  <circle cx="748" cy="458" r="3" fill="#ffaa55"/>
+  <text x="760" y="455" fill="#ffaa55" font-size="10" font-family="Courier New, monospace">Spica</text>
+
+  <!-- FRONTIER COALITION (#ff8888) -->
+
+  <!-- Capella -->
+  <circle cx="628" cy="138" r="12" fill="#cc4444" opacity="0.13" filter="url(#starGlow)"/>
+  <circle cx="628" cy="138" r="6.5" fill="#cc4444" opacity="0.42"/>
+  <circle cx="628" cy="138" r="3.5" fill="#ff8888" filter="url(#starGlow)"/>
+  <text x="641" y="133" fill="#ff8888" font-size="12" font-family="Courier New, monospace" font-weight="bold">Capella</text>
+  <text x="641" y="146" fill="#7a2222" font-size="9" font-family="Courier New, monospace">Frontier Coalition</text>
+
+  <!-- Algol -->
+  <circle cx="720" cy="180" r="10" fill="#cc4444" opacity="0.12"/>
+  <circle cx="720" cy="180" r="5" fill="#cc4444" opacity="0.38"/>
+  <circle cx="720" cy="180" r="3" fill="#ff8888"/>
+  <text x="732" y="177" fill="#ff8888" font-size="10" font-family="Courier New, monospace">Algol</text>
+
+  <!-- ═══════════════════════════════════════════
+       THREAT ZONE LABELS
+       ═══════════════════════════════════════════ -->
+
+  <text x="918" y="452" text-anchor="middle" fill="#ff4444" opacity="0.62" font-size="11" font-family="Courier New, monospace" font-weight="bold" letter-spacing="1">VARNON SWARM</text>
+  <text x="918" y="466" text-anchor="middle" fill="#882222" opacity="0.52" font-size="8.5" font-family="Courier New, monospace">system-devouring hazard</text>
+
+  <text x="948" y="148" text-anchor="middle" fill="#55aaff" opacity="0.68" font-size="11" font-family="Courier New, monospace" font-weight="bold" letter-spacing="1">ZYNTHARI SPACE</text>
+  <text x="948" y="162" text-anchor="middle" fill="#2255aa" opacity="0.52" font-size="8.5" font-family="Courier New, monospace">ancient alien empire</text>
+
+  <!-- Rimward direction indicator -->
+  <text x="1010" y="370" text-anchor="middle" fill="#2a3d52" opacity="0.55" font-size="9" font-family="Courier New, monospace" transform="rotate(90,1010,370)" letter-spacing="2">RIMWARD →</text>
+
+  <!-- ═══════════════════════════════════════════
+       LEGEND
+       ═══════════════════════════════════════════ -->
+  <rect x="18" y="576" width="220" height="110" rx="4" fill="#020810" fill-opacity="0.88" stroke="#1a2d45" stroke-width="1"/>
+  <text x="28" y="592" fill="#4d6e8a" font-size="9" font-family="Courier New, monospace" letter-spacing="2.5">STELLAR POLITIES</text>
+
+  <circle cx="32" cy="605" r="4" fill="#aad4f0"/>
+  <text x="41" y="608" fill="#88b8d8" font-size="9" font-family="Courier New, monospace">Sol Union</text>
+
+  <circle cx="32" cy="619" r="4" fill="#ffe077"/>
+  <text x="41" y="622" fill="#ffe077" font-size="9" font-family="Courier New, monospace">Sirius Compact</text>
+
+  <circle cx="32" cy="633" r="4" fill="#88ddaa"/>
+  <text x="41" y="636" fill="#77cc99" font-size="9" font-family="Courier New, monospace">Zal-Terran Commonwealth</text>
+
+  <circle cx="32" cy="647" r="4" fill="#cc88ff"/>
+  <text x="41" y="650" fill="#cc88ff" font-size="9" font-family="Courier New, monospace">Nova Terra Assembly</text>
+
+  <circle cx="32" cy="661" r="4" fill="#aaaaaa"/>
+  <text x="41" y="664" fill="#999999" font-size="9" font-family="Courier New, monospace">Independent</text>
+
+  <circle cx="124" cy="605" r="4" fill="#ffaa55"/>
+  <text x="133" y="608" fill="#ffaa55" font-size="9" font-family="Courier New, monospace">Orion Concordium</text>
+
+  <circle cx="124" cy="619" r="4" fill="#ff8888"/>
+  <text x="133" y="622" fill="#ff8888" font-size="9" font-family="Courier New, monospace">Frontier Coalition</text>
+
+  <line x1="124" y1="633" x2="150" y2="633" stroke="#4a6a9a" stroke-width="1.2" stroke-dasharray="4,4" opacity="0.8"/>
+  <text x="155" y="636" fill="#4a6a9a" font-size="9" font-family="Courier New, monospace">Travel route</text>
+
+  <text x="124" y="650" fill="#606060" font-size="9" font-family="Courier New, monospace">◆ Protected species world</text>
+
+  <!-- ═══════════════════════════════════════════
+       TITLE
+       ═══════════════════════════════════════════ -->
+  <text x="510" y="32" text-anchor="middle" fill="#c0d4e4" font-size="16" font-family="Courier New, monospace" font-weight="bold" letter-spacing="2">ORION'S ARM — HUMAN SPACE</text>
+  <text x="510" y="50" text-anchor="middle" fill="#3a5060" font-size="9.5" font-family="Courier New, monospace" letter-spacing="3">c. 4000 CE  ·  SCHEMATIC — DISTANCES NOT TO SCALE</text>
+
+  <!-- Footer -->
+  <text x="510" y="685" text-anchor="middle" fill="#1e3040" font-size="8.5" font-family="Courier New, monospace" opacity="0.8">Dashed lines mark established travel routes · Jumpgates (Sirius Compact / IFMC–controlled) occupy strategic chokepoints</text>
+</svg>

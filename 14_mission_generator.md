@@ -1,6 +1,6 @@
 ### **Mission Generator**  
 
-This generator creates a diverse array of missions set in the Orion Arm, reflecting the challenges and opportunities of a fragmented and unpredictable galaxy. Players may take on assignments for various factions, uncover Precursor mysteries, and navigate the complex dynamics of interstellar society.  
+This generator produces missions set in the Orion Arm. Players take on contracts for factions, uncover Precursor mysteries, and work through the competing interests of interstellar society.  
 
 ### **Finding Missions**  
 
@@ -56,7 +56,7 @@ Roll 1d6 to determine the availability of missions. Spend 1₡ to re-roll.
 | 13. | Uncharted Planetary System|  
 | 14. | Cosmic Dust Nebula        |  
 | 15. | Rogue Planet Surface      |  
-| 16. | Hazardous Kuiper Belt Zone|  
+| 16. | Varnon Swarm Boundary     |  
 | 17. | Experimental Shipyard     |  
 | 18. | Diplomatic Conference Station |  
 | 19. | Deep Space Monitoring Array |  
@@ -71,8 +71,8 @@ Roll 1d6 to determine the availability of missions. Spend 1₡ to re-roll.
 | 3.  | Sirius Compact Resource Authority |  
 | 4.  | Precursor Seekers Guild          |  
 | 5.  | Independent Frontier Council     |  
-| 6.  | Polaris Freeholds Alliance       |  
-| 7.  | Nova Terra Science Collective    |  
+| 6.  | Frontier Coalition Council       |  
+| 7.  | Nova Terra Assembly              |  
 | 8.  | Interstellar Free Market Consortium |  
 | 9.  | Zynthari Observation Directorate |  
 | 10. | Rogue AI Research Division       |  
@@ -81,7 +81,7 @@ Roll 1d6 to determine the availability of missions. Spend 1₡ to re-roll.
 | 13. | System Defense Coalition         |  
 | 14. | Pan-Galactic Traders Network     |  
 | 15. | Galactic Conservation League     |  
-| 16. | Astral Peacekeepers Guild        |  
+| 16. | Zal-Terran Commonwealth Council  |  
 | 17. | Deep Space Xenology Institute    |  
 | 18. | Sector Energy Consortium         |  
 | 19. | Terraforming Engineers Assembly  |  
@@ -101,7 +101,7 @@ Roll 1d6 to determine the availability of missions. Spend 1₡ to re-roll.
 | 8.  | Sabotage by Unseen Forces           |  
 | 9.  | Unexpected First Contact Event      |  
 | 10. | Xenological Contamination Risk      |  
-| 11. | Enigmatic Signal Compromises Systems |  
+| 11. | Varnon Swarm Advance Detected Nearby |  
 | 12. | Secret Corporate Involvement        |  
 | 13. | Factional Diplomatic Fallout        |  
 | 14. | Equipment Failure in Extreme Conditions |  
@@ -113,6 +113,8 @@ Roll 1d6 to determine the availability of missions. Spend 1₡ to re-roll.
 | 20. | Distress Beacon is Hostile Trap     |  
 
 ### **Mission Reward Table**  
+
+Missions pay according to their scope and danger. As a baseline: a **standard contract** pays 1d6₡ on completion (in addition to the Advancement d6₡ earned for personal growth); a **dangerous or faction-critical job** pays 2d6₡; an **exceptional outcome** or a job for a major polity yields 3d6₡ or an item from the table below instead of credits. The Referee should offer one or the other — credits or a table result — not both, unless the players have significantly exceeded mission parameters.
 
 | D20 | Reward                              |  
 | --- | ----------------------------------- |  
@@ -231,7 +233,7 @@ Roll 1d6 to determine the availability of missions. Spend 1₡ to re-roll.
 | 16  | The Interstellar Free Market Consortium pressures for a favorable deal |
 | 17  | Conservationists demand protection of local ecosystems |
 | 18  | Rival archaeologists race to uncover a Precursor secret first |
-| 19  | The Polaris Freeholds demand a share of the spoils for cooperation |
+| 19  | The Frontier Coalition demands a share of the spoils for cooperation |
 | 20  | An unaligned collective of outlaws seeks leverage over all involved |
 
 

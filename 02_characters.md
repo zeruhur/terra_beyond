@@ -3,30 +3,30 @@
 Playable characters are the players' gateway to the game universe in **4000 CE**. By assuming their role, players will shape the narrative through their intentions and actions, navigating the fractured and mysterious realms of the **Orion Frontier**.
 
 ### **1) Choose Your Role**
-**ADVENTURER:** Skilled in Piloting (d8) and Planetside Survival (d8). Take a modular exploration suit, survival toolkit, and a small atmospheric shuttle.
+**ADVENTURER:** Skilled in Piloting (d8) and Survival (d8). Take a modular exploration suit, survival toolkit, and a small atmospheric shuttle.
 
-**ARCHIVIST:** Skilled in Precursor Lore (d8) and Computers (d8). Take a handheld translator, data archives, and a holographic research assistant.
+**ARCHIVIST:** Skilled in Science (d8) and Computers (d8). Take a portable sensor array, data archives, and a holographic research assistant.
 
-**DIPLOMAT:** Skilled in Negotiation (d8) and Espionage (d8). Take cultural exchange documents, a comm suite with encrypted channels, and adaptive attire.
+**DIPLOMAT:** Skilled in Negotiation (d8) and Linguistics (d8). Take cultural exchange documents, a comm suite with encrypted channels, and adaptive attire.
 
 **ENGINEER:** Skilled in Engineering (d8) and Resource Management (d8). Take a repair drone, multi-tool gauntlet, and a resource processor (bulky).
 
-**HORIZON PILOT:** Skilled in Navigation (d8) and Hyperspace Coordination (d8). Take a personal spacecraft with enhanced sensors, a flight suit, and a tactical navigation device.
+**HORIZON PILOT:** Skilled in Navigation (d8) and Piloting (d8). Take a personal spacecraft with enhanced sensors, a flight suit, and a tactical navigation device.
 
 **GUARDIAN:** Skilled in Tactics (d8) and Firearms (d8). Take a reinforced exo-suit, pulse rifle, and a tactical drone.
 
 **MEDIC:** Skilled in Medicine (d8) and Xenobiology (d8). Take a medkit, portable diagnostic unit, and genetic repair patches.
 
-**MERCHANT:** Skilled in Trade Negotiation (d8) and Networking (d8). Take an encrypted market database, portable goods container, and 8 Supply Credits.
+**MERCHANT:** Skilled in Negotiation (d8) and Networking (d8). Take an encrypted market database, portable goods container, and 8 Supply Credits.
 
 **SHADOW:** Skilled in Stealth (d8) and Psi-Ops (d8). Take a cloaking device, a neural inhibitor, and a concealed weapon of choice.
 
-**TECH-SCAVENGER:** Skilled in Engineering (d8) and Precursor Artifact Handling (d8). Take a magnetic harness, a portable analysis rig, and a quantum artifact container.
+**TECH-SCAVENGER:** Skilled in Engineering (d8) and Sensors (d8). Take a magnetic harness, a portable analysis rig, and a quantum artifact container.
 
 ### 2) Pick Three Skill Increases (from no skill->d8->d10->d12:)
 
 **Skills Available:**  
-Astrophysics, Close Quarters Combat, Computers, Cyber-Ops, Demolitions, Diplomacy, Engineering, Exo-Suit Operation, Firearms, Gravity Dynamics, Hyperspace Navigation, Linguistics, Medicine, Negotiation, Piloting, Precursor Lore, Psi-Ops, Resource Management, Science (specializations like Nanoengineering, Xenology), Sensors, Stealth, Survival, Tactics, Xenobiology, Zero-G Maneuvering.
+Close Quarters Combat, Computers, Cyber-Ops, Demolitions, Engineering, Exo-Suit Operation, Firearms, Linguistics, Medicine, Navigation, Negotiation, Networking, Piloting, Psi-Ops, Resource Management, Science (specializations: Astrophysics, Nanoengineering, Xenology, etc.), Sensors, Stealth, Survival, Tactics, Xenobiology, Zero-G Maneuvering.
 
 ## Details
 
@@ -214,51 +214,15 @@ Customize details to fit the setting. Here are some options fitting a hard sci-f
 
 ### **Starting Gear**
 
-**You start with a personal comm unit, basic vacuum suit and 5 Supply Credits (₡). Most standard items cost 1-2₡.**
+Every character starts with a personal comm unit, basic vacuum suit, and 5 Supply Credits (₡) — 8₡ if playing a Merchant. Role-specific equipment is listed above. Full gear lists are in chapter 3.
 
-**TOOLS:**  
-- **Nanite Repair Kit:** Autonomous micro-bots for repairing equipment, vehicles, or minor structural damage.  
-- **Planetary Survey Gear:** Multi-spectral scanners, geologic probes, and atmosphere analyzers for mapping unknown terrains.  
-- **Precursor Energy Detector:** Specialized device for locating and analyzing energy signatures from ancient technologies.  
-- **Hacking Nodes:** Portable modules to bypass security systems or disrupt electronic networks.  
-- **Quantum Splicer:** A handheld tool for fine-tuning quantum circuits and repairing advanced technology.  
-- **Portable Fabricator:** A small, mobile 3D printer capable of creating basic tools, components, or improvised repairs.  
+## Playing Synthetic and Uploaded Characters
 
-**WEAPONS:**  
-- **Grav-Rifle:** Fires kinetic projectiles with variable gravity fields for extra impact or ricochet effects.  
-- **Plasma-Edged Blade:** A close-combat weapon with a superheated plasma field for cutting through armor.  
-- **Disruptor Pistol:** A compact weapon designed to disable electronics, vehicles, or shields.  
-- **Phase Grenade:** Explosive device that creates a localized rift in spacetime, disabling or scattering targets.  
-- **Sonic Emitter:** A non-lethal weapon emitting high-frequency waves to incapacitate opponents.  
-- **Void Harpoon:** A tethered, high-velocity weapon for grappling targets or traversing extreme environments.  
+By 4000 CE roughly 15% of core-system citizens exist as digitized minds, and many more are heavily augmented to the point where the boundary between organic and synthetic is a matter of philosophy rather than biology. Any of the ten character roles can represent a synthetic or uploaded being — use the same skills and gear, but describe them differently.
 
-**ARMOR:**  
-- **Adaptive Cloak:** A stealth field generator embedded in a cloak, making the wearer blend into their surroundings.  
-- **Exo-Suit (with Grav-Field Dampening):** Provides enhanced strength, stability, and protection in high-gravity environments.  
-- **Kinetic Deflection Armor:** Absorbs and disperses kinetic impacts to protect against bullets and melee attacks.  
-- **Psionic Shield Harness:** Personal energy shield designed to protect against mental or psionic attacks.  
-- **Ablative Plating Suit:** Features layers of material designed to vaporize and absorb energy weapon impacts.  
+**Uploaded minds** typically inhabit android bodies or remote-operated frames. They do not need food, breathable air, or sleep, but they require power and are vulnerable to Cyber-Ops attacks. Their comm unit doubles as a mind-backup tether; losing it in a disaster result may mean more than lost equipment.
 
-**VEHICLES:**  
-- **Orbital Hopper:** A compact spacecraft for short-range orbital transfers or planetary descents.  
-- **Grav-Bike:** A high-speed vehicle with anti-gravity stabilization, perfect for navigating uneven terrain.  
-- **Stellar Skimmer:** A small, agile spacecraft designed for exploration and rapid transport.  
-- **Mech-Assisted Rover:** A heavy-duty vehicle equipped with robotic arms and analysis tools for excavation and exploration.  
-- **Atmospheric Glider:** A silent, lightweight craft ideal for scouting missions in breathable atmospheres.  
+**Synthetic intelligences** that have not been human before exist as a rarer option. They often carry social stigma in frontier systems but command respect — and sometimes fear — in core polities and the Nova Terra Assembly.
 
-**CYBERNETICS:**  
-- **Enhanced Neural Link:** Increases reaction time and cognitive processing for faster decision-making and control of devices.  
-- **Hyperspectral Vision Implant:** Allows the user to see in multiple spectrums, including infrared and ultraviolet.  
-- **Limb with Grappling Functions:** A cybernetic arm with a retractable grappling hook for climbing or capturing.  
-- **Tactile Interface Augmentation:** Enhances manual dexterity for delicate operations, like repairs or medical procedures.  
-- **Biofeedback Regulator:** Controls stress levels and optimizes physical performance during intense activity.  
-
-**MISC:**  
-- **Precursor Data Shards:** Encoded artifacts containing unknown but potentially valuable information.  
-- **Telepathic Relay Unit:** Enhances mental communication between users, useful for covert operations or emergencies.  
-- **Bio-Synth Sustenance Replicator:** Produces nutrient-rich food and water from raw organic materials.  
-- **Psionic Amplifier:** Boosts the user’s latent psionic abilities, if applicable, for mental manipulation or defense.  
-- **Portable Cryostasis Pod:** Allows for emergency preservation of critically injured allies or valuable biological specimens.  
-- **Holo-Projector Kit:** Creates detailed, interactive holograms for distraction, communication, or tactical planning.  
-- **Atmospheric Stabilizer:** A compact device that generates breathable air in hazardous environments.  
+Neither type has special mechanical rules. Describe the fiction and let the standard dice decide the rest.
 

@@ -3,21 +3,21 @@
 ## **Sol Union**  
 
 - **Foundation:** 2155, as a unified government for Earth and its early space colonies.  
-- **Main Objectives:** Promote peace, sustainable development, and interstellar cooperation.  
+- **Main Objectives:** Preserve interstellar stability, mediate disputes, and maintain the legacy of humanity’s founding treaties.  
 - **Main Star Systems:** Sol, Alpha Centauri, Keid (Omicron2 Eridani).  
-- **Organizational Structure:** Centralized federation with strong interstellar governance.  
-- **Governance and Administration:** The Central Council, elected by member systems, serves as the legislative body, while the Executive Commission enforces policies.  
-- **Interstellar Relations:** Mediator and peacekeeper in interstellar disputes, maintaining strong ties with most major factions.  
-- **Economy and Resources:** Advanced manufacturing, resource extraction, and ecological technology from planets like Keid and Luna.  
-- **Defense and Security:** The Union Defense Force is a highly organized fleet focused on protecting trade routes and enforcing treaties.  
-- **Research and Innovation:** Cutting-edge research in sustainability, AI governance, and jumpgate technology.  
-- **Culture and Society:** Multicultural, emphasizing collective identity as stewards of humanity’s legacy
+- **Organizational Structure:** Legacy federation, now functioning primarily as a cultural mediator and treaty custodian rather than an executive power. No longer dominant.  
+- **Governance and Administration:** The Central Council continues to convene, but its resolutions are advisory. Enforcement depends on member-system goodwill and the Union Defense Force’s diminished credibility.  
+- **Interstellar Relations:** Still respected as a neutral mediator — the oldest continuous interstellar institution — but its political weight is largely symbolic outside core systems.  
+- **Economy and Resources:** Sol’s real economic engine lies in Keid and Alpha Centauri; Earth itself generates little productive output and is sustained largely by cultural tourism and symbolic tribute from member worlds.  
+- **Defense and Security:** The Union Defense Force remains organized but is outgunned by the private fleets of the Sirius Compact and the IFMC. It focuses on treaty enforcement and piracy suppression rather than power projection.  
+- **Research and Innovation:** Archives and institutional knowledge rather than active research leadership; Nova Terra has long since supplanted Sol as the scientific center of human space.  
+- **Culture and Society:** Citizens of the Sol Union carry a shared identity as stewards of humanity’s founding heritage. Earth is a pilgrimage site. Younger polities sometimes regard this as nostalgia; the Sol Union does not entirely disagree.
 
 ## Orion Concordium  
 
 - **Foundation:** 2680, as a coalition of star systems seeking mutual defense and economic cooperation.  
 - **Main Objectives:** Maintain order and stability, balance exploration with resource management.  
-- **Main Star Systems:** Orionis Refuge, Bellatrix, Mintaka.  
+- **Main Star Systems:** Chi1 Orionis A (Orionis Refuge), Bellatrix, Spica.  
 - **Organizational Structure:** Decentralized federation where each member retains significant autonomy.  
 - **Governance and Administration:** Governed by a Concordium Assembly, with representatives from member systems.  
 - **Interstellar Relations:** Frequently mediates between frontier factions and core systems.  
@@ -33,7 +33,7 @@
 - **Main Star Systems:** Sirius A, Vega.  
 - **Organizational Structure:** Corporate oligarchy led by a consortium of megacorporations.  
 - **Governance and Administration:** Decisions are made by the Compact Council, a body of corporate executives.  
-- **Interstellar Relations:** Highly competitive, often at odds with other factions over resources.  
+- **Interstellar Relations:** Highly competitive, often at odds with other factions over resources. Its primary commercial rival is the IFMC — a pan-galactic trade consortium that operates across all polities without fixed territory; the two compete fiercely over trade routes and jumpgate access, though they coordinate when mutual benefit outweighs rivalry.  
 - **Economy and Resources:** Dominates interstellar commerce, controlling vital trade hubs and energy production.  
 - **Defense and Security:** Private military fleets and advanced defense technologies protect its assets.  
 - **Research and Innovation:** Leaders in AI, robotics, and resource efficiency.  
@@ -41,7 +41,7 @@
 
 ## **Nova Terra Assembly**
 
-- **Foundation:** 2620, after the Nova Terra Rebellion and the Chara Accords.  
+- **Foundation:** 2625, after the Chara Accords formally established Nova Terra's independence.  
 - **Main Objectives:** Advocate for transhumanism and the evolution of humanity beyond biological limitations.  
 - **Main Star Systems:** Chara, Zeta Reticuli.  
 - **Organizational Structure:** Collective governance among digitized minds and augmented individuals.  
@@ -49,13 +49,13 @@
 - **Interstellar Relations:** Limited interaction with less advanced factions but collaborates on shared scientific goals.  
 - **Economy and Resources:** Self-sustaining economies powered by Precursor-inspired technologies.  
 - **Defense and Security:** Advanced synthetic fleets and psionic defenses.  
-- **Research and Innovation:** Leaders in genetic engineering, mind uploading, and Precursor artifact integration.  
+- **Research and Innovation:** Leaders in genetic engineering, mind uploading, and Precursor artifact integration. Their administration of Zeta Reticuli — site of the Ark of Precursor Knowledge — gives the Assembly privileged access to the most significant Precursor data repository in human space, a position that draws constant pressure from the Precursor Seekers and other research factions.  
 - **Culture and Society:** Posthumanist, valuing intellectual and technological achievement above all else .  
 
 ## **Zal-Terran Commonwealth**  
-- **Foundation:** 2780, after a wave of human-alien cooperation treaties.  
+- **Foundation:** 2870, following the multi-species contacts of 2840 and the rimward alien protection laws of 2850.  
 - **Main Objectives:** Foster human-alien collaboration and protect mutual interests.  
-- **Main Star Systems:** Deneb, Altair, and several alien-colonized systems.  
+- **Main Star Systems:** Tau Ceti, Epsilon Eridani, and several rimward alien-inhabited systems.  
 - **Organizational Structure:** Unified governance blending human and alien representation.  
 - **Governance and Administration:** A bicameral council with human and alien delegates.  
 - **Interstellar Relations:** Known for diplomacy, often mediating between human factions and alien civilizations.  
@@ -64,11 +64,11 @@
 - **Research and Innovation:** Breakthroughs in xenobiology, linguistics, and cooperative engineering.  
 - **Culture and Society:** Multicultural, celebrating diversity and coexistence.  
 
-## **Polaris Freeholds**  
+## **Frontier Coalition**  
 
 - **Foundation:** 3050, formed by frontier settlers seeking independence from centralized governance.  
 - **Main Objectives:** Self-reliance, freedom from external control, and frontier development.  
-- **Main Star Systems:** Polaris, Lalande 21185.  
+- **Main Star Systems:** Capella, Algol.  
 - **Organizational Structure:** Loosely governed by local councils and cooperatives.  
 - **Governance and Administration:** Minimal central authority; local leadership holds sway.  
 - **Interstellar Relations:** Distrusts core systems but trades with other frontier factions.  

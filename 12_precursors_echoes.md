@@ -12,6 +12,14 @@ The Precursors, an enigmatic civilization that spanned the Orion’s Arm million
 3. **Inspirations and Warnings**  
    Stories of Precursor collapse resonate deeply with human and alien societies alike. Were they undone by hubris, war, or an external threat? These questions inspire philosophical debates and factional politics across the stars.
 
+## **The Ark of Precursor Knowledge**
+
+The most significant Precursor site in human space is the *Ark of Precursor Knowledge* — a 10-km megastructure discovered in 2925 in the Zeta Reticuli system, controlled by the Nova Terra Assembly. It predates human civilization by millions of years and contains the largest decoded repository of Precursor data yet found. First translation attempts failed; a 2938 breakthrough yielded 1,000 words and a basic grammar. By 4000 CE, perhaps 3% of the structure's content has been read.
+
+What has been decoded is enough to confirm that the Precursors knew the catastrophe was coming and could not stop it. The Ark was built in haste. Researchers debate whether it was meant as a warning, a record, or an instruction set for whoever came after.
+
+The Precursor Seekers maintain a permanent research vessel — the *Ark of Reticuli* — in-system, in persistent tension with the Assembly's administrative authority over the site.
+
 ## **Exploring Precursor Ruins**
 ### **Features of Precursor Sites**
 - **Megastructures**: From dyson spheres to orbital rings, these titanic constructions dominate the space they occupy, often housing layers of cryptic mechanisms or hostile environments.
@@ -49,7 +57,7 @@ The Precursors, an enigmatic civilization that spanned the Orion’s Arm million
    What caused their downfall? Every artifact and ruin is a piece of a puzzle that points toward an extinction event—one that might still pose a threat to the galaxy.
 
 2. **The Relic Guardians**  
-   Are the sentient constructs found in ruins merely ancient AI, or do they represent Precursor minds that refuse to die? Their cryptic warnings often mention a "Final Accord."
+   Are the sentient constructs found in ruins merely ancient AI, or do they represent Precursor minds that refuse to die? Their cryptic warnings often mention a "Final Accord" — a phrase that appears in multiple unconnected ruins and has no confirmed translation. Some researchers believe it refers to the agreement the Precursors made before the end; others think it names the catastrophe itself. The Zynthari, when asked, do not answer.
 
 3. **The Shard Network**  
    Some explorers believe that Precursor ruins are connected through an interstellar network of energy conduits. Activating one artifact could awaken others—or unleash chaos.

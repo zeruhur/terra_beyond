@@ -1,6 +1,6 @@
 # **Stellar Fauna and Flora**
 
-The alien worlds of the Orion Frontier teem with life forms adapted to their harsh and unique environments. From bioluminescent predators to plants that feed on starlight, these organisms are as dangerous as they are fascinating. Their study offers insights into the adaptability of life across the stars, but interactions can be perilous. Below are examples of some of the most intriguing flora and fauna found in the Frontier.
+The alien worlds of the Orion Frontier support life forms adapted to conditions that range from toxic to impossible. Many are dangerous. Most are poorly understood. Below are examples of flora and fauna encountered in the Frontier.
 
 ## **Flora**
 ### **1. Luminae Vines**  
@@ -22,7 +22,7 @@ The alien worlds of the Orion Frontier teem with life forms adapted to their har
 ## **Fauna**
 ### **1. Umbra Stalkers**  
 - **Habitat**: Subterranean caverns and shadowed planetary environments.  
-- **Description**: These sleek, six-legged predators are covered in a jet-black, reflective hide that allows them to blend seamlessly into darkness. They are bioluminescent on their undersides, emitting an eerie, low glow that they use to communicate with their kind.  
+- **Description**: These sleek, six-legged predators are covered in a jet-black, reflective hide that renders them nearly invisible in darkness. They are bioluminescent on their undersides, emitting an eerie, low glow that they use to communicate with their kind.  
 - **Behavior**:
    - Ambush predators, they use their luminescence to lure prey into traps.
    - Highly intelligent, Umbra Stalkers have been observed coordinating hunts through complex light signals.  
@@ -84,4 +84,15 @@ Roll 1d10:
 | 8   | A Sky Spire’s spores drift into a settlement, causing unknown biological effects. |
 | 9   | An alien nomad warns the players of a deadly creature haunting a Precursor ruin. |
 | 10  | A colossal Nebula Manta tangles with a pirate ship near the players' position. |
+
+## Macro-Scale Hazards
+
+Some threats transcend the scale of individual organisms and must be understood as system-level phenomena.
+
+### **The Varnon Swarm**  
+- **Scale:** Interstellar.  
+- **Classification:** Non-sentient self-replicating process; sometimes categorized as a distributed macro-organism, though the label is contested.  
+- **Description:** The Varnon Swarm does not have a body. It is a consuming process — a self-replicating cascade of structures that disassembles planetary matter, captures stellar energy, and replicates outward. Up close, an affected system shows signs of progressive mineral depletion, odd energy readings from orbit, and increasingly anomalous behavior from local fauna before planets become inert husks. The process takes centuries per system, but it does not stop.  
+- **Behavior:** No communication is possible. The Swarm does not pursue; it advances. Ships that remain in an actively consumed system too long report equipment failures consistent with energy siphoning. Direct contact with Swarm structures causes rapid material breakdown.  
+- **Uses:** The Swarm boundary is the setting for some of the most isolated and dangerous missions in the Orion Frontier. Researchers, early-warning teams, and reckless salvagers all venture there. First-hand observations are rare and valuable — most factions prefer their populations not to think too hard about what is moving toward them.
 
