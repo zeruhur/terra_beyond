@@ -291,7 +291,7 @@ Customize details to fit the setting. Here are some options fitting a hard sci-f
 
 *Frontier: Beyond Sol* is built for mission-based play. Each session centers on a specific job or objective with a clear scope. This keeps the system's risk-driven resolution working as intended. The rules are calibrated for situations where something is at stake, and a mission frame ensures something usually is. Extended low-pressure stretches work best as transitions between missions, not as the main mode of play.
 
-The role of the Referee is to control the game universe: he describes situations, NPCs, and their reactions to the PCs' actions. He or she should be as clear as possible about the conditions of the context in which the characters are immersed: if there is a reasonable certainty that the character has access to a piece of information or knowledge, the referee should communicate it to the player, without asking for a roll. In this game, a roll is made only for situations of risk or uncertainty of the outcome of a direct action.
+The role of the Referee is to control the game universe: they describe situations, NPCs, and their reactions to the PCs' actions. The Referee should be as clear as possible about the conditions of the context in which the characters are immersed: if there is a reasonable certainty that the character has access to a piece of information or knowledge, the referee should communicate it to the player, without asking for a roll. In this game, a roll is made only for situations of risk or uncertainty of the outcome of a direct action.
 
 -   If an action is impossible, the referee simply declares it so by explaining why and describing the possible alternatives to the player.
 -   If the cost of an action is explicit, the referee will clearly present it. The player can decide whether to take the action or try another one.
@@ -336,8 +336,6 @@ After successfully completing a mission or major story milestone, each player ch
 
 For example, after infiltrating an enemy base undetected and stealing valuable data, a character with stealth and hacking skills currently at d8 could increase their stealth to d10 for greater sneaking ability. They also would gain somewhere between 1-6 credits to spend on desired upgrades and purchases.
 
-This dual progression system rewards both new capabilities and resources, allowing characters to become more powerful and versatile over the course of the campaign. The incremental upgrades create a satisfying sense of growth and advancement for each successful mission. But the unpredictability keeps material gain uncertain, maintaining long-term goals and motivation.
-
 ## Damage Control
 
 Say how you use a piece of gear to absorb damage. It's disabled until repaired at a base.
@@ -374,6 +372,10 @@ When the written rules don't adequately cover a situation, the referee improvise
 
 The referee portrays the world and inhabitants surrounding the player characters.
 
+### Faction Standing
+
+After each mission, review the crew’s actions and, for each major faction involved, decide whether their standing shifts one step toward Hostile or Trusted. If a faction was helped, embarrassed, betrayed, or left exposed, shift toward Hostile. If a faction was protected, aided, or given clear advantage, shift toward Trusted. If the result is unclear, leave standing unchanged. When a faction becomes Hostile, add one complication from the Mission Generator or Complication table that follows from that faction’s reaction.
+
 ## Playing Solo
 
 *Frontier: Beyond Sol* can be played alone, without a Referee. You control a single character navigating the interstellar frontier, and a set of oracles takes the Referee's place — answering questions, introducing complications, and keeping the fiction honest when you can't answer for yourself.
@@ -409,8 +411,6 @@ Interpret the result:
 -   **3-4 — Friction:** Something could go wrong. Make your standard roll.
 -   **5+ — Clean:** The situation is in hand. No roll needed — it happens.
 
-------------------------------------------------------------------------
-
 ### Question Oracle
 
 When the outcome isn't about what your character *does* — NPC reactions, world states, things off-screen — ask a yes/no question and roll based on the odds.
@@ -428,8 +428,6 @@ Interpret the result:
 -   **1-2 — No, and…** It doesn't happen, and things get worse.
 -   **3-4 — Yes, but…** It happens, but with a complication.
 -   **5+ — Yes, and…** It happens, and something else opens up.
-
-------------------------------------------------------------------------
 
 ### Sparks
 
