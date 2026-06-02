@@ -12,10 +12,10 @@ In all other cases, the action is automatically successful.
 
 ## Rolling
 
-When a character attempts an action with significant risk, the player rolls a skill die to determine the outcome. The default is a d6. 
+When a character attempts an action with significant risk, the player rolls a skill die to determine the outcome. The default is a d6.
 
-- If the character has applicable skills or talents, they roll a bigger die like d8 or d10 to represent competence. 
-- Conversely, if _hindered_ by injuries or obstacles may warrant a smaller die like d4 to show impairment.
+- If the character has applicable skills or talents, they roll a bigger die like d8 or d10 to represent competence.
+- Conversely, if *hindered* by injuries or obstacles may warrant a smaller die like d4 to show impairment.
 
 The player can also roll bonus dice based on circumstances:
 
@@ -25,9 +25,8 @@ The player can also roll bonus dice based on circumstances:
 The player rolls their skill die plus any bonus dice, taking the single highest result.
 
 - **1-2, disaster.** The full brunt of the risk occurs, and the Referee judges if there is any success at all. A roll this bad could mean instant death when mortality is on the line.
-- **3-4, setback.** You suffer a lesser or partial consequence. If risking death, the character might survive but with a grievous injury and _hindered_.
-- **5+, success.** The higher numbers, the better the outcomes. 
-
+- **3-4, setback.** You suffer a lesser or partial consequence. If risking death, the character might survive but with a grievous injury and *hindered*.
+- **5+, success.** The higher numbers, the better the outcomes.
 
 ## Load
 
@@ -35,7 +34,7 @@ Characters can carry as many possessions as reasonably fits their physical capac
 
 However, if a character loads themselves down with multiple overly bulky or heavy items, it may hinder their ability to move and act freely at times. For instance, carrying a large shield, a two-handed weapon, and a bulging sack of gear may make it difficult to squeeze through narrow spaces or balance while climbing.
 
-In such cases, the referee will inform the player that their character's encumbrance is _hindering_ their movement or dexterity in the current situation. The player can then decide to temporarily set down some of their carried items to proceed unfettered, stowing the extra gear nearby to be retrieved later. Or they may opt to continue carrying everything, accepting additional challenges or risks to their intended actions.
+In such cases, the referee will inform the player that their character's encumbrance is *hindering* their movement or dexterity in the current situation. The player can then decide to temporarily set down some of their carried items to proceed unfettered, stowing the extra gear nearby to be retrieved later. Or they may opt to continue carrying everything, accepting additional challenges or risks to their intended actions.
 
 ## Advancement
 
@@ -45,7 +44,6 @@ After successfully completing a mission or major story milestone, each player ch
 - Gain a number of currency credits (₡) equal to a d6 roll. Credits can be spent to acquire new gear, weapons, cyberware, services, etc. The die roll result encourages uncertainty in the exact amount of new wealth obtained.
 
 For example, after infiltrating an enemy base undetected and stealing valuable data, a character with stealth and hacking skills currently at d8 could increase their stealth to d10 for greater sneaking ability. They also would gain somewhere between 1-6 credits to spend on desired upgrades and purchases.
-
 
 ## Damage Control
 
@@ -59,7 +57,7 @@ The referee will determine if using the gear fully negates the attack or just re
 
 ## Injuries
 
-If a character sustains a serious injury during a game session, they will need to spend some in-game time in the medical bay to recover. The player should describe their character receiving medical treatment and the referee can narrate the passage of time during the healing process. 
+If a character sustains a serious injury during a game session, they will need to spend some in-game time in the medical bay to recover. The player should describe their character receiving medical treatment and the referee can narrate the passage of time during the healing process.
 
 If a character is killed, the player should introduce a new character as soon as is practical. The referee should facilitate quickly integrating the new character into the ongoing story.
 
@@ -69,19 +67,21 @@ The risks of combat and other dangerous activities are an important part of the 
 
 ## Game mastering
 
-The referee portrays non-player characters (NPCs) by describing their behaviors, motivations, and obstacles they present to the player characters. The referee should lead the group in establishing boundaries for subject matter and conduct during play. 
+The referee portrays non-player characters (NPCs) by describing their behaviors, motivations, and obstacles they present to the player characters. The referee should lead the group in establishing boundaries for subject matter and conduct during play.
 
 To control pacing and safety, the referee can fast-forward through uneventful stretches, pause play for breaks or sidebar discussions, or even rewind and redo a scene if needed. The referee should invite players to request scene edits too.
 
-The referee should present dilemmas and challenges without pre-planned solutions, letting players direct the story. 
+The referee should present dilemmas and challenges without pre-planned solutions, letting players direct the story.
 
 To give everyone screen time, the referee checks in with each player in turn.
 
-When careful play has kept the dice quiet for a while, test for bad luck to restore external input: roll a die — 1–2 means trouble surfaces (a patrol changes route, a contact gets nervous, a resource runs out), 3–4 means signs of trouble ahead. Before a session of low-profile play, establish at least one ambient pressure (a suspicion level, a deadline, a finite resource) so the bad luck check has something concrete to trigger.
+When careful play has kept the dice quiet for a while, test for bad luck: roll a die — 1–2 means trouble surfaces, 3–4 means signs of trouble ahead. Before a session of low-profile play, name at least one ambient pressure that fits the mission: fuel shortage, time pressure, missing clearance, equipment wear, communications delay, political scrutiny. These conditions give the bad luck check something concrete to trigger.
 
-When the written rules don't adequately cover a situation, the referee improvises rulings in the moment to keep the game moving. If any rulings seem unsatisfactory, the group should discuss them on a break and revise them collaboratively. 
+When the written rules don't adequately cover a situation, the referee improvises rulings in the moment to keep the game moving. If any rulings seem unsatisfactory, the group should discuss them on a break and revise them collaboratively.
 
-The referee portrays the world and inhabitants surrounding the player characters. 
+### Large-Scale Threats
+
+When a mission involves the Varnon Swarm, a Precursor site, or another phenomenon beyond ordinary human control, treat it as a source of pressure rather than a separate system. Use the existing mission frame, hazard tables, and consequences to show the threat advancing or changing shape. If the crew learns something that should not be public, or their actions reveal a larger pattern, let that knowledge reshape future missions rather than resolving the threat immediately.
 
 ## Playing Solo
 
@@ -99,8 +99,6 @@ Each time your character acts, go through these steps:
 2. **Assess the situation.** Use the *Risk Oracle* to read how much is at stake.
 3. **Roll if needed.** If the Risk Oracle says there's friction or volatility, make your standard roll. Otherwise, it just happens.
 4. **Interpret the outcome.** Let the result shape the fiction. If you need to know how the world or an NPC responds, use the *Question Oracle*.
-
----
 
 ### Risk Oracle
 
@@ -120,8 +118,6 @@ Interpret the result:
 - **3-4 — Friction:** Something could go wrong. Make your standard roll.
 - **5+ — Clean:** The situation is in hand. No roll needed — it happens.
 
----
-
 ### Question Oracle
 
 When the outcome isn't about what your character *does* — NPC reactions, world states, things off-screen — ask a yes/no question and roll based on the odds.
@@ -139,8 +135,6 @@ Interpret the result:
 - **1-2 — No, and…** It doesn't happen, and things get worse.
 - **3-4 — Yes, but…** It happens, but with a complication.
 - **5+ — Yes, and…** It happens, and something else opens up.
-
----
 
 ### Sparks
 
@@ -195,5 +189,4 @@ When you need a fresh angle or you're stuck, combine an Action and a Theme to ge
 | 18  | Tevkar       |
 | 19  | Void         |
 | 20  | Derelict     |
-
 
