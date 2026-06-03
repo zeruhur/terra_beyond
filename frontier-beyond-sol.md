@@ -98,28 +98,28 @@ Customize details to fit the setting. Here are some options fitting a hard sci-f
 
 ### Male Names
 
-|     |           |
-|-----|-----------|
-| 1   | Arjun     |
-| 2   | Chidi     |
-| 3   | Dmitri    |
-| 4   | Emre      |
-| 5   | Feng      |
-| 6   | Hiroshi   |
-| 7   | Idris     |
-| 8   | Jae       |
-| 9   | Kofi      |
-| 10  | Luca      |
-| 11  | Marcus    |
-| 12  | Matias    |
-| 13  | Omar      |
-| 14  | Pedro     |
-| 15  | Rahul     |
-| 16  | Seun      |
-| 17  | Viktor    |
-| 18  | Wei       |
-| 19  | Yohannes  |
-| 20  | Yusuf     |
+|     |          |
+|-----|----------|
+| 1   | Arjun    |
+| 2   | Chidi    |
+| 3   | Dmitri   |
+| 4   | Emre     |
+| 5   | Feng     |
+| 6   | Hiroshi  |
+| 7   | Idris    |
+| 8   | Jae      |
+| 9   | Kofi     |
+| 10  | Luca     |
+| 11  | Marcus   |
+| 12  | Matias   |
+| 13  | Omar     |
+| 14  | Pedro    |
+| 15  | Rahul    |
+| 16  | Seun     |
+| 17  | Viktor   |
+| 18  | Wei      |
+| 19  | Yohannes |
+| 20  | Yusuf    |
 
 ### Female Names
 
@@ -375,6 +375,30 @@ The referee portrays the world and inhabitants surrounding the player characters
 ### Faction Standing
 
 After each mission, review the crew’s actions and, for each major faction involved, decide whether their standing shifts one step toward Hostile or Trusted. If a faction was helped, embarrassed, betrayed, or left exposed, shift toward Hostile. If a faction was protected, aided, or given clear advantage, shift toward Trusted. If the result is unclear, leave standing unchanged. When a faction becomes Hostile, add one complication from the Mission Generator or Complication table that follows from that faction’s reaction.
+
+## Situation
+
+When characters act without risk, the GM rolls a die sized to how settled things are: d4 (chaotic), d6 (precarious), d8 (manageable), d10 (predictable), d12 (stable), to find how the world moves.
+
+-   1–2 Trouble. An adverse fact surfaces, something the characters can see and respond to.
+-   3–4 Signs. Trouble shows at the edge; the situation grows less stable, the next die will likely be smaller.
+-   5+ Calm. Nothing new; the action lands.
+
+The surfaced fact must be proportionate to what is established, leave something to act on, and follow from prior events, not invented to fill the silence.
+
+## Opponents
+
+Characters played by the GM have no skill dice. Define them by their **behavior** (what they want, including when they would rather flee or bargain than fight), the **risks** they present (the 1–2 result for players in conflict with them), and any **obstacles** (visible conditions, armor, numbers, cover, that must be cleared before they can be put down). Signal both before players roll.
+
+## Conflict
+
+In a fight, the GM rolls the situation die: d4 if ambushed or scattered, d6 if evenly matched, d8 if holding an advantage, d10 if dominating, d12 if the opposition is broken, to find what the opposition does.
+
+-   1–2 Press. A new risk or obstacle surfaces; the fight grows harder.
+-   3–4 Shift. The opposition adapts, repositions, changes tactic; the situation tilts.
+-   5+ Opening. An obstacle clears, a gap appears, or the opposition is ready to break.
+
+Roll in lulls, at the start of a fight, or whenever no skill roll applies. For extended conflicts, use Steps: state actions and risks, roll as needed, describe how the situation has changed, repeat. On an Opening with the opposition cornered, they break per their behavior, fleeing, yielding, or bargaining.
 
 ## Playing Solo
 
