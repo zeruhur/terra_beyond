@@ -79,6 +79,30 @@ When careful play has kept the dice quiet for a while, test for bad luck: roll a
 
 When the written rules don't adequately cover a situation, the referee improvises rulings in the moment to keep the game moving. If any rulings seem unsatisfactory, the group should discuss them on a break and revise them collaboratively.
 
+### Situation
+
+When characters act without risk, the GM rolls a die sized to how settled things are: d4 (chaotic), d6 (precarious), d8 (manageable), d10 (predictable), d12 (stable), to find how the world moves.
+
+- 1–2 Trouble. An adverse fact surfaces, something the characters can see and respond to.
+- 3–4 Signs. Trouble shows at the edge; the situation grows less stable, the next die will likely be smaller.
+- 5+ Calm. Nothing new; the action lands.
+
+The surfaced fact must be proportionate to what is established, leave something to act on, and follow from prior events, not invented to fill the silence.
+
+### Opponents
+
+Characters played by the GM have no skill dice. Define them by their **behavior** (what they want, including when they would rather flee or bargain than fight), the **risks** they present (the 1–2 result for players in conflict with them), and any **obstacles** (visible conditions, armor, numbers, cover, that must be cleared before they can be put down). Signal both before players roll.
+
+### Conflict
+
+In a fight, the GM rolls the situation die: d4 if ambushed or scattered, d6 if evenly matched, d8 if holding an advantage, d10 if dominating, d12 if the opposition is broken, to find what the opposition does.
+
+- 1–2 Press. A new risk or obstacle surfaces; the fight grows harder.
+- 3–4 Shift. The opposition adapts, repositions, changes tactic; the situation tilts.
+- 5+ Opening. An obstacle clears, a gap appears, or the opposition is ready to break.
+
+Roll in lulls, at the start of a fight, or whenever no skill roll applies. For extended conflicts, use Steps: state actions and risks, roll as needed, describe how the situation has changed, repeat. On an Opening with the opposition cornered, they break per their behavior, fleeing, yielding, or bargaining.
+
 ### Large-Scale Threats
 
 When a mission involves the Varnon Swarm, a Precursor site, or another phenomenon beyond ordinary human control, treat it as a source of pressure rather than a separate system. Use the existing mission frame, hazard tables, and consequences to show the threat advancing or changing shape. If the crew learns something that should not be public, or their actions reveal a larger pattern, let that knowledge reshape future missions rather than resolving the threat immediately.
