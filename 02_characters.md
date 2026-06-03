@@ -35,102 +35,102 @@ Customize details to fit the setting. Here are some options fitting a hard sci-f
 ### Male Names
 
 |||
-|--- |---     |
-| 1  | Jake   |
-| 2  | Aaron  |
-| 3  | David  |  
-| 4  | Nathan |
-| 5  | Michael| 
-| 6  | Daniel |
-| 7  | Joshua |
-| 8  | Andrew |
-| 9  | Justin |
-| 10 | Robert |
-| 11 | Ethan  |
-| 12 | Anthony|
-| 13 | Nicholas|
-| 14 | Alexander|
-| 15 | Ryan   |
-| 16 | Tyler  |
-| 17 | Jacob  |
-| 18 | Brandon|
-| 19 | Samuel |
-| 20 | Christian|
+|--- |---      |
+| 1  | Arjun   |
+| 2  | Chidi   |
+| 3  | Dmitri  |
+| 4  | Emre    |
+| 5  | Feng    |
+| 6  | Hiroshi |
+| 7  | Idris   |
+| 8  | Jae     |
+| 9  | Kofi    |
+| 10 | Luca    |
+| 11 | Marcus  |
+| 12 | Matias  |
+| 13 | Omar    |
+| 14 | Pedro   |
+| 15 | Rahul   |
+| 16 | Seun    |
+| 17 | Viktor  |
+| 18 | Wei     |
+| 19 | Yohannes|
+| 20 | Yusuf   |
 
-### Female Names  
+### Female Names
 
 |||
-|--- |---     |
-| 1  | Emily  |
-| 2  | Jessica| 
-| 3  | Sarah  |
-| 4  | Samantha|
-| 5  | Ashley |
-| 6  | Brittany|
-| 7  | Amanda |
-| 8  | Elizabeth|
-| 9  | Taylor |
-| 10 | Lauren |
-| 11 | Rachel |
-| 12 | Megan  |
-| 13 | Stephanie|
-| 14 | Jennifer |
-| 15 | Kayla  |
-| 16 | Amber  |
-| 17 | Nicole |
-| 18 | Courtney|
-| 19 | Danielle|
-| 20 | Victoria|
+|--- |---       |
+| 1  | Adaeze   |
+| 2  | Amara    |
+| 3  | Chiara   |
+| 4  | Fatima   |
+| 5  | Hana     |
+| 6  | Ingrid   |
+| 7  | Kavya    |
+| 8  | Kaya     |
+| 9  | Leila    |
+| 10 | Lena     |
+| 11 | Mei      |
+| 12 | Naledi   |
+| 13 | Nadia    |
+| 14 | Priya    |
+| 15 | Sakura   |
+| 16 | Sofia    |
+| 17 | Thandiwe |
+| 18 | Valentina|
+| 19 | Yuna     |
+| 20 | Zara     |
 
 ### Neutral Names
 
 |||
 |--- |---     |
-| 1  | Alex   |
-| 2  | Riley  |
-| 3  | Avery  |
-| 4  | Jordan | 
-| 5  | Parker |
-| 6  | Skyler |
-| 7  | Taylor |
-| 8  | Cameron|
-| 9  | Logan  |
-| 10 | Kendall|
-| 11 | Peyton |
-| 12 | Rowan  |
-| 13 | Finley |
-| 14 | Dakota |
-| 15 | Blake  |
-| 16 | Ainsley|
-| 17 | Rio    |
-| 18 | Kai    |
-| 19 | Reese  |  
-| 20 | Armani |
+| 1  | Asha   |
+| 2  | Cai    |
+| 3  | Dara   |
+| 4  | Eden   |
+| 5  | Hikari |
+| 6  | Indra  |
+| 7  | Jae    |
+| 8  | Kai    |
+| 9  | Lan    |
+| 10 | Mika   |
+| 11 | Morgan |
+| 12 | Nia    |
+| 13 | Phoenix|
+| 14 | Rin    |
+| 15 | Seren  |
+| 16 | Sol    |
+| 17 | Storm  |
+| 18 | Tai    |
+| 19 | Vega   |
+| 20 | Zion   |
 
 ### Surname
 
 |||
-|--- |---     |
-| 1  | Johnson|
-| 2  | Williams|
-| 3  | Jones  |
-| 4  | Brown  |
-| 5  | Davis  |
-| 6  | Miller |
-| 7  | Wilson |
-| 8  | Moore  |
-| 9  | Taylor |
-| 10 | Anderson|
-| 11 | Thomas |
-| 12 | Jackson|
-| 13 | White  |
-| 14 | Harris |
-| 15 | Martin |
-| 16 | Thompson|
-| 17 | Young  |
-| 18 | Allen  |
-| 19 | King   |
-| 20 | Wright |
+|--- |---      |
+| 1  | Adeyemi |
+| 2  | Andersen|
+| 3  | Bekele  |
+| 4  | Chen    |
+| 5  | Diallo  |
+| 6  | Ferreira|
+| 7  | Gupta   |
+| 8  | Hassan  |
+| 9  | Inoue   |
+| 10 | Kim     |
+| 11 | Kowalski|
+| 12 | Mbeki   |
+| 13 | Nguyen  |
+| 14 | Osei    |
+| 15 | Petrov  |
+| 16 | Santos  |
+| 17 | Singh   |
+| 18 | Vasquez |
+| 19 | Yildiz  |
+| 20 | Zhang   |
 
 ### Nickname  
 
