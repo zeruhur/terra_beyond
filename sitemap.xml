@@ -1,31 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://zeruhur.github.io/terra_beyond/docs/example-document.html</loc>
-    <lastmod>2026-06-04T09:54:33.909Z</lastmod>
-  </url>
-  <url>
-    <loc>https://zeruhur.github.io/terra_beyond/docs/terra_beyond_timeline.html</loc>
-    <lastmod>2026-06-04T09:54:33.910Z</lastmod>
-  </url>
-  <url>
-    <loc>https://zeruhur.github.io/terra_beyond/docs/orion-beyond-the-frontier.html</loc>
-    <lastmod>2026-06-04T09:54:33.910Z</lastmod>
-  </url>
-  <url>
-    <loc>https://zeruhur.github.io/terra_beyond/index.html</loc>
-    <lastmod>2026-06-04T09:54:33.974Z</lastmod>
-  </url>
-  <url>
-    <loc>https://zeruhur.github.io/terra_beyond/docs/frontier-beyond-sol.html</loc>
-    <lastmod>2026-06-04T09:54:33.909Z</lastmod>
-  </url>
-  <url>
-    <loc>https://zeruhur.github.io/terra_beyond/docs/sol-beyond-earth.html</loc>
-    <lastmod>2026-06-04T09:54:33.910Z</lastmod>
+    <loc>https://zeruhur.github.io/terra_beyond/docs/maps.html</loc>
+    <lastmod>2026-06-04T13:03:59.752Z</lastmod>
   </url>
   <url>
     <loc>https://zeruhur.github.io/terra_beyond/docs/about.html</loc>
-    <lastmod>2026-06-04T09:54:33.908Z</lastmod>
+    <lastmod>2026-06-04T13:03:59.742Z</lastmod>
+  </url>
+  <url>
+    <loc>https://zeruhur.github.io/terra_beyond/docs/sol-beyond-earth.html</loc>
+    <lastmod>2026-06-04T13:03:59.753Z</lastmod>
+  </url>
+  <url>
+    <loc>https://zeruhur.github.io/terra_beyond/docs/frontier-beyond-sol.html</loc>
+    <lastmod>2026-06-04T13:03:59.752Z</lastmod>
+  </url>
+  <url>
+    <loc>https://zeruhur.github.io/terra_beyond/index.html</loc>
+    <lastmod>2026-06-04T13:03:59.816Z</lastmod>
+  </url>
+  <url>
+    <loc>https://zeruhur.github.io/terra_beyond/docs/orion-beyond-the-frontier.html</loc>
+    <lastmod>2026-06-04T13:03:59.752Z</lastmod>
+  </url>
+  <url>
+    <loc>https://zeruhur.github.io/terra_beyond/docs/terra_beyond_timeline.html</loc>
+    <lastmod>2026-06-04T13:03:59.753Z</lastmod>
+  </url>
+  <url>
+    <loc>https://zeruhur.github.io/terra_beyond/docs/example-document.html</loc>
+    <lastmod>2026-06-04T13:03:59.751Z</lastmod>
   </url>
 </urlset>

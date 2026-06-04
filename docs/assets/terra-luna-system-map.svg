@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 760" role="img" aria-labelledby="title desc">
+  <title id="title">Terra-Luna System Map, 2090</title>
+  <desc id="desc">Minimal black and white schematic map of Earth, Luna, orbital stations, Lagrange points, and cislunar routes.</desc>
+  <rect width="1100" height="760" fill="#ffffff"/>
+  <style>
+    text{font-family:"Courier New",monospace;fill:#111}
+    .small{font-size:11px}.tiny{font-size:9px;fill:#555}.label{font-size:13px;font-weight:700}
+    .zone{font-size:10px;fill:#777;letter-spacing:2px}
+    .orbit{fill:none;stroke:#c8c8c8;stroke-width:1;stroke-dasharray:4 8}
+    .route{fill:none;stroke:#333;stroke-width:1.4;stroke-dasharray:6 7}
+    .body{fill:#fff;stroke:#111;stroke-width:2}.hub{fill:#111;stroke:#111;stroke-width:1.5}
+    .site{fill:#fff;stroke:#111;stroke-width:1.5}
+  </style>
+  <text x="38" y="42" class="label">TERRA-LUNA SYSTEM, 2090</text>
+  <text x="38" y="60" class="tiny">schematic cislunar operations map</text>
+  <g transform="translate(365 382)">
+    <circle r="82" class="orbit"/><circle r="170" class="orbit"/><ellipse cx="0" cy="0" rx="385" ry="250" class="orbit"/>
+    <line x1="0" y1="-82" x2="220" y2="-175" class="route"/>
+    <line x1="0" y1="-82" x2="385" y2="0" class="route"/>
+    <line x1="0" y1="-82" x2="205" y2="158" class="route"/>
+    <line x1="220" y1="-175" x2="385" y2="0" class="route"/>
+    <line x1="205" y1="158" x2="385" y2="0" class="route"/>
+    <line x1="385" y1="0" x2="500" y2="-118" class="route"/>
+    <line x1="385" y1="0" x2="500" y2="105" class="route"/>
+    <circle cx="0" cy="0" r="43" class="body"/>
+    <text x="-23" y="5" class="label">Earth</text><text x="-70" y="66" class="small">Sol Union administrative core</text>
+    <rect x="-15" y="-93" width="30" height="22" class="hub"/>
+    <text x="22" y="-84" class="label">High Orbit Hub</text><text x="22" y="-70" class="tiny">ports, customs, transfer docks</text>
+    <circle cx="-95" cy="132" r="6" class="site"/>
+    <text x="-232" y="129" class="small">Equatorial spaceports</text><text x="-232" y="141" class="tiny">Earth launch corridor</text>
+    <circle cx="220" cy="-175" r="8" class="site"/>
+    <text x="236" y="-180" class="label">L4</text><text x="236" y="-165" class="small">New Shanghai</text>
+    <text x="236" y="-153" class="tiny">O'Neill cylinder, 10,000 residents</text>
+    <circle cx="205" cy="158" r="8" class="site"/>
+    <text x="222" y="154" class="label">L5</text><text x="222" y="169" class="small">industrial habitats</text>
+    <text x="222" y="181" class="tiny">fabrication and warehousing</text>
+    <circle cx="192" cy="-16" r="6" class="site"/>
+    <text x="206" y="-21" class="small">L1 Relay</text><text x="206" y="-9" class="tiny">traffic control and comms</text>
+    <circle cx="500" cy="-118" r="6" class="site"/>
+    <text x="516" y="-122" class="small">L2 Deep-Space Gate</text><text x="516" y="-110" class="tiny">Mars, Venus, Belt departures</text>
+    <circle cx="500" cy="105" r="6" class="site"/>
+    <text x="516" y="101" class="small">Far-side array</text><text x="516" y="113" class="tiny">radio astronomy and defense watch</text>
+    <circle cx="385" cy="0" r="24" class="body"/><text x="352" y="-36" class="label">Luna</text>
+    <circle cx="380" cy="-12" r="4" class="hub"/><text x="408" y="-10" class="small">Luna-Center</text>
+    <circle cx="397" cy="10" r="4" class="hub"/><text x="408" y="17" class="small">Luna-5</text>
+    <circle cx="365" cy="13" r="4" class="site"/>
+    <text x="260" y="33" class="small">He-3 extraction fields</text><text x="260" y="45" class="tiny">resource and construction zones</text>
+    <path d="M355,-28 C374,-46 403,-45 420,-24" fill="none" stroke="#111" stroke-width="1"/>
+    <path d="M354,29 C375,45 404,43 421,22" fill="none" stroke="#111" stroke-width="1"/>
+  </g>
+  <g transform="translate(38 600)">
+    <rect x="0" y="0" width="332" height="124" rx="4" fill="#fff" stroke="#aaa"/>
+    <text x="14" y="19" class="zone">LEGEND</text>
+    <circle cx="20" cy="39" r="7" class="body"/><text x="36" y="43" class="small">world</text>
+    <rect x="14" y="54" width="13" height="13" class="hub"/><text x="36" y="65" class="small">primary hub or settlement</text>
+    <circle cx="20" cy="84" r="5" class="site"/><text x="36" y="88" class="small">station, Lagrange point, or site</text>
+    <line x1="14" y1="106" x2="44" y2="106" class="route"/><text x="52" y="110" class="small">routine cislunar transfer route</text>
+  </g>
+</svg>
