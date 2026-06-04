@@ -372,6 +372,12 @@
 
 ## Planets and Other Celestial Bodies
 
+### Maps
+
+![Sol System map, 2090](map/sol-system-map.svg)
+
+![Terra-Luna System map, 2090](map/terra-luna-system-map.svg)
+
 * **Earth:** The administrative hub of the Sol Union, Earth remains the center of political and economic power. It houses numerous orbital stations that serve as transport hubs, communication centers, and research platforms.
 
 * **Luna:** Luna has evolved into a major hub for space activities. It hosts multiple lunar bases and serves as a gateway to the rest of the solar system. Lunar colonies focus on scientific research, resource extraction, and space tourism.

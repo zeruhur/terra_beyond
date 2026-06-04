@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 760" role="img" aria-labelledby="title desc">
+  <title id="title">Sol Union Stellar Map, c. 2400</title>
+  <desc id="desc">Minimal black and white schematic map of Frontier: Beyond Sol human-settled space.</desc>
+  <rect width="1100" height="760" fill="#ffffff"/>
+  <style>
+    text{font-family:"Courier New",monospace;fill:#111}
+    .title{font-size:15px;font-weight:700}
+    .label{font-size:12px;font-weight:700}
+    .small{font-size:10px}
+    .tiny{font-size:8.5px;fill:#555}
+    .zone{font-size:10px;fill:#777;letter-spacing:2px}
+    .divider{stroke:#c7c7c7;stroke-width:1;stroke-dasharray:5 14}
+    .route{fill:none;stroke:#444;stroke-width:1.35;stroke-dasharray:6 7}
+    .gate{fill:none;stroke:#111;stroke-width:2.4}
+    .major{fill:#111;stroke:#111;stroke-width:1.5}
+    .hab{fill:#fff;stroke:#111;stroke-width:2}
+    .outpost{fill:#fff;stroke:#111;stroke-width:1.4}
+    .frontier{fill:#111;stroke:#111;stroke-width:1.3}
+  </style>
+
+  <text x="36" y="42" class="title">SOL UNION STELLAR MAP, c. 2400</text>
+  <text x="36" y="60" class="tiny">schematic stargate and trade-route map; positions are arranged for play readability, not exact sky coordinates</text>
+
+  <line x1="265" y1="88" x2="265" y2="704" class="divider"/>
+  <line x1="550" y1="88" x2="550" y2="704" class="divider"/>
+  <line x1="815" y1="88" x2="815" y2="704" class="divider"/>
+  <text x="142" y="94" text-anchor="middle" class="zone">CORE</text>
+  <text x="410" y="94" text-anchor="middle" class="zone">EARLY COLONIES</text>
+  <text x="682" y="94" text-anchor="middle" class="zone">UNION WORLDS</text>
+  <text x="948" y="94" text-anchor="middle" class="zone">OUTER FRONTIER</text>
+
+  <g fill="none" stroke="#ddd" stroke-width="1">
+    <circle cx="120" cy="392" r="88"/>
+    <circle cx="120" cy="392" r="155"/>
+  </g>
+
+  <g class="routes">
+    <path d="M120 392 L278 342 L366 286 L472 244 L610 188 L742 146 L913 126" class="gate"/>
+    <path d="M120 392 L294 428 L420 482 L568 548 L706 612 L884 650" class="gate"/>
+    <path d="M120 392 L330 536 L472 616" class="route"/>
+    <path d="M278 342 L350 220 L512 166" class="route"/>
+    <path d="M278 342 L396 366 L528 344 L678 360" class="route"/>
+    <path d="M294 428 L382 402 L484 404 L604 448" class="route"/>
+    <path d="M420 482 L528 344 L690 286" class="route"/>
+    <path d="M568 548 L690 286 L798 244" class="route"/>
+    <path d="M706 612 L760 492 L858 450" class="route"/>
+    <path d="M742 146 L798 244 L858 450 L884 650" class="route"/>
+  </g>
+
+  <g id="systems">
+    <circle cx="120" cy="392" r="10" class="major"/>
+    <text x="136" y="388" class="title">Sol</text>
+    <text x="136" y="402" class="tiny">Union capital, primary gate nexus</text>
+
+    <circle cx="278" cy="342" r="8" class="major"/>
+    <text x="292" y="329" class="label">Alpha Centauri A</text>
+    <text x="292" y="343" class="small">Alpha</text>
+    <text x="292" y="356" class="tiny">biodomes, scientific capital</text>
+
+    <circle cx="294" cy="428" r="8" class="major"/>
+    <text x="308" y="424" class="label">Alpha Centauri B</text>
+    <text x="308" y="438" class="small">Aqua</text>
+    <text x="308" y="451" class="tiny">marine cities, biotech, tourism</text>
+
+    <circle cx="330" cy="536" r="5" class="outpost"/>
+    <text x="314" y="557" text-anchor="middle" class="small">Sirius</text>
+    <text x="314" y="569" text-anchor="middle" class="tiny">early science outpost</text>
+
+    <circle cx="350" cy="220" r="5" class="outpost"/>
+    <text x="336" y="205" text-anchor="end" class="small">Luyten's Star</text>
+    <text x="336" y="217" text-anchor="end" class="tiny">2175 gate link</text>
+
+    <circle cx="366" cy="286" r="8" class="hab"/>
+    <text x="381" y="282" class="label">Tau Ceti</text>
+    <text x="381" y="296" class="small">Tau Ceti Prime</text>
+    <text x="381" y="309" class="tiny">water world, 4M inhabitants</text>
+
+    <circle cx="382" cy="402" r="5" class="outpost"/>
+    <text x="368" y="390" text-anchor="end" class="small">Barnard's Star</text>
+    <text x="368" y="402" text-anchor="end" class="tiny">relay and survey station</text>
+
+    <circle cx="420" cy="482" r="8" class="hab"/>
+    <text x="435" y="478" class="label">Ran</text>
+    <text x="435" y="492" class="small">Frost</text>
+    <text x="435" y="505" class="tiny">cold frontier world</text>
+
+    <circle cx="472" cy="244" r="8" class="hab"/>
+    <text x="486" y="240" class="label">40 Eridani A</text>
+    <text x="486" y="254" class="small">Eridani Aqua</text>
+    <text x="486" y="267" class="tiny">marine research, 2M inhabitants</text>
+
+    <circle cx="472" cy="616" r="5" class="outpost"/>
+    <text x="486" y="612" class="small">Procyon</text>
+    <text x="486" y="625" class="tiny">commercial waypoint</text>
+
+    <circle cx="512" cy="166" r="8" class="hab"/>
+    <text x="526" y="162" class="label">Eta Cassiopeiae A</text>
+    <text x="526" y="176" class="small">Cassiopeia Prime</text>
+    <text x="526" y="189" class="tiny">cold science world</text>
+
+    <circle cx="528" cy="344" r="8" class="hab"/>
+    <text x="542" y="340" class="label">82 Eridani</text>
+    <text x="542" y="354" class="small">Eridani Oceanus</text>
+    <text x="542" y="367" class="tiny">pressurized aquatic giant</text>
+
+    <circle cx="604" cy="448" r="5" class="outpost"/>
+    <text x="618" y="444" class="small">61 Cygni</text>
+    <text x="618" y="457" class="tiny">industrial and fuel depots</text>
+
+    <circle cx="610" cy="188" r="8" class="major"/>
+    <text x="624" y="184" class="label">Chara</text>
+    <text x="624" y="198" class="small">Nova Terra</text>
+    <text x="624" y="211" class="tiny">Earth-like model colony</text>
+
+    <circle cx="678" cy="360" r="8" class="hab"/>
+    <text x="692" y="356" class="label">Beta Hydri</text>
+    <text x="692" y="370" class="small">Hydra</text>
+    <text x="692" y="383" class="tiny">biodiverse agriculture world</text>
+
+    <circle cx="690" cy="286" r="8" class="hab"/>
+    <text x="704" y="282" class="label">Delta Pavonis</text>
+    <text x="704" y="296" class="small">Haven</text>
+    <text x="704" y="309" class="tiny">habitable moon refuge</text>
+
+    <circle cx="706" cy="612" r="8" class="hab"/>
+    <text x="720" y="608" class="label">Kappa Ceti</text>
+    <text x="720" y="622" class="small">Verdant</text>
+    <text x="720" y="635" class="tiny">humid forest world</text>
+
+    <circle cx="742" cy="146" r="8" class="hab"/>
+    <text x="756" y="142" class="label">Chi1 Orionis A</text>
+    <text x="756" y="156" class="small">Orionis Refuge</text>
+    <text x="756" y="169" class="tiny">late-24th-century colony</text>
+
+    <circle cx="760" cy="492" r="5" class="outpost"/>
+    <text x="774" y="488" class="small">Vega</text>
+    <text x="774" y="501" class="tiny">long-haul route marker</text>
+
+    <circle cx="798" cy="244" r="5" class="outpost"/>
+    <text x="812" y="240" class="small">Frontier relay</text>
+    <text x="812" y="253" class="tiny">traffic and customs control</text>
+
+    <circle cx="858" cy="450" r="5" class="outpost"/>
+    <text x="872" y="446" class="small">Mining reach</text>
+    <text x="872" y="459" class="tiny">corporate extraction zone</text>
+
+    <circle cx="884" cy="650" r="5" class="outpost"/>
+    <text x="898" y="646" class="small">Outer survey line</text>
+    <text x="898" y="659" class="tiny">new gate candidates</text>
+
+    <circle cx="913" cy="126" r="5" class="outpost"/>
+    <text x="927" y="122" class="small">Orion corridor</text>
+    <text x="927" y="135" class="tiny">deep frontier departures</text>
+  </g>
+
+  <g transform="translate(36 628)">
+    <rect x="0" y="0" width="374" height="96" rx="4" fill="#fff" stroke="#aaa"/>
+    <text x="14" y="19" class="zone">LEGEND</text>
+    <circle cx="22" cy="39" r="6" class="major"/>
+    <text x="38" y="43" class="small">core or primary gate hub</text>
+    <circle cx="22" cy="60" r="6" class="hab"/>
+    <text x="38" y="64" class="small">inhabited Union planet</text>
+    <circle cx="22" cy="81" r="5" class="outpost"/>
+    <text x="38" y="85" class="small">outpost, depot, relay, or waypoint</text>
+    <line x1="214" y1="39" x2="258" y2="39" class="gate"/>
+    <text x="268" y="43" class="small">major stargate trunk</text>
+    <line x1="214" y1="66" x2="258" y2="66" class="route"/>
+    <text x="268" y="70" class="small">secondary trade route</text>
+  </g>
+</svg>

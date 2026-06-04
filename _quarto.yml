@@ -17,6 +17,8 @@ website:
     left:
       - text: "Home"
         href: index.html
+      - text: "Maps"
+        href: docs/maps.html
       - text: "Sol: Beyond Earth"
         href: docs/sol-beyond-earth.html
       - text: "Frontier: Beyond Sol"
