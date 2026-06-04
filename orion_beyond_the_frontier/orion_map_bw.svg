@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1020 700">
+  <title>Orion's Arm — Human Space, c. 4000 CE</title>
+  <defs>
+    <!-- Hatching for Varnon Swarm (diagonal) -->
+    <pattern id="varnonHatch" width="8" height="8" patternTransform="rotate(45)" patternUnits="userSpaceOnUse">
+      <line x1="0" y1="0" x2="0" y2="8" stroke="#cccccc" stroke-width="1.5"/>
+    </pattern>
+    <!-- Hatching for Zynthari Space (reverse diagonal) -->
+    <pattern id="zynthHatch" width="8" height="8" patternTransform="rotate(-45)" patternUnits="userSpaceOnUse">
+      <line x1="0" y1="0" x2="0" y2="8" stroke="#bbbbbb" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <!-- White background -->
+  <rect width="1020" height="700" fill="white"/>
+
+  <!-- Very subtle decorative starfield -->
+  <g fill="#dddddd">
+    <circle cx="38" cy="28" r="0.7"/><circle cx="95" cy="72" r="0.5"/>
+    <circle cx="155" cy="48" r="0.8"/><circle cx="288" cy="35" r="0.6"/>
+    <circle cx="420" cy="22" r="0.7"/><circle cx="558" cy="58" r="0.5"/>
+    <circle cx="672" cy="38" r="0.8"/><circle cx="780" cy="25" r="0.6"/>
+    <circle cx="890" cy="48" r="0.5"/><circle cx="982" cy="30" r="0.7"/>
+    <circle cx="48" cy="148" r="0.5"/><circle cx="128" cy="125" r="0.7"/>
+    <circle cx="245" cy="162" r="0.5"/><circle cx="395" cy="138" r="0.6"/>
+    <circle cx="520" cy="115" r="0.8"/><circle cx="655" cy="145" r="0.5"/>
+    <circle cx="758" cy="125" r="0.7"/><circle cx="848" cy="155" r="0.5"/>
+    <circle cx="955" cy="128" r="0.6"/><circle cx="62" cy="225" r="0.6"/>
+    <circle cx="180" cy="205" r="0.5"/><circle cx="335" cy="232" r="0.7"/>
+    <circle cx="485" cy="210" r="0.5"/><circle cx="608" cy="238" r="0.6"/>
+    <circle cx="740" cy="218" r="0.8"/><circle cx="868" cy="228" r="0.5"/>
+    <circle cx="990" cy="215" r="0.7"/><circle cx="30" cy="325" r="0.5"/>
+    <circle cx="118" cy="348" r="0.6"/><circle cx="310" cy="338" r="0.7"/>
+    <circle cx="558" cy="312" r="0.5"/><circle cx="700" cy="355" r="0.6"/>
+    <circle cx="850" cy="322" r="0.8"/><circle cx="975" cy="340" r="0.5"/>
+    <circle cx="55" cy="428" r="0.7"/><circle cx="198" cy="442" r="0.5"/>
+    <circle cx="358" cy="418" r="0.6"/><circle cx="548" cy="445" r="0.7"/>
+    <circle cx="688" cy="430" r="0.5"/><circle cx="820" cy="415" r="0.6"/>
+    <circle cx="968" cy="440" r="0.8"/><circle cx="42" cy="525" r="0.5"/>
+    <circle cx="155" cy="548" r="0.7"/><circle cx="285" cy="535" r="0.6"/>
+    <circle cx="450" cy="552" r="0.5"/><circle cx="618" cy="528" r="0.8"/>
+    <circle cx="762" cy="545" r="0.6"/><circle cx="895" cy="532" r="0.5"/>
+    <circle cx="985" cy="555" r="0.7"/><circle cx="72" cy="618" r="0.6"/>
+    <circle cx="225" cy="638" r="0.5"/><circle cx="380" cy="648" r="0.7"/>
+    <circle cx="542" cy="625" r="0.5"/><circle cx="705" cy="640" r="0.6"/>
+    <circle cx="840" cy="622" r="0.8"/><circle cx="960" cy="645" r="0.5"/>
+  </g>
+
+  <!-- Threat zones -->
+  <ellipse cx="918" cy="468" rx="95" ry="120" fill="url(#varnonHatch)" stroke="#aaaaaa" stroke-width="1" stroke-dasharray="5,4"/>
+  <ellipse cx="948" cy="160" rx="82" ry="105" fill="url(#zynthHatch)" stroke="#999999" stroke-width="1"/>
+
+  <!-- Zone dividers -->
+  <line x1="342" y1="72" x2="342" y2="685" stroke="#cccccc" stroke-width="0.8" stroke-dasharray="5,18"/>
+  <line x1="582" y1="72" x2="582" y2="685" stroke="#cccccc" stroke-width="0.8" stroke-dasharray="5,18"/>
+  <line x1="802" y1="72" x2="802" y2="685" stroke="#cccccc" stroke-width="0.8" stroke-dasharray="5,18"/>
+
+  <!-- Zone labels -->
+  <text x="171" y="88" text-anchor="middle" fill="#aaaaaa" font-size="10" font-family="Courier New, monospace" letter-spacing="3">CORE SYSTEMS</text>
+  <text x="462" y="88" text-anchor="middle" fill="#aaaaaa" font-size="10" font-family="Courier New, monospace" letter-spacing="3">MID-RIM</text>
+  <text x="692" y="88" text-anchor="middle" fill="#aaaaaa" font-size="10" font-family="Courier New, monospace" letter-spacing="3">FRONTIER</text>
+  <text x="912" y="88" text-anchor="middle" fill="#aaaaaa" font-size="10" font-family="Courier New, monospace" letter-spacing="3">DEEP RIM</text>
+
+  <!-- Travel routes -->
+  <g fill="none" stroke="#555555" stroke-width="1.2" stroke-dasharray="5,9">
+    <line x1="215" y1="305" x2="165" y2="385"/>
+    <line x1="215" y1="305" x2="178" y2="242"/>
+    <line x1="215" y1="305" x2="162" y2="450"/>
+    <line x1="215" y1="305" x2="300" y2="215"/>
+    <line x1="300" y1="215" x2="450" y2="178"/>
+    <line x1="450" y1="178" x2="510" y2="268"/>
+    <line x1="510" y1="268" x2="492" y2="378"/>
+    <line x1="492" y1="378" x2="658" y2="330"/>
+    <line x1="658" y1="330" x2="628" y2="138"/>
+    <line x1="628" y1="138" x2="720" y2="180"/>
+  </g>
+
+  <!-- ═══════════════════════════════════════════
+       STARS
+       Symbols: ● Sol Union  ○ Sirius Compact
+                ⊙ Zal-Terran Commonwealth  ◆ Nova Terra Assembly
+                ▲ Orion Concordium  ■ Frontier Coalition
+                ○ (small) Independent
+       ═══════════════════════════════════════════ -->
+
+  <!-- SOL UNION — filled circle ● -->
+
+  <!-- Sol (primary) -->
+  <circle cx="215" cy="305" r="8" fill="black"/>
+  <text x="228" y="300" fill="black" font-size="12" font-family="Courier New, monospace" font-weight="bold">Sol</text>
+  <text x="228" y="313" fill="#555555" font-size="9" font-family="Courier New, monospace">Sol Union</text>
+
+  <!-- Alpha Centauri -->
+  <circle cx="165" cy="385" r="4" fill="black"/>
+  <text x="152" y="383" text-anchor="end" fill="#333333" font-size="10" font-family="Courier New, monospace">α Centauri</text>
+
+  <!-- Keid -->
+  <circle cx="178" cy="242" r="4" fill="black"/>
+  <text x="165" y="240" text-anchor="end" fill="#333333" font-size="10" font-family="Courier New, monospace">Keid</text>
+
+  <!-- SIRIUS COMPACT — outlined circle ○ -->
+
+  <!-- Sirius (primary) -->
+  <circle cx="300" cy="215" r="8" fill="white" stroke="black" stroke-width="2.5"/>
+  <text x="313" y="210" fill="black" font-size="12" font-family="Courier New, monospace" font-weight="bold">Sirius</text>
+  <text x="313" y="223" fill="#555555" font-size="9" font-family="Courier New, monospace">Sirius Compact</text>
+
+  <!-- Vega -->
+  <circle cx="450" cy="178" r="4.5" fill="white" stroke="black" stroke-width="2"/>
+  <text x="462" y="175" fill="#333333" font-size="10" font-family="Courier New, monospace">Vega</text>
+
+  <!-- INTERSTELLAR ALLIANCE — filled circle with white centre ⊙ -->
+
+  <!-- Epsilon Eridani -->
+  <circle cx="162" cy="450" r="4.5" fill="black"/>
+  <circle cx="162" cy="450" r="1.5" fill="white"/>
+  <text x="150" y="448" text-anchor="end" fill="#333333" font-size="10" font-family="Courier New, monospace">ε Eridani</text>
+
+  <!-- Tau Ceti (primary) -->
+  <circle cx="128" cy="508" r="6" fill="black"/>
+  <circle cx="128" cy="508" r="2" fill="white"/>
+  <text x="116" y="505" text-anchor="end" fill="#333333" font-size="10" font-family="Courier New, monospace">τ Ceti</text>
+  <text x="116" y="516" text-anchor="end" fill="#555555" font-size="8.5" font-family="Courier New, monospace">Zal-Terran Commonwealth</text>
+
+  <!-- INDEPENDENT — small open circle -->
+
+  <!-- Luyten's Star -->
+  <circle cx="268" cy="415" r="3.5" fill="white" stroke="black" stroke-width="1.5"/>
+  <text x="278" y="412" fill="#555555" font-size="9" font-family="Courier New, monospace">Luyten's Star</text>
+  <text x="278" y="422" fill="#777777" font-size="8" font-family="Courier New, monospace">Tevkar homeworld ◆</text>
+
+  <!-- NOVA TERRA ASSEMBLY — diamond ◆ -->
+
+  <!-- Chara (primary) -->
+  <polygon points="510,259 519,268 510,277 501,268" fill="black"/>
+  <text x="523" y="263" fill="black" font-size="12" font-family="Courier New, monospace" font-weight="bold">Chara</text>
+  <text x="523" y="276" fill="#555555" font-size="9" font-family="Courier New, monospace">Nova Terra Assembly</text>
+
+  <!-- Zeta Reticuli -->
+  <polygon points="388,519 394,525 388,531 382,525" fill="black"/>
+  <text x="400" y="522" fill="#333333" font-size="10" font-family="Courier New, monospace">ζ Reticuli</text>
+  <text x="400" y="533" fill="#666666" font-size="8.5" font-family="Courier New, monospace">Ark of Precursor Knowledge</text>
+
+  <!-- ORION CONCORDIUM — upward triangle ▲ -->
+
+  <!-- Orionis Refuge / Chi1 Orionis A (primary) -->
+  <polygon points="492,369 502,388 482,388" fill="black"/>
+  <text x="506" y="374" fill="black" font-size="12" font-family="Courier New, monospace" font-weight="bold">Orionis Refuge</text>
+  <text x="506" y="386" fill="#555555" font-size="9" font-family="Courier New, monospace">χ¹ Orionis</text>
+  <text x="506" y="397" fill="#666666" font-size="8.5" font-family="Courier New, monospace">Orion Concordium</text>
+
+  <!-- Bellatrix -->
+  <polygon points="658,323 665,336 651,336" fill="black"/>
+  <text x="670" y="327" fill="#333333" font-size="10" font-family="Courier New, monospace">Bellatrix</text>
+
+  <!-- Spica -->
+  <polygon points="748,451 755,464 741,464" fill="black"/>
+  <text x="760" y="455" fill="#333333" font-size="10" font-family="Courier New, monospace">Spica</text>
+
+  <!-- FRONTIER COALITION — filled square ■ -->
+
+  <!-- Capella (primary) -->
+  <rect x="622" y="131" width="12" height="12" fill="black"/>
+  <text x="641" y="133" fill="black" font-size="12" font-family="Courier New, monospace" font-weight="bold">Capella</text>
+  <text x="641" y="146" fill="#555555" font-size="9" font-family="Courier New, monospace">Frontier Coalition</text>
+
+  <!-- Algol -->
+  <rect x="715" y="174" width="9" height="9" fill="black"/>
+  <text x="730" y="177" fill="#333333" font-size="10" font-family="Courier New, monospace">Algol</text>
+
+  <!-- ═══════════════════════════════════════════
+       THREAT ZONE LABELS
+       ═══════════════════════════════════════════ -->
+
+  <text x="918" y="452" text-anchor="middle" fill="#333333" font-size="11" font-family="Courier New, monospace" font-weight="bold" letter-spacing="1">VARNON SWARM</text>
+  <text x="918" y="466" text-anchor="middle" fill="#666666" font-size="8.5" font-family="Courier New, monospace">system-devouring hazard</text>
+
+  <text x="948" y="148" text-anchor="middle" fill="#333333" font-size="11" font-family="Courier New, monospace" font-weight="bold" letter-spacing="1">ZYNTHARI SPACE</text>
+  <text x="948" y="162" text-anchor="middle" fill="#666666" font-size="8.5" font-family="Courier New, monospace">ancient alien empire</text>
+
+  <!-- Rimward direction indicator -->
+  <text x="1010" y="370" text-anchor="middle" fill="#bbbbbb" font-size="9" font-family="Courier New, monospace" transform="rotate(90,1010,370)" letter-spacing="2">RIMWARD →</text>
+
+  <!-- ═══════════════════════════════════════════
+       LEGEND
+       ═══════════════════════════════════════════ -->
+  <rect x="18" y="576" width="220" height="112" rx="4" fill="white" stroke="#aaaaaa" stroke-width="1"/>
+  <text x="28" y="592" fill="#777777" font-size="9" font-family="Courier New, monospace" letter-spacing="2.5">STELLAR POLITIES</text>
+
+  <!-- Left column -->
+  <circle cx="32" cy="605" r="4" fill="black"/>
+  <text x="41" y="608" fill="#333333" font-size="9" font-family="Courier New, monospace">Sol Union</text>
+
+  <circle cx="32" cy="619" r="4" fill="white" stroke="black" stroke-width="1.5"/>
+  <text x="41" y="622" fill="#333333" font-size="9" font-family="Courier New, monospace">Sirius Compact</text>
+
+  <circle cx="32" cy="633" r="4" fill="black"/>
+  <circle cx="32" cy="633" r="1.5" fill="white"/>
+  <text x="41" y="636" fill="#333333" font-size="9" font-family="Courier New, monospace">Zal-Terran Commonwealth</text>
+
+  <polygon points="32,641 38,647 32,653 26,647" fill="black"/>
+  <text x="41" y="650" fill="#333333" font-size="9" font-family="Courier New, monospace">Nova Terra Assembly</text>
+
+  <circle cx="32" cy="664" r="3.5" fill="white" stroke="black" stroke-width="1.2"/>
+  <text x="41" y="667" fill="#333333" font-size="9" font-family="Courier New, monospace">Independent</text>
+
+  <!-- Right column -->
+  <polygon points="124,599 131,612 117,612" fill="black"/>
+  <text x="136" y="608" fill="#333333" font-size="9" font-family="Courier New, monospace">Orion Concordium</text>
+
+  <rect x="120" y="614" width="8" height="8" fill="black"/>
+  <text x="133" y="622" fill="#333333" font-size="9" font-family="Courier New, monospace">Frontier Coalition</text>
+
+  <line x1="120" y1="633" x2="146" y2="633" stroke="#555555" stroke-width="1.2" stroke-dasharray="4,4"/>
+  <text x="151" y="636" fill="#555555" font-size="9" font-family="Courier New, monospace">Travel route</text>
+
+  <text x="120" y="650" fill="#777777" font-size="9" font-family="Courier New, monospace">◆ Protected species world</text>
+
+  <!-- ═══════════════════════════════════════════
+       TITLE
+       ═══════════════════════════════════════════ -->
+  <text x="510" y="32" text-anchor="middle" fill="black" font-size="16" font-family="Courier New, monospace" font-weight="bold" letter-spacing="2">ORION'S ARM — HUMAN SPACE</text>
+  <text x="510" y="50" text-anchor="middle" fill="#777777" font-size="9.5" font-family="Courier New, monospace" letter-spacing="3">c. 4000 CE  ·  SCHEMATIC — DISTANCES NOT TO SCALE</text>
+
+  <!-- Footer -->
+  <text x="510" y="685" text-anchor="middle" fill="#999999" font-size="8.5" font-family="Courier New, monospace">Dashed lines mark established travel routes · Jumpgates (Sirius Compact / IFMC–controlled) occupy strategic chokepoints</text>
+</svg>
