@@ -1,4 +1,30 @@
-# Frontier: Beyond Sol
+---
+title: "Frontier: Beyond Sol"
+author: "Roberto Bisceglie"
+date: last-modified
+version: 1.0
+lang: en
+cover-logo: assets/logo.svg
+format:
+  html: {}
+  typst:
+    toc: true
+    toc-depth: 2
+    number-sections: true
+    fontsize: 11pt
+    tbl-colwidths: auto
+    template: ../_extensions/typst-template.typ
+    template-partials:
+      - ../_extensions/typst-show.typ
+  odt:
+    toc: true
+  epub:
+    toc: true
+  docx:
+    toc: true
+  gfm:
+    toc: false
+---
 
 Under the ghostly glow of SZ Ursae Majoris’ seventh planet, a cold martian giant, the small, stealthy vessel *Nimbus* held its position, nearly indistinguishable from the surrounding space debris. Inside, a team of Sol Union operatives prepared for a mission that tread the line between diplomacy and covert action in the uncharted reaches of space.
 

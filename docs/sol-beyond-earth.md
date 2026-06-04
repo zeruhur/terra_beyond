@@ -1,6 +1,30 @@
-# Sol: Beyond Earth
-
-## Retrofuture Hard Sci-Fi Adventure Game
+---
+title: "Sol: Beyond Earth"
+author: "Roberto Bisceglie"
+date: last-modified
+version: 1.0
+lang: en
+cover-logo: assets/logo.svg
+format:
+  html: {}
+  typst:
+    toc: true
+    toc-depth: 2
+    number-sections: true
+    fontsize: 11pt
+    tbl-colwidths: auto
+    template: ../_extensions/typst-template.typ
+    template-partials:
+      - ../_extensions/typst-show.typ
+  odt:
+    toc: true
+  epub:
+    toc: true
+  docx:
+    toc: true
+  gfm:
+    toc: false
+---
 
 *The crew of the spacecraft, three astronauts and an engineer, sat calmly in their seats as they approached the space habitat. The captain, a seasoned veteran, kept a watchful eye on the controls, while the others chatted idly amongst themselves.*
 

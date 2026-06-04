@@ -1,4 +1,30 @@
-# Orion: Beyond the Frontier
+---
+title: "Orion: Beyond the Frontier"
+author: "Roberto Bisceglie"
+date: last-modified
+version: 1.0
+lang: en
+cover-logo: assets/logo.svg
+format:
+  html: {}
+  typst:
+    toc: true
+    toc-depth: 2
+    number-sections: true
+    fontsize: 11pt
+    tbl-colwidths: auto
+    template: ../_extensions/typst-template.typ
+    template-partials:
+      - ../_extensions/typst-show.typ
+  odt:
+    toc: true
+  epub:
+    toc: true
+  docx:
+    toc: true
+  gfm:
+    toc: false
+---
 
 The atmosphere within the *Radiant Horizon* was tense. As the ship cruised along the dim expanse of interstellar void, its hull bathed in the faint glow of a distant pulsar, the team assembled on the observation deck. Beyond the reinforced viewport, the nebulous silhouette of a derelict Precursor megastructure loomed—an ancient and colossal artifact orbiting a decaying star.
 
