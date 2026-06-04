@@ -436,30 +436,10 @@ The tools below work as a cycle: The Loop tells you when to roll and how to read
 
 Each time your character acts, go through these steps:
 
-1.  **Declare your action.** What are you doing, and what do you want to happen?
-2.  **Assess the situation.** Use the *Risk Oracle* to read how much is at stake.
-3.  **Roll if needed.** If the Risk Oracle says there's friction or volatility, make your standard roll. Otherwise, it just happens.
-4.  **Interpret the outcome.** Let the result shape the fiction. If you need to know how the world or an NPC responds, use the *Question Oracle*.
-
-------------------------------------------------------------------------
-
-### Risk Oracle
-
-Before your character acts, roll to assess how much control you have over the situation.
-
-| Situation   | Die |
-|-------------|-----|
-| Chaotic     | d4  |
-| Precarious  | d6  |
-| Manageable  | d8  |
-| Predictable | d10 |
-| Stable      | d12 |
-
-Interpret the result:
-
--   **1-2 — Volatile:** The situation is unstable. Make your standard roll, and failure hits hard.
--   **3-4 — Friction:** Something could go wrong. Make your standard roll.
--   **5+ — Clean:** The situation is in hand. No roll needed — it happens.
+1. **Declare your action.** What are you doing, and what do you want to happen?
+2. **Assess the situation.** Use the *Situation Roll* to read how much is at stake.
+3. **Roll if needed.** If the Situation Roll says there's friction or volatility, make your standard roll. Otherwise, it just happens.
+4. **Interpret the outcome.** Let the result shape the fiction. If you need to know how the world or an NPC responds, use the *Question Oracle*.
 
 ### Question Oracle
 
@@ -647,21 +627,21 @@ Environmental suits provide protection against the harsh space environments, inc
 
 ## Vehicles
 
--   **Interstellar Shuttle:** The Interstellar Shuttle is a versatile small spacecraft designed for transportation between planets, moons, and space stations within a single star system. It features advanced propulsion and life support systems, allowing for efficient travel and comfortable accommodation for passengers and light cargo. The Shuttle serves as a vital link in the transportation infrastructure of colonies, facilitating the movement of personnel, supplies, and resources.
+* **Interstellar Shuttle:** A versatile small spacecraft for travel between planets, moons, and stations within a single star system. With advanced propulsion and life support, it carries passengers and light cargo efficiently, serving as a vital transport link for colonies.
 
--   **Planetary Rover:** The Planetary Rover is a rugged and adaptable vehicle designed for surface exploration on various celestial bodies. It boasts a modular construction, allowing for customization with different propulsion systems, environmental protection, and scientific equipment to suit the conditions of the planet or moon being explored. The Rover provides a mobile base for research teams, enabling them to conduct detailed surveys, collect samples, and investigate diverse extraterrestrial environments.
+* **Planetary Rover:** A rugged, modular surface vehicle for exploring planets and moons. It can be customized with different propulsion, protection, and scientific systems, giving research teams a mobile base for surveys, sampling, and field investigations.
 
--   **Cryogenic Terrain Vehicle:** The Cryogenic Terrain Vehicle is a specialized craft engineered for operations on icy, cryogenic worlds or moons with frozen surfaces. It features advanced insulation, heating systems, and specialized treads or skis to navigate treacherous icy terrain and subzero temperatures. This vehicle enables scientists and researchers to explore and study these extreme environments, potentially uncovering valuable resources or evidence of extraterrestrial life.
+* **Cryogenic Terrain Vehicle:** A specialized vehicle for icy, frozen, or cryogenic worlds. Equipped with insulation, heating systems, and treads or skis, it allows researchers to navigate subzero terrain and study extreme environments, resources, or possible signs of life.
 
--   **Exo-Rover:** The Exo-Rover is a compact, highly maneuverable exploration vehicle designed for challenging terrains with steep inclines, crevasses, or rocky outcrops. It features an advanced suspension system, articulated wheels, and a lightweight, reinforced chassis. The Exo-Rover allows explorers to access and investigate rugged, uncharted regions on planets and moons that would be inaccessible to larger vehicles.
+* **Exo-Rover:** A compact, highly maneuverable exploration vehicle for steep, rocky, or unstable terrain. Its articulated wheels, advanced suspension, and reinforced lightweight chassis let explorers reach areas inaccessible to larger rovers.
 
--   **Atmospheric Skimmer:** The Atmospheric Skimmer is a sleek and aerodynamic spacecraft designed for low-altitude flight within a planet's atmosphere. It utilizes advanced propulsion and control systems to glide effortlessly through the skies, providing a versatile platform for atmospheric research, reconnaissance missions, and rapid transport over long distances on planets with breathable atmospheres.
+* **Atmospheric Skimmer:** A sleek low-altitude aircraft for planetary atmospheres. Using advanced propulsion and control systems, it supports atmospheric research, reconnaissance, and rapid long-distance transport on worlds with breathable air.
 
--   **Interplanetary Shuttle:** The Interplanetary Shuttle is a heavy-duty spacecraft designed for transporting passengers, crew, and cargo between planets within a single star system. It features advanced life support systems, ample cargo capacity, and powerful engines capable of planetary takeoffs and landings. The Interplanetary Shuttle is a crucial component of the transportation infrastructure connecting colonized worlds, facilitating the movement of people, resources, and supplies.
+* **Interplanetary Shuttle:** A heavy-duty spacecraft for moving passengers, crew, and cargo between planets in a single star system. With powerful engines, strong life support, and large cargo capacity, it connects colonized worlds and supports the flow of people, supplies, and resources.
 
--   **System Hauler:** The System Hauler is a heavy-duty cargo spacecraft specifically designed for transporting large payloads and bulky equipment between planets, moons, and space stations within a star system. It boasts a modular design, allowing for the attachment of various specialized cargo modules and containers. The System Hauler ensures the efficient and timely delivery of essential resources, construction materials, and heavy machinery to support the growth and development of interstellar colonies.
+* **System Hauler:** A large cargo spacecraft for transporting bulky payloads between planets, moons, and stations. Its modular cargo system carries resources, construction materials, and heavy machinery essential to colonial growth and infrastructure.
 
--   **Gas Mining Skimmer:** The Gas Mining Skimmer is a specialized vehicle designed for operations on gas giant planets or moons with dense atmospheric envelopes. It features advanced propulsion systems, aerodynamic designs, and specialized equipment for collecting and processing gaseous resources from the planet's atmosphere. This vehicle enables the extraction and utilization of valuable gases and compounds, contributing to the resource requirements of interstellar colonies and research facilities.
+* **Gas Mining Skimmer:** A specialized craft for gas giants or dense-atmosphere moons. With aerodynamic design, advanced propulsion, and gas-harvesting equipment, it collects and processes valuable atmospheric compounds for colonies and research facilities.
 
 # Starships
 
@@ -1182,41 +1162,35 @@ From a fragile beginning to an expanding web of stargates and alliances, this er
 ## Chronology
 
 ### 2090-2124: The Era of Solar Exploration
-
--   **2090**: The solar system is fully colonized. This year sees tensions arise between the solar colonies and Earth governments, leading to a phase of rebellion demanding greater autonomy for the colonies. This period of unrest culminates in the Federated Autonomy Treaty, laying the foundation for the Sol Union as a federal governing entity.
--   **2100**: Scientists begin theorizing viable methods for creating wormholes, but the risks and energy required are enormous.
--   **2115**: The first practical experiments on wormholes begin in a remote area beyond Neptune's orbit, far from inhabited planets to minimize risks.
+- **2090**: The solar system is fully colonized. This year sees tensions arise between the solar colonies and Earth governments, leading to a phase of rebellion demanding greater autonomy for the colonies. This period of unrest culminates in the Federated Autonomy Treaty, laying the foundation for the Sol Union as a federal governing entity.
+- **2100**: Scientists begin theorizing viable methods for creating wormholes, but the risks and energy required are enormous.
+- **2115**: The first practical experiments on wormholes begin in a remote area beyond Neptune's orbit, far from inhabited planets to minimize risks.
 
 ### 2125-2160: The Dawn of Interstellar Exploration
+- **2125**: The first "wormhole engine" is successfully experimented with, opening a temporary gateway to Alpha Centauri on an unmanned mission.
+- **2128**: The first manned voyage to Alpha Centauri marks an era of interstellar exploration, even though the energy required and dangers initially limit the use of the technology.
+- **2140**: Interstellar exploration slowly expands due to technical challenges and high costs. Humanity establishes scientific outposts in nearby star systems such as Sirius and Tau Ceti.
+- **2155**: The Sol Unification Treaty is signed, the result of decades of negotiations, marking the formal union of major powers and interplanetary blocs into a single governmental entity: the **Sol Union**.
+- **2160**: The first stable "portal" is constructed between Sol and Alpha Centauri, facilitating travel and interstellar transport, but at a still high energy cost.
 
--   **2125**: The first "wormhole engine" is successfully experimented with, opening a temporary gateway to Alpha Centauri on an unmanned mission.
--   **2128**: The first manned voyage to Alpha Centauri marks an era of interstellar exploration, even though the energy required and dangers initially limit the use of the technology.
--   **2140**: Interstellar exploration slowly expands due to technical challenges and high costs. Humanity establishes scientific outposts in nearby star systems such as Sirius and Tau Ceti.
--   **2155**: The Sol Unification Treaty is signed, the result of decades of negotiations, marking the formal union of major powers and interplanetary blocs into a single governmental entity: the **Sol Union**.
--   **2160**: The first stable "portal" is constructed between Sol and Alpha Centauri, facilitating travel and interstellar transport, but at a still high energy cost.
-
-### 2161-2294: Expansion and Colonization
-
--   **2175**: With the improvement of wormhole technology, other star systems like Luyten's Star and Tau Ceti are connected to the "stargate" network.
--   **2200**: Human colonization extends to numerous star systems. The challenges of living on alien worlds lead to new scientific and technological discoveries.
--   **2220**: The first non-intelligent alien life forms are discovered, sparking excitement and debates on extraterrestrial biology and conservation.
--   **2250**: Despite the absence of intelligent extraterrestrial life, humanity learns much from alien animal and plant life forms, adapting technologies for the exploration and colonization of alien environments.
--   **2285**: Nova Terra in the Chara system is colonized, the first world beyond Sol considered truly Earth-like (gravity 0.98g, atmosphere 95% compatible). It grows quickly into the dominant cultural and scientific hub of the frontier worlds.
+### 2161-2289: Expansion and Colonization
+- **2175**: With the improvement of wormhole technology, other star systems like Luyten's Star and Tau Ceti are connected to the "stargate" network.
+- **2200**: Human colonization extends to numerous star systems. The challenges of living on alien worlds lead to new scientific and technological discoveries.
+- **2220**: The first non-intelligent alien life forms are discovered, sparking excitement and debates on extraterrestrial biology and conservation.
+- **2250**: Despite the absence of intelligent extraterrestrial life, humanity learns much from alien animal and plant life forms, adapting technologies for the exploration and colonization of alien environments.
+- **2285**: Nova Terra in the Chara system is colonized, the first world beyond Sol considered truly Earth-like (gravity 0.98g, atmosphere 95% compatible). It grows quickly into the dominant cultural and scientific hub of the frontier worlds.
 
 ### 2290: The Systems Conflict
+- **2290**: Tensions between "frontier" systems, desiring greater autonomy, and the Union, determined to maintain control, explode into a brief but intense interstellar conflict. Dissatisfaction with trade restrictions and gate access turns into armed action; frontier systems blockade the Alpha Centauri gate, the Union responds with fleet. The war lasts six months with roughly 5,000 deaths. It ends with the **Frontier Autonomy Accord**: frontier systems gain 60% voting power and gate tolls are reduced to 4% of cargo value.
 
--   **2290**: Tensions between "frontier" systems, desiring greater autonomy, and the Union, determined to maintain control, explode into a brief but intense interstellar conflict. Dissatisfaction with trade restrictions and gate access turns into armed action; frontier systems blockade the Alpha Centauri gate, the Union responds with fleet. The war lasts six months with roughly 5,000 deaths. It ends with the **Frontier Autonomy Accord**: frontier systems gain 60% voting power and gate tolls are reduced to 4% of cargo value.
-
-### 2295: The Discovery That Changes Everything
-
--   **2295**: The discovery of ancient alien ruins on Delta Pavonis reveals that humanity is not alone in the universe, even though the creators have long disappeared. The 300-meter stone structures are estimated at 50,000 years old. This event marks a turning point, pushing humanity to reflect on its place in the universe and to intensify interstellar exploration in search of other lost civilizations.
--   **2297**: The first Precursor artifact is recovered — a metal alloy unknown to human science.
+### 2295-2297: The Discovery That Changes Everything
+- **2295**: The discovery of ancient alien ruins on Delta Pavonis reveals that humanity is not alone in the universe, even though the creators have long disappeared. The 300-meter stone structures are estimated at 50,000 years old. This event marks a turning point, pushing humanity to reflect on its place in the universe and to intensify interstellar exploration in search of other lost civilizations.
+- **2297**: The first Precursor artifact is recovered — a metal alloy unknown to human science.
 
 ### 2296-2399: Stabilization and Integration
-
--   **2300-2380**: Stabilization of interstellar relations and integration of frontier systems into the economy and culture of the Sol Union.
--   **2385**: Discovery of a second ruin site on Kappa Ceti: a 15-km complex estimated at 1 million years old, far older than the Delta Pavonis structures. This intensifies the search for Precursor history.
--   **2400**: Humanity is established across over 85 star systems, with a total population of 5 billion (4 billion interstellar). The Sol Union controls roughly 50% of jumpgates, the Frontier Coalition 30%, independent systems 20%. Ancient alien ruins fuel ongoing exploration, with the hope of uncovering more about galactic history.
+- **2300-2380**: Stabilization of interstellar relations and integration of frontier systems into the economy and culture of the Sol Union.
+- **2385**: Discovery of a second ruin site on Kappa Ceti: a 15-km complex estimated at 1 million years old, far older than the Delta Pavonis structures. This intensifies the search for Precursor history.
+- **2400**: Humanity is established across over 85 star systems, with a total population of 5 billion (4 billion interstellar). The Sol Union controls roughly 50% of jumpgates, the Frontier Coalition 30%, independent systems 20%. Ancient alien ruins fuel ongoing exploration, with the hope of uncovering more about galactic history.
 
 ## Major Factions
 

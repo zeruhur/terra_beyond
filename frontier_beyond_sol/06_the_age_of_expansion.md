@@ -22,7 +22,7 @@ From a fragile beginning to an expanding web of stargates and alliances, this er
 - **2155**: The Sol Unification Treaty is signed, the result of decades of negotiations, marking the formal union of major powers and interplanetary blocs into a single governmental entity: the **Sol Union**.
 - **2160**: The first stable "portal" is constructed between Sol and Alpha Centauri, facilitating travel and interstellar transport, but at a still high energy cost.
 
-### 2161-2294: Expansion and Colonization
+### 2161-2289: Expansion and Colonization
 - **2175**: With the improvement of wormhole technology, other star systems like Luyten's Star and Tau Ceti are connected to the "stargate" network.
 - **2200**: Human colonization extends to numerous star systems. The challenges of living on alien worlds lead to new scientific and technological discoveries.
 - **2220**: The first non-intelligent alien life forms are discovered, sparking excitement and debates on extraterrestrial biology and conservation.
@@ -32,7 +32,7 @@ From a fragile beginning to an expanding web of stargates and alliances, this er
 ### 2290: The Systems Conflict
 - **2290**: Tensions between "frontier" systems, desiring greater autonomy, and the Union, determined to maintain control, explode into a brief but intense interstellar conflict. Dissatisfaction with trade restrictions and gate access turns into armed action; frontier systems blockade the Alpha Centauri gate, the Union responds with fleet. The war lasts six months with roughly 5,000 deaths. It ends with the **Frontier Autonomy Accord**: frontier systems gain 60% voting power and gate tolls are reduced to 4% of cargo value.
 
-### 2295: The Discovery That Changes Everything
+### 2295-2297: The Discovery That Changes Everything
 - **2295**: The discovery of ancient alien ruins on Delta Pavonis reveals that humanity is not alone in the universe, even though the creators have long disappeared. The 300-meter stone structures are estimated at 50,000 years old. This event marks a turning point, pushing humanity to reflect on its place in the universe and to intensify interstellar exploration in search of other lost civilizations.
 - **2297**: The first Precursor artifact is recovered — a metal alloy unknown to human science.
 

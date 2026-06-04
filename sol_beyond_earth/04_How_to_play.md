@@ -127,27 +127,9 @@ Trust the results. When an oracle contradicts what you expected, that's where th
 Each time your character acts, go through these steps:
 
 1. **Declare your action.** What are you doing, and what do you want to happen?
-2. **Assess the situation.** Use the *Risk Oracle* to read how much is at stake.
-3. **Roll if needed.** If the Risk Oracle says there's friction or volatility, make your standard roll. Otherwise, it just happens.
+2. **Assess the situation.** Use the *Situation Roll* to read how much is at stake.
+3. **Roll if needed.** If the Situation Roll says there's friction or volatility, make your standard roll. Otherwise, it just happens.
 4. **Interpret the outcome.** Let the result shape the fiction. If you need to know how the world or an NPC responds, use the *Question Oracle*.
-
-### Risk Oracle
-
-Before your character acts, roll to assess how much control you have over the situation.
-
-| Situation    | Die  |
-|--------------|------|
-| Chaotic      | d4   |
-| Precarious   | d6   |
-| Manageable   | d8   |
-| Predictable  | d10  |
-| Stable       | d12  |
-
-Interpret the result:
-
-- **1-2: Volatile.** The situation is unstable. Make your standard roll, and failure hits hard.
-- **3-4: Friction.** Something could go wrong. Make your standard roll.
-- **5+: Clean.** The situation is in hand. No roll needed; it happens.
 
 ### Question Oracle
 
