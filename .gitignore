@@ -19,3 +19,8 @@ Thumbs.db
 *.swp
 
 **/*.quarto_ipynb
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
