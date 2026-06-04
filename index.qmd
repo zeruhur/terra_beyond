@@ -1,0 +1,53 @@
+---
+pagetitle: "My Quarto Website"
+description: "A beautiful multi-format website template"
+page-layout: full
+format:
+  html:
+    toc: false
+format-links: false
+---
+
+::: {.text-center .py-5}
+![](docs/assets/logo.svg){width="120px" fig-alt="Logo" fig-align="center"}
+
+# [Welcome to Your Quarto Site]{style="color: var(--bs-primary); font-family: 'Montserrat', sans-serif; font-weight: 700;"}
+
+A modern, responsive template with multi-format export capabilities.
+:::
+
+::: {.grid .gap-4 .py-4}
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card .p-4 .h-100 .shadow-sm}
+#### 📄 Multi-Format Exports
+
+Explore how this site compiles individual pages to PDF, EPUB, Word, and Markdown from a single source file.
+
+[View Example Document](docs/example-document.html){.btn .btn-outline-primary .mt-3}
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card .p-4 .h-100 .shadow-sm}
+#### 🛠️ Customization
+
+Customize the navbar, footer, logo, and themes in `_quarto.yml` and `_brand.yml`. Apply custom styling via SCSS.
+
+[Read Setup Guide](#setup-guide){.btn .btn-outline-secondary .mt-3}
+:::
+:::
+
+:::
+
+---
+
+## About This Template {#setup-guide}
+
+This repository is a ready-to-use **GitHub Template** designed to build and host a Quarto website on GitHub Pages. It is pre-configured to automatically render and package documents in multiple formats (PDF, EPUB, ODT, GFM) and display download links at the top of each page's sidebar.
+
+### Features
+- **Automated GitHub Actions:** Every push compiles and publishes the latest website to GitHub Pages.
+- **Multi-Format Sidebar Links:** Custom scripts automatically move format download links to the sidebar for a cleaner layout.
+- **Preconfigured Typst styling:** Ready-to-go Lua filters and Typst template for high-quality PDF renders.
+- **Responsive Theme switching:** Supports Materia (light) and Darkly (dark) themes out of the box.

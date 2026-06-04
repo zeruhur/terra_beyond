@@ -1,0 +1,8 @@
+---
+title: "About This Site"
+format-links: false
+---
+
+This is a simple about page. Because this document doesn't list multiple formats in its YAML front matter and has `format-links: false`, it won't display alternate format downloads in the sidebar.
+
+Modify this file to introduce yourself or your project!
