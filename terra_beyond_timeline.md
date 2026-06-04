@@ -1,8 +1,8 @@
-# Beyond the Stars
+# Terra Beyond Timeline
 
 ## The Age of Settlement (1957–2090)
 
-*NASA 1970s retrofuturism — hard engineering, continuous space race, industrial optimism*
+**Inspiration:** *NASA 1970s retrofuturism — hard engineering, continuous space race, industrial optimism*
 
 - **1957**: Soviet Union launches Sputnik 1, initiating a space race that never ends.
 - **1961**: Yuri Gagarin becomes first human to orbit Earth aboard Vostok 1.
@@ -28,11 +28,9 @@
 - **2085**: First Saturn moon outpost (Titan-1) establishes methane mining operation.
 - **2090**: Total system population reaches 200,000. Rising tensions between Earth-centered institutions and outer settlements over taxation and autonomy.
 
-***
-
 ## The Age of Expansion (2090–2400)
 
-*Terran Trade Authority — gritty logistics, gate-based FTL, commerce shaping politics*
+**Inspiration:** *Terran Trade Authority — gritty logistics, gate-based FTL, commerce shaping politics*
 
 ### 2090–2240: The Era of Consolidation
 
@@ -78,11 +76,9 @@
 - **2398**: First Nova Terra cultural identity forms (Nova Terran Nationalism); 30% support.
 - **2400**: Human civilization established across 85+ systems. Total population: 5 billion (4 billion interstellar). Sol Union controls 50% of gates, Frontier Coalition 30%, independent systems 20%. Meaning of unity now cultural as much as political.
 
-***
-
 ## The Age of Orion (2400–4000)
 
-*Alliance/Union — fragmented polities, political intrigue, transhumanism as controversial faction*
+**Inspiration:** *Alliance/Union — fragmented polities, political intrigue, transhumanism as controversial faction*
 
 ### 2400–2750: The Era of Divergence
 
