@@ -4,7 +4,7 @@ author: "Roberto Bisceglie"
 date: last-modified
 version: 1.0
 lang: en
-cover-logo: assets/logo.svg
+cover-logo: assets/icon.svg
 format:
   html: {}
   typst:

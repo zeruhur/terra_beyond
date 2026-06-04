@@ -1,8 +1,45 @@
 ---
-title: "About This Site"
+title: "About Terra Beyond"
 format-links: false
 ---
 
-This is a simple about page. Because this document doesn't list multiple formats in its YAML front matter and has `format-links: false`, it won't display alternate format downloads in the sidebar.
+**Terra Beyond** is an anthology of rules-light sci-fi roleplaying games and setting guides, written and designed by Roberto Bisceglie. The project spans three major cosmic eras of human history, taking players from the first industrial steps in the Solar System to an advanced, fragmented galaxy of transhumanists, psionics, and ancient alien superpowers.
 
-Modify this file to introduce yourself or your project!
+## The Anthology
+
+### Ⅰ. Sol: Beyond Earth
+**The Age of Settlement (1957–2090)**  
+Inspired by NASA's 1970s retrofuturism, this era focuses on hard engineering, a continuous space race, and industrial optimism. Humanity establishes a permanent presence on the Moon, colonizes Mars, mines the asteroid belt, and begins to navigate the political and economic tensions between Earth and the outer colonies.
+
+### Ⅱ. Frontier: Beyond Sol
+**The Age of Expansion (2090–2400)**  
+Inspired by the Terran Trade Authority, this era highlights gritty logistics, stargate travel, and commerce shaping interstellar politics. With stable stargate portals connecting Sol to Alpha Centauri, Sirius, and Tau Ceti, players navigate smuggling, gate tolls, corporate interests, and the emerging unique cultures of the frontier.
+
+### Ⅲ. Orion: Beyond the Frontier
+**The Age of Orion (2400–4000)**  
+Inspired by classic Alliance/Union sci-fi, this era features deeply fragmented polities, political intrigue, and advanced technologies. Players experience transhumanist mind-uploading, psionic *Resonants*, ancient Precursor ruin explorations, and contact with powerful alien empires like the Zynthari.
+
+---
+
+## The Game Engine: 24XX
+
+Each game in this anthology utilizes the **24XX engine**, a rules-light tabletop RPG system designed by Jason Tocci. 
+
+* **Minimalist Rules:** Focuses on story and action rather than complex mathematics. Rules and character creation fit on a single page or two.
+* **Step-Die Mechanic:** Characters use polyhedral dice (d6, d8, d10, etc.) based on their skills. Roll a 5 or better for a full success, 3-4 for a success with a complication, and 1-2 for a setback or disaster.
+* **Built-in Generators:** The modules contain comprehensive random tables for characters, gear, ships, hazards, missions, and "sparks" to inspire instant play for groups or solo players.
+
+---
+
+## Licensing & Credits
+
+* **Game Design & Setting:** © 2023-2026 Roberto Bisceglie.
+* **System Engine:** Powered by the [24XX SRD](https://jasontocci.itch.io/24xx) by Jason Tocci, licensed under [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+* **Illustrations:** Cover and internal illustrations are released in the public domain by NASA.
+* **License:** This work is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
+
+---
+
+## Site Technology
+
+This website is built with [Quarto](https://quarto.org/), a multi-format scientific and technical publishing system. Every document compiles dynamically from a single markdown source into a responsive web page, a print-ready PDF (via [Typst](https://typst.app/)), EPUB, Word (.docx), and OpenDocument (.odt).

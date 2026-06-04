@@ -1,9 +1,9 @@
 /*-- scss:defaults --*/
 
 // Trade dress fonts (mirror typst-template.typ)
-$font-family-sans-serif: "Montserrat", sans-serif;
-$font-family-base:        "Lora", serif;
-$headings-font-family:    "Montserrat", sans-serif;
+$font-family-sans-serif: "Nasalization Rg", sans-serif;
+$font-family-base:        "Jost", sans-serif;
+$headings-font-family:    "Nasalization Rg", sans-serif;
 $headings-font-weight:    700;
 
 // Black navigation bars
@@ -16,13 +16,13 @@ $navbar-fg: #ffffff;
 .navbar,
 .navbar .nav-link,
 .navbar-brand {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Nasalization Rg", sans-serif;
 }
 
-// Document title: Montserrat Black (matches PDF cover weight)
+// Document title: Nasalization (matches PDF cover weight)
 .quarto-title h1,
 h1.title {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Nasalization Rg", sans-serif;
   font-weight: 900;
 }
 
@@ -30,7 +30,7 @@ h1.title {
 .nav-footer {
   background-color: #000000;
   color: rgba(255, 255, 255, 0.8);
-  font-family: "Montserrat", sans-serif;
+  font-family: "Nasalization Rg", sans-serif;
 
   a {
     color: rgba(255, 255, 255, 0.7);

@@ -7,28 +7,34 @@ project:
     - "docs/**/*.qmd"
 
 website:
-  title: "My Quarto Site"
-  description: "A beautiful multi-format Quarto website template"
-  site-url: "https://<username>.github.io/<repo-name>/"
-  repo-url: "https://github.com/<username>/<repo-name>"
+  title: "Terra Beyond"
+  description: "A rules-light sci-fi roleplaying anthology across three cosmic ages"
+  site-url: "https://zeruhur.github.io/terra_beyond/"
+  repo-url: "https://github.com/zeruhur/terra_beyond"
   repo-actions: [issue]
 
   navbar:
     left:
       - text: "Home"
         href: index.html
-      - text: "Example Document"
-        href: docs/example-document.html
+      - text: "Sol: Beyond Earth"
+        href: docs/sol-beyond-earth.html
+      - text: "Frontier: Beyond Sol"
+        href: docs/frontier-beyond-sol.html
+      - text: "Orion: Beyond the Frontier"
+        href: docs/orion-beyond-the-frontier.html
+      - text: "Timeline"
+        href: docs/terra_beyond_timeline.html
       - text: "About"
         href: docs/about.html
     right:
       - icon: github
-        href: https://github.com/<username>/<repo-name>
+        href: https://github.com/zeruhur/terra_beyond
 
-  favicon: docs/assets/logo.svg
+  favicon: docs/assets/icon.svg
 
   page-footer:
-    left: "© {year} [Your Name](https://yourwebsite.com)"
+    left: "© 2023-2026 [Roberto Bisceglie](https://github.com/zeruhur)"
     right: "Built with [Quarto](https://quarto.org)"
 
 brand: _brand.yml
@@ -46,3 +52,10 @@ format:
     toc-depth: 3
     include-in-header: assets/fonts.html
     include-after-body: assets/format-links-top.html
+    format-links:
+      - format: typst
+        text: PDF
+        icon: file-pdf
+      - odt
+      - epub
+      - gfm

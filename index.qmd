@@ -1,6 +1,6 @@
 ---
-pagetitle: "My Quarto Website"
-description: "A beautiful multi-format website template"
+pagetitle: "Terra Beyond"
+description: "A rules-light sci-fi roleplaying anthology across three cosmic ages"
 page-layout: full
 format:
   html:
@@ -9,45 +9,95 @@ format-links: false
 ---
 
 ::: {.text-center .py-5}
-![](docs/assets/logo.svg){width="120px" fig-alt="Logo" fig-align="center"}
+![](docs/assets/icon.svg){width="140px" fig-alt="Terra Beyond Logo" fig-align="center" style="margin-bottom: 2rem; filter: drop-shadow(0 0 15px rgba(var(--bs-primary-rgb), 0.3));"}
 
-# [Welcome to Your Quarto Site]{style="color: var(--bs-primary); font-family: 'Montserrat', sans-serif; font-weight: 700;"}
+# [TERRA BEYOND]{style="color: var(--bs-primary); font-family: 'Nasalization Rg', sans-serif; font-weight: 900; font-size: 3.5rem; letter-spacing: 4px;"}
 
-A modern, responsive template with multi-format export capabilities.
+### [A rules-light sci-fi roleplaying anthology across three cosmic ages]{style="font-family: 'Nasalization Rg', sans-serif; font-weight: 600; color: var(--bs-secondary);"}
 :::
 
-::: {.grid .gap-4 .py-4}
+::: {.container .my-4}
 
-::: {.g-col-12 .g-col-md-6}
-::: {.card .p-4 .h-100 .shadow-sm}
-#### 📄 Multi-Format Exports
+::: {.row .g-4}
 
-Explore how this site compiles individual pages to PDF, EPUB, Word, and Markdown from a single source file.
+::: {.col-12 .col-md-4}
+::: {.card .h-100 .shadow-sm .border-light}
+::: {.card-body .d-flex .flex-column}
+### [Ⅰ]{style="font-size: 2.5rem; font-weight: 900; color: var(--bs-primary); line-height: 1;"}
+#### Sol: Beyond Earth
+**The Age of Settlement (1957–2090)**
 
-[View Example Document](docs/example-document.html){.btn .btn-outline-primary .mt-3}
+*Inspiration:* NASA 1970s retrofuturism — hard engineering, continuous space race, industrial optimism.
+
+Humanity's first steps out of Earth. Mine Helium-3 on the Moon, build O'Neill cylinders, establish fragile footholds on Mars, and navigate the initial tensions of interplanetary settlement.
+
+::: {.mt-auto .pt-3}
+[Read Online](docs/sol-beyond-earth.html){.btn .btn-primary .w-100}
+:::
+:::
 :::
 :::
 
-::: {.g-col-12 .g-col-md-6}
-::: {.card .p-4 .h-100 .shadow-sm}
-#### 🛠️ Customization
+::: {.col-12 .col-md-4}
+::: {.card .h-100 .shadow-sm .border-light}
+::: {.card-body .d-flex .flex-column}
+### [Ⅱ]{style="font-size: 2.5rem; font-weight: 900; color: var(--bs-primary); line-height: 1;"}
+#### Frontier: Beyond Sol
+**The Age of Expansion (2090–2400)**
 
-Customize the navbar, footer, logo, and themes in `_quarto.yml` and `_brand.yml`. Apply custom styling via SCSS.
+*Inspiration:* Terran Trade Authority — gritty logistics, stargate portals, commerce shaping politics.
 
-[Read Setup Guide](#setup-guide){.btn .btn-outline-secondary .mt-3}
+Humanity spreads to nearby star systems (Alpha Centauri, Sirius, Tau Ceti). Police the borders, smuggle past corporate gate-tolls, and choose sides as outer settlements clash with the Sol Union core.
+
+::: {.mt-auto .pt-3}
+[Read Online](docs/frontier-beyond-sol.html){.btn .btn-primary .w-100}
+:::
+:::
+:::
+:::
+
+::: {.col-12 .col-md-4}
+::: {.card .h-100 .shadow-sm .border-light}
+::: {.card-body .d-flex .flex-column}
+### [Ⅲ]{style="font-size: 2.5rem; font-weight: 900; color: var(--bs-primary); line-height: 1;"}
+#### Orion: Beyond the Frontier
+**The Age of Orion (2400–4000)**
+
+*Inspiration:* Alliance/Union — fragmented polities, political intrigue, transhumanism, psionics.
+
+God-like technologies in a highly fragmented galaxy. Experience transhumanist mind-uploading, guide psionic *Resonants*, explore ancient Precursor ruins, and deal with enigmatic alien superpowers like the Zynthari.
+
+::: {.mt-auto .pt-3}
+[Read Online](docs/orion-beyond-the-frontier.html){.btn .btn-primary .w-100}
+:::
+:::
 :::
 :::
 
 :::
 
----
+::: {.row .mt-5}
+::: {.col-12}
+::: {.card .bg-light .p-4 .border-0 .shadow-sm}
+### ⏳ Chronology of the Cosmos
 
-## About This Template {#setup-guide}
+To see how these eras connect, explore the **Terra Beyond Timeline**. From the launch of Sputnik 1 in 1957 to the post-scarcity civilizations of 4000 AD, follow the rise and fall of stellar polities, major scientific breakthroughs, and historic events.
 
-This repository is a ready-to-use **GitHub Template** designed to build and host a Quarto website on GitHub Pages. It is pre-configured to automatically render and package documents in multiple formats (PDF, EPUB, ODT, GFM) and display download links at the top of each page's sidebar.
+[Explore the Timeline](docs/terra_beyond_timeline.html){.btn .btn-outline-dark .mt-2}
+:::
+:::
+:::
 
-### Features
-- **Automated GitHub Actions:** Every push compiles and publishes the latest website to GitHub Pages.
-- **Multi-Format Sidebar Links:** Custom scripts automatically move format download links to the sidebar for a cleaner layout.
-- **Preconfigured Typst styling:** Ready-to-go Lua filters and Typst template for high-quality PDF renders.
-- **Responsive Theme switching:** Supports Materia (light) and Darkly (dark) themes out of the box.
+::: {.row .mt-5}
+::: {.col-12}
+### Powered by the 24XX Engine
+
+Each game in the *Terra Beyond* anthology is built on Jason Tocci's minimalist **24XX SRD**. 
+
+* **Rules-Light & Fast:** Focused on dramatic fiction over complex mechanics. Character creation takes less than two minutes.
+* **Step-Die Mechanic:** Roll a single polyhedral die (d6, d8, d10, etc.) based on your character's skills. Standard results determine success, complications, or disaster.
+* **Adventure-Ready:** Packed with built-in random tables for missions, characters, gear, encounters, and world-building sparks to support instant Referee prep or Solo play.
+:::
+:::
+
+:::

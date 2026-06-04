@@ -96,9 +96,9 @@
 // ============================================
 
 // Font definitions
-#let font-main = "Lora"
-#let font-title = "Montserrat"
-#let font-heading = "Montserrat"
+#let font-main = ("Jost", "Jost*")
+#let font-title = ("Nasalization", "Nasalization Rg")
+#let font-heading = ("Nasalization", "Nasalization Rg")
 
 // Page dimensions
 #let page-dims = (
@@ -202,7 +202,7 @@
     $title$
   ]
   #v(-0.7em)
-  #text(font: font-title, size: 12pt, weight: "bold")[
+  #text(font: font-title, size: 11pt, weight: "bold")[
     $subtitle$
   ]
 ]
