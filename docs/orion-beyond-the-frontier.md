@@ -1437,15 +1437,15 @@ What distinguishes Resonant ability from ordinary augmentation is its connection
 ## **Zynthari Empire**
 
 - **Foundation:** Predates human interstellar civilization; first contact with humanity in 3460 CE.
-- **Main Objectives:** Preserve ancient galactic order; prevent destabilizing expansion into territories tied to Precursor legacy; monitor humanity's development under the Observation Directive.
-- **Main Star Systems:** Rimward territories along the outer Orion Arm; exact boundaries defined by the Rim Concord of 3800, though human cartographers have mapped only the treaty margins.
-- **Organizational Structure:** Imperial hierarchy with largely opaque internal structure; external governance conducted through designated envoys and the Zynthari Observation Directorate, established in 3950.
-- **Governance and Administration:** Internal decision-making processes remain unknown to human researchers. External communications to humanity are routed through Observation Directorate envoys.
-- **Interstellar Relations:** Tense coexistence with humanity following the Cold Rim Conflict (3750) and the Rim Concord (3800). The Zal-Terran Commonwealth maintains the most functional diplomatic channel; other polities range from respectful wariness to covert hostility. Some quietly develop counter-weapons against Zynthari capabilities.
-- **Economy and Resources:** Self-sufficient; spacetime manipulation technology renders conventional resource constraints largely irrelevant. Trade with humanity is minimal and selective.
-- **Defense and Security:** The **Chrono-Guardians**, an elite fleet capable of responding to territorial violations within moments, enforce Zynthari boundaries. Their punitive strikes during the Cold Rim Conflict demonstrated capacity for devastating, precisely applied force.
-- **Research and Innovation:** Millennia ahead of humanity in spacetime engineering and energy manipulation. Their evident engagement with Precursor legacy — and evasive responses when pressed on it — suggests they faced, and survived, similar existential challenges.
-- **Culture and Society:** Largely unknown to humanity. The Zynthari operate on timescales that make human political cycles appear trivial, carry long institutional memory, and regard humanity with a mixture of cautious concern and reluctant engagement.
+- **Main Objectives:** Preserve ancient galactic order and prevent destabilizing expansion into territories tied to Precursor legacy.
+- **Main Star Systems:** Rimward territories along the outer Orion Arm; boundaries defined by the Rim Concord of 3800.
+- **Organizational Structure:** Imperial hierarchy with opaque internal structure; external affairs handled by the Zynthari Observation Directorate.
+- **Governance and Administration:** Internal decision-making is unknown to human researchers; communications to humanity flow through Observation Directorate envoys.
+- **Interstellar Relations:** Tense coexistence with humanity after the Cold Rim Conflict (3750) and the Rim Concord (3800); the Zal-Terran Commonwealth holds the most functional diplomatic channel.
+- **Economy and Resources:** Self-sufficient; spacetime manipulation technology renders conventional resource constraints irrelevant. Trade with humanity is minimal.
+- **Defense and Security:** The **Chrono-Guardians** enforce Zynthari boundaries and can respond to territorial violations within moments.
+- **Research and Innovation:** Millennia ahead of humanity in spacetime engineering; their engagement with Precursor legacy suggests they faced — and survived — similar existential challenges.
+- **Culture and Society:** Largely unknown to humanity; the Zynthari operate on timescales that make human political cycles appear trivial.
 
 # Factions and Alliances
 
