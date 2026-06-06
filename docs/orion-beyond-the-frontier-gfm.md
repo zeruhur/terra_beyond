@@ -1,6 +1,6 @@
 # Orion: Beyond the Frontier
 Roberto Bisceglie
-2026-06-04
+2026-06-06
 
 The atmosphere within the *Radiant Horizon* was tense. As the ship
 cruised along the dim expanse of interstellar void, its hull bathed in
@@ -133,7 +133,7 @@ with an otherworldly glow. “This… this could change everything.”
 Maia nodded, her gaze fixed on the distant stars. “Or it could destroy
 us. Either way, it’s not the end, it’s just the beginning.”
 
-# What is Orion: Beyond the Frontier
+## What is Orion: Beyond the Frontier
 
 *Orion: Beyond the Frontier* is a roleplaying game in which you will
 define an imagined space bounded by rules. Actions and events occur
@@ -257,7 +257,7 @@ Playable characters are the players’ gateway to the game universe in
 through their intentions and actions, navigating the fractured and
 mysterious realms of the **Orion Frontier**.
 
-### **1) Choose Your Role**
+**1) Choose Your Role**
 
 **ADVENTURER:** Skilled in Piloting (d8) and Survival (d8). Take a
 modular exploration suit, survival toolkit, and a small atmospheric
@@ -296,7 +296,7 @@ device, a neural inhibitor, and a concealed weapon of choice.
 magnetic harness, a portable analysis rig, and a quantum artifact
 container.
 
-### 2) Pick Three Skill Increases (from no skill-\>d8-\>d10-\>d12:)
+**2) Pick Three Skill Increases** (from no skill-\>d8-\>d10-\>d12:)
 
 **Skills Available:**  
 Close Quarters Combat, Computers, Cyber-Ops, Demolitions, Engineering,
@@ -312,178 +312,178 @@ hard sci-fi space crew:
 
 ### **Male Names**
 
-\|\|\|  
-\|— \|— \|  
-\| 1 \| Kael \|  
-\| 2 \| Orion \|  
-\| 3 \| Zane \|  
-\| 4 \| Eryx \|  
-\| 5 \| Solis \|  
-\| 6 \| Darien \|  
-\| 7 \| Alaric \|  
-\| 8 \| Soren \|  
-\| 9 \| Jarek \|  
-\| 10 \| Riven \|  
-\| 11 \| Lysander \|  
-\| 12 \| Kaidan \|  
-\| 13 \| Altair \|  
-\| 14 \| Zephyr \|  
-\| 15 \| Ryker \|  
-\| 16 \| Evander \|  
-\| 17 \| Thane \|  
-\| 18 \| Aedric \|  
-\| 19 \| Malric \|  
-\| 20 \| Caelum \|
+|     |          |
+|-----|----------|
+| 1   | Kael     |
+| 2   | Orion    |
+| 3   | Zane     |
+| 4   | Eryx     |
+| 5   | Solis    |
+| 6   | Darien   |
+| 7   | Alaric   |
+| 8   | Soren    |
+| 9   | Jarek    |
+| 10  | Riven    |
+| 11  | Lysander |
+| 12  | Kaidan   |
+| 13  | Altair   |
+| 14  | Zephyr   |
+| 15  | Ryker    |
+| 16  | Evander  |
+| 17  | Thane    |
+| 18  | Aedric   |
+| 19  | Malric   |
+| 20  | Caelum   |
 
 ### **Female Names**
 
-\|\|\|  
-\|— \|— \|  
-\| 1 \| Lyra \|  
-\| 2 \| Astra \|  
-\| 3 \| Seris \|  
-\| 4 \| Calla \|  
-\| 5 \| Elara \|  
-\| 6 \| Nyssa \|  
-\| 7 \| Althea \|  
-\| 8 \| Ceryn \|  
-\| 9 \| Veyra \|  
-\| 10 \| Orielle\|  
-\| 11 \| Novara \|  
-\| 12 \| Selene \|  
-\| 13 \| Taryn \|  
-\| 14 \| Kaida \|  
-\| 15 \| Vesper \|  
-\| 16 \| Amara \|  
-\| 17 \| Syra \|  
-\| 18 \| Evyn \|  
-\| 19 \| Naeris \|  
-\| 20 \| Nerys \|
+|     |         |
+|-----|---------|
+| 1   | Lyra    |
+| 2   | Astra   |
+| 3   | Seris   |
+| 4   | Calla   |
+| 5   | Elara   |
+| 6   | Nyssa   |
+| 7   | Althea  |
+| 8   | Ceryn   |
+| 9   | Veyra   |
+| 10  | Orielle |
+| 11  | Novara  |
+| 12  | Selene  |
+| 13  | Taryn   |
+| 14  | Kaida   |
+| 15  | Vesper  |
+| 16  | Amara   |
+| 17  | Syra    |
+| 18  | Evyn    |
+| 19  | Naeris  |
+| 20  | Nerys   |
 
 ### **Neutral Names**
 
-\|\|\|  
-\|— \|— \|  
-\| 1 \| Rune \|  
-\| 2 \| Aeris \|  
-\| 3 \| Cyra \|  
-\| 4 \| Kiran \|  
-\| 5 \| Lioren \|  
-\| 6 \| Quin \|  
-\| 7 \| Elyon \|  
-\| 8 \| Zeal \|  
-\| 9 \| Talis \|  
-\| 10 \| Korrin \|  
-\| 11 \| Nyx \|  
-\| 12 \| Auron \|  
-\| 13 \| Sio \|  
-\| 14 \| Evros \|  
-\| 15 \| Remy \|  
-\| 16 \| Kaelix \|  
-\| 17 \| Rhaen \|  
-\| 18 \| Valin \|  
-\| 19 \| Daris \|  
-\| 20 \| Eris \|
+|     |        |
+|-----|--------|
+| 1   | Rune   |
+| 2   | Aeris  |
+| 3   | Cyra   |
+| 4   | Kiran  |
+| 5   | Lioren |
+| 6   | Quin   |
+| 7   | Elyon  |
+| 8   | Zeal   |
+| 9   | Talis  |
+| 10  | Korrin |
+| 11  | Nyx    |
+| 12  | Auron  |
+| 13  | Sio    |
+| 14  | Evros  |
+| 15  | Remy   |
+| 16  | Kaelix |
+| 17  | Rhaen  |
+| 18  | Valin  |
+| 19  | Daris  |
+| 20  | Eris   |
 
 ### **Surnames**
 
-\|\|\|  
-\|— \|— \|  
-\| 1 \| Kestrel\|  
-\| 2 \| Duvall \|  
-\| 3 \| Kaelor \|  
-\| 4 \| Orinix \|  
-\| 5 \| Thorne \|  
-\| 6 \| Veyron \|  
-\| 7 \| Talwyn \|  
-\| 8 \| Nyvar \|  
-\| 9 \| Lannix \|  
-\| 10 \| Ardeen \|  
-\| 11 \| Cyrell \|  
-\| 12 \| Morven \|  
-\| 13 \| Faelix \|  
-\| 14 \| Drayven\|  
-\| 15 \| Velara \|  
-\| 16 \| Zayrus \|  
-\| 17 \| Kyros \|  
-\| 18 \| Aelric \|  
-\| 19 \| Rhyne \|  
-\| 20 \| Zeyran \|
+|     |         |
+|-----|---------|
+| 1   | Kestrel |
+| 2   | Duvall  |
+| 3   | Kaelor  |
+| 4   | Orinix  |
+| 5   | Thorne  |
+| 6   | Veyron  |
+| 7   | Talwyn  |
+| 8   | Nyvar   |
+| 9   | Lannix  |
+| 10  | Ardeen  |
+| 11  | Cyrell  |
+| 12  | Morven  |
+| 13  | Faelix  |
+| 14  | Drayven |
+| 15  | Velara  |
+| 16  | Zayrus  |
+| 17  | Kyros   |
+| 18  | Aelric  |
+| 19  | Rhyne   |
+| 20  | Zeyran  |
 
 ### **Nicknames**
 
-\|\|\|  
-\|— \|— \|  
-\| 1 \| Nebula \|  
-\| 2 \| Pulse \|  
-\| 3 \| Vector \|  
-\| 4 \| Flux \|  
-\| 5 \| Zenith \|  
-\| 6 \| Echo \|  
-\| 7 \| Astra \|  
-\| 8 \| Cipher \|  
-\| 9 \| Vega \|  
-\| 10 \| Helix \|  
-\| 11 \| Nova \|  
-\| 12 \| Phantom\|  
-\| 13 \| Halo \|  
-\| 14 \| Spark \|  
-\| 15 \| Void \|  
-\| 16 \| Prism \|  
-\| 17 \| Rift \|  
-\| 18 \| Shadow \|  
-\| 19 \| Wraith \|  
-\| 20 \| Comet \|
+|     |         |
+|-----|---------|
+| 1   | Nebula  |
+| 2   | Pulse   |
+| 3   | Vector  |
+| 4   | Flux    |
+| 5   | Zenith  |
+| 6   | Echo    |
+| 7   | Astra   |
+| 8   | Cipher  |
+| 9   | Vega    |
+| 10  | Helix   |
+| 11  | Nova    |
+| 12  | Phantom |
+| 13  | Halo    |
+| 14  | Spark   |
+| 15  | Void    |
+| 16  | Prism   |
+| 17  | Rift    |
+| 18  | Shadow  |
+| 19  | Wraith  |
+| 20  | Comet   |
 
 ### **Demeanor**
 
-\|\|\|  
-\|— \|— \|  
-\| 1 \| Calculating \|  
-\| 2 \| Visionary \|  
-\| 3 \| Stoic \|  
-\| 4 \| Curious \|  
-\| 5 \| Cynical \|  
-\| 6 \| Resilient \|  
-\| 7 \| Restless \|  
-\| 8 \| Empathic \|  
-\| 9 \| Reckless \|  
-\| 10 \| Witty \|  
-\| 11 \| Defiant \|  
-\| 12 \| Mercurial \|  
-\| 13 \| Pensive \|  
-\| 14 \| Mysterious \|  
-\| 15 \| Driven \|  
-\| 16 \| Aloof \|  
-\| 17 \| Idealistic \|  
-\| 18 \| Pragmatic \|  
-\| 19 \| Relentless \|  
-\| 20 \| Inspirational\|
+|     |               |
+|-----|---------------|
+| 1   | Calculating   |
+| 2   | Visionary     |
+| 3   | Stoic         |
+| 4   | Curious       |
+| 5   | Cynical       |
+| 6   | Resilient     |
+| 7   | Restless      |
+| 8   | Empathic      |
+| 9   | Reckless      |
+| 10  | Witty         |
+| 11  | Defiant       |
+| 12  | Mercurial     |
+| 13  | Pensive       |
+| 14  | Mysterious    |
+| 15  | Driven        |
+| 16  | Aloof         |
+| 17  | Idealistic    |
+| 18  | Pragmatic     |
+| 19  | Relentless    |
+| 20  | Inspirational |
 
 ### **Quirks**
 
-\|\|\|  
-\|— \|— \|  
-\| 1 \| Neural Implant Glitch\|  
-\| 2 \| AI Best Friend \|  
-\| 3 \| Cybernetic Limb Fidgeting \|  
-\| 4 \| Obsessive Artifact Collector\|  
-\| 5 \| Gravitational Sensitivity\|  
-\| 6 \| Quantum Dice Gambler\|  
-\| 7 \| Nostalgic Hologamer \|  
-\| 8 \| Zero-G Anxiety \|  
-\| 9 \| Alien Language Hobbyist\|  
-\| 10 \| Tinkers with Obsolete Tech\|  
-\| 11 \| Whispering to Machines\|  
-\| 12 \| Precog Dreams \|  
-\| 13 \| Holo-Artist \|  
-\| 14 \| Collector of Alien Trinkets\|  
-\| 15 \| Genetic Augmentation Enthusiast\|  
-\| 16 \| Hates Void Silence \|  
-\| 17 \| Overly Attached to Their Drone\|  
-\| 18 \| Obsessed with Precursor Myths\|  
-\| 19 \| Experimental Augment Addict\|  
-\| 20 \| Never Removes Their Breathing Mask\|
+|     |                                    |
+|-----|------------------------------------|
+| 1   | Neural Implant Glitch              |
+| 2   | AI Best Friend                     |
+| 3   | Cybernetic Limb Fidgeting          |
+| 4   | Obsessive Artifact Collector       |
+| 5   | Gravitational Sensitivity          |
+| 6   | Quantum Dice Gambler               |
+| 7   | Nostalgic Hologamer                |
+| 8   | Zero-G Anxiety                     |
+| 9   | Alien Language Hobbyist            |
+| 10  | Tinkers with Obsolete Tech         |
+| 11  | Whispering to Machines             |
+| 12  | Precog Dreams                      |
+| 13  | Holo-Artist                        |
+| 14  | Collector of Alien Trinkets        |
+| 15  | Genetic Augmentation Enthusiast    |
+| 16  | Hates Void Silence                 |
+| 17  | Overly Attached to Their Drone     |
+| 18  | Obsessed with Precursor Myths      |
+| 19  | Experimental Augment Addict        |
+| 20  | Never Removes Their Breathing Mask |
 
 ### **Starting Gear**
 
@@ -2352,6 +2352,45 @@ context justifies the roll.
 - **Culture and Society:** Independent and resilient, valuing community
   and personal freedom.
 
+## **Zynthari Empire**
+
+- **Foundation:** Predates human interstellar civilization; first
+  contact with humanity in 3460 CE.
+- **Main Objectives:** Preserve ancient galactic order; prevent
+  destabilizing expansion into territories tied to Precursor legacy;
+  monitor humanity’s development under the Observation Directive.
+- **Main Star Systems:** Rimward territories along the outer Orion Arm;
+  exact boundaries defined by the Rim Concord of 3800, though human
+  cartographers have mapped only the treaty margins.
+- **Organizational Structure:** Imperial hierarchy with largely opaque
+  internal structure; external governance conducted through designated
+  envoys and the Zynthari Observation Directorate, established in 3950.
+- **Governance and Administration:** Internal decision-making processes
+  remain unknown to human researchers. External communications to
+  humanity are routed through Observation Directorate envoys.
+- **Interstellar Relations:** Tense coexistence with humanity following
+  the Cold Rim Conflict (3750) and the Rim Concord (3800). The
+  Zal-Terran Commonwealth maintains the most functional diplomatic
+  channel; other polities range from respectful wariness to covert
+  hostility. Some quietly develop counter-weapons against Zynthari
+  capabilities.
+- **Economy and Resources:** Self-sufficient; spacetime manipulation
+  technology renders conventional resource constraints largely
+  irrelevant. Trade with humanity is minimal and selective.
+- **Defense and Security:** The **Chrono-Guardians**, an elite fleet
+  capable of responding to territorial violations within moments,
+  enforce Zynthari boundaries. Their punitive strikes during the Cold
+  Rim Conflict demonstrated capacity for devastating, precisely applied
+  force.
+- **Research and Innovation:** Millennia ahead of humanity in spacetime
+  engineering and energy manipulation. Their evident engagement with
+  Precursor legacy — and evasive responses when pressed on it — suggests
+  they faced, and survived, similar existential challenges.
+- **Culture and Society:** Largely unknown to humanity. The Zynthari
+  operate on timescales that make human political cycles appear trivial,
+  carry long institutional memory, and regard humanity with a mixture of
+  cautious concern and reluctant engagement.
+
 # Factions and Alliances
 
 ## Major Factions
@@ -2359,63 +2398,6 @@ context justifies the roll.
 The Orion Frontier’s fragmentation has produced dozens of factions, each
 pursuing a different answer to the same question: who gets to define
 humanity’s future.
-
-### **Sol Union**
-
-**Philosophy:** Stewardship of humanity’s founding legacy. The Sol Union
-is the oldest continuous interstellar institution, founded in 2155 to
-govern Earth and its early colonies. By 4000 CE it no longer holds real
-political authority — its Central Council issues resolutions that are
-advisory in practice, and its Union Defense Force is outgunned by the
-private fleets of the Sirius Compact and the IFMC. What it retains is
-symbolic weight: it is the custodian of humanity’s founding treaties, a
-neutral mediator still respected even by polities that would never
-accept its governance, and the keeper of Earth itself as a pilgrimage
-site. Younger factions sometimes exploit that legitimacy; the Sol Union
-is not always naive about the fact.
-
-- **Strengths:** Unmatched institutional credibility and archive depth;
-  useful as a neutral mediator when no other party is trusted.
-- **Weaknesses:** No enforcement mechanism; resolutions depend entirely
-  on member goodwill to mean anything.
-- **Notable Assets:** The **Union Archive**, the most complete
-  repository of pre-fragmentation treaties, legal precedents, and
-  historical records in human space.
-
-### **Orion Concordium**
-
-**Philosophy:** Unity through order and cooperation.  
-The Orion Concordium is a coalition of star systems in the inner settled
-regions of the Orion Arm that seeks to unify humanity under a
-centralized governance structure. They advocate for regulated expansion
-and cooperative diplomacy, emphasizing stability and technological
-progress. The Concordium often mediates disputes between factions but is
-criticized for being bureaucratic and slow to act.
-
-- **Strengths:** Advanced diplomacy, strong economic and military
-  infrastructure, and significant influence over interstellar trade
-  routes.
-- **Weaknesses:** Overextension and internal dissent from member systems
-  seeking more autonomy.
-- **Notable Assets:** A fleet of heavily fortified **Concordium
-  Citadels** that serve as centers of governance and defense.
-
-### **Zynthari Empire**
-
-**Philosophy:** Preservation of ancient order.  
-The Zynthari are an enigmatic alien civilization that controls
-territories along the rim of the Orion Arm. Their technology, derived
-from deep knowledge of spacetime manipulation, surpasses humanity’s
-capabilities. They see humanity’s expansion as a potential threat to
-galactic stability and have drawn strict boundaries around their
-territory.
-
-- **Strengths:** Superior technology, particularly in energy
-  manipulation and spacetime engineering.
-- **Weaknesses:** Limited expansionist ambitions leave them isolated,
-  with only limited diplomatic outreach to humanity.
-- **Notable Assets:** The **Chrono-Guardians**, an elite fleet capable
-  of responding to violations of Zynthari territory within moments.
 
 ### **Interstellar Free Market Consortium (IFMC)**
 
@@ -2436,28 +2418,6 @@ Precursor tech adaptation.
   uprisings in frontier territories.
 - **Notable Assets:** **Trade Armada**, a fleet of fortified cargo ships
   and corporate security forces.
-
-### **Sirius Compact**
-
-**Philosophy:** Dominance through commerce and control. Founded during
-the 2680 fragmentation, the Sirius Compact is a corporate oligarchy
-anchored in the Sirius and Vega systems. Where the IFMC operates as a
-pan-galactic network without fixed territory, the Compact is a
-territorial power: it holds core systems, commands private military
-fleets, and enforces its commercial interests through direct control of
-key jumpgates. The Compact Council, a body of executives drawn from its
-founding megacorporations, makes policy quickly and enforces it without
-the procedural delays of polity governments. Frontier systems experience
-Compact trade policy as extraction rather than exchange, sustaining a
-persistent cycle of resentment and anti-corporate insurgency.
-
-- **Strengths:** Deep financial reserves, private military capability,
-  and strategic control of jumpgate chokepoints.
-- **Weaknesses:** Widely resented in dependent systems; anti-corporate
-  insurgencies recur faster than they can be suppressed.
-- **Notable Assets:** **Compact Enforcement Flotillas** — fast, heavily
-  armed commercial security fleets that double as power-projection
-  tools.
 
 ### **Eclipse Network**
 
@@ -2506,63 +2466,6 @@ their discoveries, which are coveted by all major factions.
   — named after the Precursor megastructure at Zeta Reticuli it was
   built to study — rumored to house vast amounts of decoded Precursor
   data.
-
-### **Nova Terra Assembly**
-
-**Philosophy:** Progress through transhumanism.  
-Emerging from the transhumanist movements of the 2700s, the Nova Terra
-Assembly is a society of individuals who have embraced mind uploading,
-genetic augmentation, and cybernetic enhancement. They believe
-humanity’s destiny lies in transcending biological limitations and
-expanding consciousness.
-
-- **Strengths:** Advanced biotechnology and cybernetic infrastructure,
-  near-immortal leadership, and post-scarcity conditions in their
-  domains.
-- **Weaknesses:** Often seen as cold and inhuman, alienating
-  traditionalist factions.
-- **Notable Assets:** The **Unity Spire**, a massive orbital habitat
-  housing billions of digitized minds.
-
-### **Zal-Terran Commonwealth**
-
-**Philosophy:** Unity through species cooperation.  
-Born from the multi-species contacts of 2840 and the rimward alien
-protection laws that followed, the Zal-Terran Commonwealth is the
-galaxy’s only major multi-species political entity. Its bicameral
-council seats human and alien delegates as equals, and its joint fleets
-emphasize peacekeeping over power projection. The Commonwealth is the
-primary advocate for sentient alien rights and the preferred mediator
-when cross-species diplomacy is required — a role that earns it respect
-from the Zynthari and suspicion from expansionist factions.
-
-- **Strengths:** Unique diplomatic credibility with alien civilizations;
-  deep expertise in xenobiology, linguistics, and cooperative
-  engineering.
-- **Weaknesses:** Slow decision-making due to complex multi-species
-  consensus; often accused of prioritizing alien interests over human
-  ones.
-- **Notable Assets:** Joint human-alien **Accord Fleets** and the
-  **Xenology Accord Stations** positioned throughout rimward systems.
-
-### **Frontier Coalition**
-
-**Philosophy:** Freedom through radical self-reliance.  
-The Frontier Coalition is a loose constellation of frontier worlds that
-rejected centralized governance in the 31st century and never looked
-back. No single capital, no unified military — just a shared commitment
-to independence enforced by stubborn geography and mutual defense pacts.
-Their militia-style forces, retrofitted ships, and improvised technology
-make them appear weak to outside observers; the Sirius Compact and IFMC
-have both underestimated them at significant cost.
-
-- **Strengths:** Deep knowledge of frontier survival; resilient and hard
-  to destroy by conventional means; strong local loyalty.
-- **Weaknesses:** Internal rivalries and lack of collective voice in
-  major interstellar negotiations.
-- **Notable Assets:** Informal **Coalition Compact** mutual defense
-  agreements that activate surprisingly quickly when any member is
-  threatened.
 
 ## Minor Factions
 
@@ -2703,39 +2606,37 @@ adventure.
 
 #### **Adventure Hooks**
 
-1.  **Sabotage Mission**  
-    The Redbound Pact hires the players to disrupt the Wyrmkin Cartel’s
-    illegal mining operation. But what happens when they discover the
-    Cartel is protecting a unique ecosystem?
+1.  **Sabotage Mission** The Redbound Pact hires the players to disrupt
+    the Wyrmkin Cartel’s illegal mining operation. But what happens when
+    they discover the Cartel is protecting a unique ecosystem?
 
-2.  **Artifact Heist**  
-    The Hollow Veil contracts the players to steal a Precursor shard
-    from the Jade Spire Syndicate’s vaults. Will the team succeed, or
-    will they find themselves caught in the Syndicate’s web?
+2.  **Artifact Heist** The Hollow Veil contracts the players to steal a
+    Precursor shard from the Jade Spire Syndicate’s vaults. Will the
+    team succeed, or will they find themselves caught in the Syndicate’s
+    web?
 
-3.  **Diplomatic Crisis**  
-    A fragile truce between the Iron Forge Compact and a major
-    corporation teeters on the brink of collapse. The players must
-    broker the truce — or exploit the collapse.
+3.  **Diplomatic Crisis** A fragile truce between the Iron Forge Compact
+    and a major corporation teeters on the brink of collapse. The
+    players must broker the truce — or exploit the collapse.
 
-4.  **AI Awakening**  
-    An Ecliptic Shard entity reaches out to the players for help
-    deciphering a Precursor data core. Can they trust the AI, or will it
-    lead them into danger?
+4.  **AI Awakening** An Ecliptic Shard entity reaches out to the players
+    for help deciphering a Precursor data core. Can they trust the AI,
+    or will it lead them into danger?
 
 ### **Faction Encounter Table**
 
-Roll 1d10: \| d10 \| Encounter \| \| — \| ———————————————— \| \| 1 \| A
-Fractured Path priest pleads for protection of a Precursor ruin. \| \| 2
-\| An Ember Syndicate smuggler offers the players a lucrative job. \| \|
-3 \| The Silent Reverie seeks aid to fend off raiders. \| \| 4 \| The
-Jade Spire Syndicate blackmails the players for a secret. \| \| 5 \| The
-Iron Forge Compact asks for help defending their workshops. \| \| 6 \|
-An Omega Convergence operative attempts to recruit the players. \| \| 7
-\| The Wyrmkin Cartel demands payment for access to a rare resource. \|
-\| 8 \| Ecliptic Shard AI offers cryptic guidance—at a cost. \| \| 9 \|
-A Redbound Pact officer seeks revenge on their old commanders. \| \| 10
-\| The Hollow Veil tasks the players with a high-stakes heist. \|
+| d10 | Encounter                                                          |
+|-----|--------------------------------------------------------------------|
+| 1   | A Fractured Path priest pleads for protection of a Precursor ruin. |
+| 2   | An Ember Syndicate smuggler offers the players a lucrative job.    |
+| 3   | The Silent Reverie seeks aid to fend off raiders.                  |
+| 4   | The Jade Spire Syndicate blackmails the players for a secret.      |
+| 5   | The Iron Forge Compact asks for help defending their workshops.    |
+| 6   | An Omega Convergence operative attempts to recruit the players.    |
+| 7   | The Wyrmkin Cartel demands payment for access to a rare resource.  |
+| 8   | Ecliptic Shard AI offers cryptic guidance—at a cost.               |
+| 9   | A Redbound Pact officer seeks revenge on their old commanders.     |
+| 10  | The Hollow Veil tasks the players with a high-stakes heist.        |
 
 ## Cosmic Threats
 
@@ -2938,64 +2839,59 @@ alliances in the making, and rivalries looking for an opening.
 
 ### **Adventure Hooks**
 
-1.  **Smuggling Runs**  
-    A faction hires the players to transport contraband through a
-    bustling trade hub without alerting customs or rival smugglers.
+1.  **Smuggling Runs** A faction hires the players to transport
+    contraband through a bustling trade hub without alerting customs or
+    rival smugglers.
 
-2.  **Diplomatic Intrigue**  
-    The characters act as bodyguards or undercover operatives during
-    tense negotiations at an embassy station.
+2.  **Diplomatic Intrigue** The characters act as bodyguards or
+    undercover operatives during tense negotiations at an embassy
+    station.
 
-3.  **Market Espionage**  
-    Compete in an interstellar auction for a rare artifact while
-    uncovering rival bidders’ dirty tricks.
+3.  **Market Espionage** Compete in an interstellar auction for a rare
+    artifact while uncovering rival bidders’ dirty tricks.
 
-4.  **Contest in Chaos**  
-    A contested resource zone erupts in skirmishes. Players must manage
-    competing claims and deal with sabotage on both sides.
+4.  **Contest in Chaos** A contested resource zone erupts in skirmishes.
+    Players must manage competing claims and deal with sabotage on both
+    sides.
 
 ### **Random Commons Encounter Table**
 
-Roll 1d10: \| d10 \| Encounter \| \| — \| —————————————– \| \| 1 \| A
-brawl breaks out in a crowded marketplace over a Precursor relic. \| \|
-2 \| A charismatic alien diplomat seeks a crew to retrieve stolen data.
-\| \| 3 \| A trader offers a rare artifact but demands a dangerous favor
-in return. \| \| 4 \| A resource convoy arrives, and pirates prepare to
-strike. \| \| 5 \| A black-market deal goes awry, and the players are
-caught in the chaos. \| \| 6 \| An auction for a rare item escalates
-into a deadly standoff. \| \| 7 \| A neutral AI mediator malfunctions,
-threatening to void a fragile truce. \| \| 8 \| A mysterious figure
-offers cryptic guidance for a steep price. \| \| 9 \| A cultural
-festival attracts performers, merchants—and saboteurs. \| \| 10 \| A
-rogue AI infiltrates the station’s systems, threatening its inhabitants.
-\|
+| d10 | Encounter |
+|----|----|
+| 1 | A brawl breaks out in a crowded marketplace over a Precursor relic. |
+| 2 | A charismatic alien diplomat seeks a crew to retrieve stolen data. |
+| 3 | A trader offers a rare artifact but demands a dangerous favor in return. |
+| 4 | A resource convoy arrives, and pirates prepare to strike. |
+| 5 | A black-market deal goes awry, and the players are caught in the chaos. |
+| 6 | An auction for a rare item escalates into a deadly standoff. |
+| 7 | A neutral AI mediator malfunctions, threatening to void a fragile truce. |
+| 8 | A mysterious figure offers cryptic guidance for a steep price. |
+| 9 | A cultural festival attracts performers, merchants—and saboteurs. |
+| 10 | A rogue AI infiltrates the station’s systems, threatening its inhabitants. |
 
 ## **Famous Locations in the Galactic Commons**
 
-1.  **Ecliptica Station**  
-    A massive hub known for its bioluminescent architecture and
-    reputation as a “city that never sleeps.” Its market tiers host
-    everything from luxury goods to illegal bioweapons.
+1.  **Ecliptica Station** A massive hub known for its bioluminescent
+    architecture and reputation as a “city that never sleeps.” Its
+    market tiers host everything from luxury goods to illegal
+    bioweapons.
 
-2.  **The Neutral Star**  
-    An ancient star surrounded by a network of Precursor-built habitats.
-    This zone is steeped in mystery and often serves as a meeting ground
-    for shadowy negotiations.
+2.  **The Neutral Star** An ancient star surrounded by a network of
+    Precursor-built habitats. This zone is steeped in mystery and often
+    serves as a meeting ground for shadowy negotiations.
 
-3.  **Tidevault**  
-    A planet with a constantly shifting tidal environment, where water
-    cities rise and fall. Its unique geography makes it a hotspot for
-    trade and Precursor hunting.
+3.  **Tidevault** A planet with a constantly shifting tidal environment,
+    where water cities rise and fall. Its unique geography makes it a
+    hotspot for trade and Precursor hunting.
 
-4.  **Voidspire Ring**  
-    A hollowed-out asteroid with a sprawling trade complex, frequented
-    by smugglers, mercenaries, and explorers. Its tunnels are a
-    labyrinth of opportunity and danger.
+4.  **Voidspire Ring** A hollowed-out asteroid with a sprawling trade
+    complex, frequented by smugglers, mercenaries, and explorers. Its
+    tunnels are a labyrinth of opportunity and danger.
 
-5.  **Shardpoint Nexus**  
-    A Precursor relic repurposed into a trade station, its defenses
-    still operational. The station is rumored to contain hidden vaults
-    accessible only to those who decipher its ancient code.
+5.  **Shardpoint Nexus** A Precursor relic repurposed into a trade
+    station, its defenses still operational. The station is rumored to
+    contain hidden vaults accessible only to those who decipher its
+    ancient code.
 
 # **Living the Frontier**
 
@@ -3163,37 +3059,35 @@ root.
 
 ### **Adventure Hooks**
 
-1.  **Wildlife Siege**  
-    A settlement is under attack by a swarm of bio-luminescent
-    predators. Players must defend the colony while uncovering what
-    provoked the creatures.
+1.  **Wildlife Siege** A settlement is under attack by a swarm of
+    bio-luminescent predators. Players must defend the colony while
+    uncovering what provoked the creatures.
 
-2.  **Resource Crisis**  
-    The town’s power grid is failing, and players must scavenge or
-    negotiate for parts—before an incoming storm strikes.
+2.  **Resource Crisis** The town’s power grid is failing, and players
+    must scavenge or negotiate for parts—before an incoming storm
+    strikes.
 
-3.  **Ghost Colony**  
-    A once-thriving town lies eerily abandoned, its residents vanished.
-    Players investigate, finding clues that hint at a greater cosmic
-    mystery.
+3.  **Ghost Colony** A once-thriving town lies eerily abandoned, its
+    residents vanished. Players investigate, finding clues that hint at
+    a greater cosmic mystery.
 
-4.  **Cultural Celebration**  
-    Players attend a festival only to discover that saboteurs are
-    working to incite chaos for a rival faction.
+4.  **Cultural Celebration** Players attend a festival only to discover
+    that saboteurs are working to incite chaos for a rival faction.
 
 ### **Random Frontier Encounter Table**
 
-Roll 1d10: \| d10 \| Encounter \| \| — \| —————————————- \| \| 1 \| A
-supply convoy has gone missing, leaving the colony vulnerable. \| \| 2
-\| A scavenger offers a rare artifact in exchange for protection. \| \|
-3 \| A massive sandstorm traps the players in a crumbling settlement. \|
-\| 4 \| The local cantina becomes a flashpoint for an interstellar feud.
-\| \| 5 \| An alien nomad seeks help deciphering an ancient map. \| \| 6
-\| An outbreak of a strange disease threatens the town’s survival. \| \|
-7 \| A group of settlers demands independence, sparking unrest. \| \| 8
-\| An unregistered vessel crashes nearby, and its cargo is disputed.\|
-\| 9 \| A mysterious artifact begins affecting nearby electronics. \| \|
-10 \| A bounty hunter arrives, searching for one of the settlers. \|
+| d10 | Encounter                                                         |
+|-----|-------------------------------------------------------------------|
+| 1   | A supply convoy has gone missing, leaving the colony vulnerable.  |
+| 2   | A scavenger offers a rare artifact in exchange for protection.    |
+| 3   | A massive sandstorm traps the players in a crumbling settlement.  |
+| 4   | The local cantina becomes a flashpoint for an interstellar feud.  |
+| 5   | An alien nomad seeks help deciphering an ancient map.             |
+| 6   | An outbreak of a strange disease threatens the town’s survival.   |
+| 7   | A group of settlers demands independence, sparking unrest.        |
+| 8   | An unregistered vessel crashes nearby, and its cargo is disputed. |
+| 9   | A mysterious artifact begins affecting nearby electronics.        |
+| 10  | A bounty hunter arrives, searching for one of the settlers.       |
 
 # **Precursor Echoes**
 
@@ -3207,25 +3101,23 @@ gameplay.
 
 ## **Cultural Significance of the Precursors**
 
-1.  **The Keepers of the Unknown**  
-    Across human and alien cultures, the Precursors are seen as gods,
-    progenitors, or even tragic reminders of the universe’s
-    impermanence. Their ruins are treated with reverence, fear, or
-    greed, depending on who encounters them. Some factions view
-    Precursor sites as sacred, while others see them as keys to
-    limitless power.
+1.  **The Keepers of the Unknown** Across human and alien cultures, the
+    Precursors are seen as gods, progenitors, or even tragic reminders
+    of the universe’s impermanence. Their ruins are treated with
+    reverence, fear, or greed, depending on who encounters them. Some
+    factions view Precursor sites as sacred, while others see them as
+    keys to limitless power.
 
-2.  **A Universal Puzzle**  
-    Precursor remnants serve as common ground—and battleground—between
-    factions. Academics, scavengers, and opportunists risk everything to
-    uncover their secrets. Their artifacts are the subject of intense
-    academic inquiry and dangerous black-market dealings.
+2.  **A Universal Puzzle** Precursor remnants serve as common ground—and
+    battleground—between factions. Academics, scavengers, and
+    opportunists risk everything to uncover their secrets. Their
+    artifacts are the subject of intense academic inquiry and dangerous
+    black-market dealings.
 
-3.  **Inspirations and Warnings**  
-    Stories of Precursor collapse resonate deeply with human and alien
-    societies alike. Were they undone by hubris, war, or an external
-    threat? These questions inspire philosophical debates and factional
-    politics across the stars.
+3.  **Inspirations and Warnings** Stories of Precursor collapse resonate
+    deeply with human and alien societies alike. Were they undone by
+    hubris, war, or an external threat? These questions inspire
+    philosophical debates and factional politics across the stars.
 
 ## **The Ark of Precursor Knowledge**
 
@@ -3262,17 +3154,15 @@ administrative authority over the site.
 
 ### **Environmental Hazards**
 
-1.  **Dimensional Instability**  
-    Gravity wells, time loops, or spatial rifts plague many Precursor
-    sites, making exploration perilous.
+1.  **Dimensional Instability** Gravity wells, time loops, or spatial
+    rifts plague many Precursor sites, making exploration perilous.
 
-2.  **Automated Defenses**  
-    Drones, energy barriers, and traps designed to deter intruders may
-    activate unexpectedly.
+2.  **Automated Defenses** Drones, energy barriers, and traps designed
+    to deter intruders may activate unexpectedly.
 
-3.  **Corrupting Forces**  
-    Exposure to certain Precursor energy sources can alter organic and
-    synthetic beings, sometimes granting power at a steep cost.
+3.  **Corrupting Forces** Exposure to certain Precursor energy sources
+    can alter organic and synthetic beings, sometimes granting power at
+    a steep cost.
 
 ## **Precursor Artifacts**
 
@@ -3290,61 +3180,50 @@ administrative authority over the site.
 
 ### **Using Artifacts in Gameplay**
 
-1.  **Boosting Player Abilities**  
-    Artifacts can enhance characters’ skills or grant unique powers,
-    like temporary invisibility, energy shields, or advanced
-    communication with alien entities.
+1.  **Boosting Player Abilities** Artifacts can enhance characters’
+    skills or grant unique powers, like temporary invisibility, energy
+    shields, or advanced communication with alien entities.
 
-2.  **Story Hooks**  
-    The discovery of an artifact can drive entire campaigns, whether
-    it’s a treasure hunt, a race against a rival faction, or an ethical
-    dilemma over its proper use.
+2.  **Story Hooks** The discovery of an artifact can drive entire
+    campaigns, whether it’s a treasure hunt, a race against a rival
+    faction, or an ethical dilemma over its proper use.
 
-3.  **Complications**  
-    Many artifacts have unintended consequences. A resonance device
-    might destabilize nearby systems, or a living relic might compel its
-    user to act against their better judgment.
+3.  **Complications** Many artifacts have unintended consequences. A
+    resonance device might destabilize nearby systems, or a living relic
+    might compel its user to act against their better judgment.
 
 ## **Mysteries of the Precursors**
 
-1.  **The Collapse**  
-    What caused their downfall? Every artifact and ruin is a piece of a
-    puzzle that points toward an extinction event—one that might still
-    pose a threat to the galaxy.
+1.  **The Collapse** What caused their downfall? Every artifact and ruin
+    is a piece of a puzzle that points toward an extinction event—one
+    that might still pose a threat to the galaxy.
 
-2.  **The Relic Guardians**  
-    Are the sentient constructs found in ruins merely ancient AI, or do
-    they represent Precursor minds that refuse to die? Their cryptic
-    warnings often mention a “Final Accord” — a phrase that appears in
-    multiple unconnected ruins and has no confirmed translation. Some
-    researchers believe it refers to the agreement the Precursors made
-    before the end; others think it names the catastrophe itself. The
-    Zynthari, when asked, do not answer.
+2.  **The Relic Guardians** Are the sentient constructs found in ruins
+    merely ancient AI, or do they represent Precursor minds that refuse
+    to die? Their cryptic warnings often mention a “Final Accord” — a
+    phrase that appears in multiple unconnected ruins and has no
+    confirmed translation. Some researchers believe it refers to the
+    agreement the Precursors made before the end; others think it names
+    the catastrophe itself. The Zynthari, when asked, do not answer.
 
-3.  **The Shard Network**  
-    Some explorers believe that Precursor ruins are connected through an
-    interstellar network of energy conduits. Activating one artifact
-    could awaken others—or unleash chaos.
+3.  **The Shard Network** Some explorers believe that Precursor ruins
+    are connected through an interstellar network of energy conduits.
+    Activating one artifact could awaken others—or unleash chaos.
 
 ## **Random Artifact Table**
 
-Roll 1d10 for inspiration: \| d10 \| Artifact \| Description \| \| — \|
-—————————— \| ———————————————————————————————– \| \| 1 \| Shifting Lens
-\| A crystal that bends light to create illusions or invisibility. \| \|
-2 \| Pulsar Key \| Unlocks hidden chambers in Precursor ruins but
-triggers defenses if misused. \| \| 3 \| Neural Imprint Sphere \|
-Implants fragments of Precursor knowledge into the user’s mind, at the
-risk of mental strain. \| \| 4 \| Temporal Stasis Rod \| Halts time
-within a small radius, useful for escape or sabotage. \| \| 5 \| Glyph
-Core \| Projects holographic maps or instructions, often incomplete or
-puzzling. \| \| 6 \| Void Anchor \| Stabilizes spacetime in unstable
-regions, allowing safe passage. \| \| 7 \| Luminal Seed \| Grows into a
-bio-mechanical construct over time, serving as an ally or resource. \|
-\| 8 \| Gravitic Prism \| Alters gravity in a small area, useful for
-traversal or combat. \| \| 9 \| Starforge Fragment \| Creates limited
-amounts of exotic materials when charged. \| \| 10 \| Echo Beacon \|
-Emits a signal that attracts both allies and enemies, and possibly
-awakens ancient constructs. \|
+| d10 | Artifact | Description |
+|----|----|----|
+| 1 | Shifting Lens | A crystal that bends light to create illusions or invisibility. |
+| 2 | Pulsar Key | Unlocks hidden chambers in Precursor ruins but triggers defenses if misused. |
+| 3 | Neural Imprint Sphere | Implants fragments of Precursor knowledge into the user’s mind, at the risk of mental strain. |
+| 4 | Temporal Stasis Rod | Halts time within a small radius, useful for escape or sabotage. |
+| 5 | Glyph Core | Projects holographic maps or instructions, often incomplete or puzzling. |
+| 6 | Void Anchor | Stabilizes spacetime in unstable regions, allowing safe passage. |
+| 7 | Luminal Seed | Grows into a bio-mechanical construct over time, serving as an ally or resource. |
+| 8 | Gravitic Prism | Alters gravity in a small area, useful for traversal or combat. |
+| 9 | Starforge Fragment | Creates limited amounts of exotic materials when charged. |
+| 10 | Echo Beacon | Emits a signal that attracts both allies and enemies, and possibly awakens ancient constructs. |
 
 # **Stellar Fauna and Flora**
 
@@ -3464,43 +3343,39 @@ ecosystems.
 
 ### **Adventure Hooks**
 
-1.  **Harvesting Danger**  
-    Players are hired to collect sap from Luminae Vines to treat an
-    outbreak of radiation poisoning in a nearby colony. However, they
-    must survive the hallucination-inducing spores and hostile wildlife.
+1.  **Harvesting Danger** Players are hired to collect sap from Luminae
+    Vines to treat an outbreak of radiation poisoning in a nearby
+    colony. However, they must survive the hallucination-inducing spores
+    and hostile wildlife.
 
-2.  **Lost Expedition**  
-    A research team studying Starlight Blooms has gone missing on a
-    barren world. The players must follow their trail and confront the
-    creatures or environmental dangers responsible.
+2.  **Lost Expedition** A research team studying Starlight Blooms has
+    gone missing on a barren world. The players must follow their trail
+    and confront the creatures or environmental dangers responsible.
 
-3.  **Umbra Stalker Infestation**  
-    A settlement’s underground power plant has become the hunting ground
-    for a pack of Umbra Stalkers. The players must eliminate the threat
-    or find a way to drive the predators away.
+3.  **Umbra Stalker Infestation** A settlement’s underground power plant
+    has become the hunting ground for a pack of Umbra Stalkers. The
+    players must eliminate the threat or find a way to drive the
+    predators away.
 
-4.  **Nebula Manta Harvesting**  
-    A corporation hires the players to extract bioluminescent enzymes
-    from Nebula Mantas. Navigating the gas giant’s treacherous skies
-    while avoiding EMP pulses and corporate rivals proves to be no small
-    task.
+4.  **Nebula Manta Harvesting** A corporation hires the players to
+    extract bioluminescent enzymes from Nebula Mantas. Navigating the
+    gas giant’s treacherous skies while avoiding EMP pulses and
+    corporate rivals proves to be no small task.
 
 ### **Random Encounter Table**
 
-Roll 1d10: \| d10 \| Encounter \| \| — \| ——————————————– \| \| 1 \| A
-pack of Umbra Stalkers ambushes the players in a shadowed cave. \| \| 2
-\| A Luminae Vine snares an NPC, triggering a hallucinogenic response.
-\| \| 3 \| A herd of Nebula Mantas passes dangerously close to the
-players’ ship, releasing EMP pulses. \| \| 4 \| Glyph Crabs swarm the
-players’ equipment, attracted by its energy. \| \| 5 \| A researcher
-studying Echo Lichen needs help deciphering its vibrations. \| \| 6 \|
-Ion Worms infiltrate the players’ power systems, causing malfunctions.
-\| \| 7 \| A rare bloom of Starlight Blossoms sparks a race between
-factions for their petals. \| \| 8 \| A Sky Spire’s spores drift into a
-settlement, causing unknown biological effects. \| \| 9 \| An alien
-nomad warns the players of a deadly creature haunting a Precursor ruin.
-\| \| 10 \| A colossal Nebula Manta tangles with a pirate ship near the
-players’ position. \|
+| d10 | Encounter |
+|----|----|
+| 1 | A pack of Umbra Stalkers ambushes the players in a shadowed cave. |
+| 2 | A Luminae Vine snares an NPC, triggering a hallucinogenic response. |
+| 3 | A herd of Nebula Mantas passes dangerously close to the players’ ship, releasing EMP pulses. |
+| 4 | Glyph Crabs swarm the players’ equipment, attracted by its energy. |
+| 5 | A researcher studying Echo Lichen needs help deciphering its vibrations. |
+| 6 | Ion Worms infiltrate the players’ power systems, causing malfunctions. |
+| 7 | A rare bloom of Starlight Blossoms sparks a race between factions for their petals. |
+| 8 | A Sky Spire’s spores drift into a settlement, causing unknown biological effects. |
+| 9 | An alien nomad warns the players of a deadly creature haunting a Precursor ruin. |
+| 10 | A colossal Nebula Manta tangles with a pirate ship near the players’ position. |
 
 ## Macro-Scale Hazards
 
@@ -3541,111 +3416,111 @@ the competing interests of interstellar society.
 
 Roll 1d6 to determine the availability of missions. Spend 1₡ to re-roll.
 
-\| D6 \| Job Offer \|  
-\| — \| —————————————– \|  
-\| 1-2 \| No contracts available currently. \|  
-\| 3-4 \| A risky or low-paying mission is offered. \|  
-\| 5-6 \| Choose between two available contracts. \|
+| D6  | Job Offer                                 |
+|-----|-------------------------------------------|
+| 1-2 | No contracts available currently.         |
+| 3-4 | A risky or low-paying mission is offered. |
+| 5-6 | Choose between two available contracts.   |
 
 ### **Mission Table**
 
-\| D20 \| Mission \|  
-\| — \| ————————— \|  
-\| 1. \| Secure Precursor Artifact \|  
-\| 2. \| Investigate Alien Signal \|  
-\| 3. \| Establish Orbital Outpost \|  
-\| 4. \| Recover Lost Starship \|  
-\| 5. \| Assist Colony Infrastructure\|  
-\| 6. \| Neutralize Pirate Threat \|  
-\| 7. \| Protect Trade Convoy \|  
-\| 8. \| Survey Hazardous Planet \|  
-\| 9. \| Infiltrate Rival Facility \|  
-\| 10. \| Mediate Faction Dispute \|  
-\| 11. \| Capture Rogue AI Node \|  
-\| 12. \| Search for Missing Crew \|  
-\| 13. \| Escort Diplomatic Envoy \|  
-\| 14. \| Test Advanced Weaponry \|  
-\| 15. \| Disable Smuggler Ring \|  
-\| 16. \| Aid in Terraforming Effort \|  
-\| 17. \| Repair Subspace Anomaly \|  
-\| 18. \| Contain Xenobiological Outbreak \|  
-\| 19. \| Reinforce Colony Defenses \|  
-\| 20. \| Discover New Resonance Point\|
+| D20  | Mission                         |
+|------|---------------------------------|
+| 1\.  | Secure Precursor Artifact       |
+| 2\.  | Investigate Alien Signal        |
+| 3\.  | Establish Orbital Outpost       |
+| 4\.  | Recover Lost Starship           |
+| 5\.  | Assist Colony Infrastructure    |
+| 6\.  | Neutralize Pirate Threat        |
+| 7\.  | Protect Trade Convoy            |
+| 8\.  | Survey Hazardous Planet         |
+| 9\.  | Infiltrate Rival Facility       |
+| 10\. | Mediate Faction Dispute         |
+| 11\. | Capture Rogue AI Node           |
+| 12\. | Search for Missing Crew         |
+| 13\. | Escort Diplomatic Envoy         |
+| 14\. | Test Advanced Weaponry          |
+| 15\. | Disable Smuggler Ring           |
+| 16\. | Aid in Terraforming Effort      |
+| 17\. | Repair Subspace Anomaly         |
+| 18\. | Contain Xenobiological Outbreak |
+| 19\. | Reinforce Colony Defenses       |
+| 20\. | Discover New Resonance Point    |
 
 ### **Location Table**
 
-\| D20 \| Location \|  
-\| — \| ————————- \|  
-\| 1. \| Core System Habitat \|  
-\| 2. \| Remote Frontier Colony \|  
-\| 3. \| Precursor Ruin Site \|  
-\| 4. \| Derelict Freighter \|  
-\| 5. \| Pirate Asteroid Base \|  
-\| 6. \| Gas Giant Mining Platform \|  
-\| 7. \| Volcanic Exoplanet \|  
-\| 8. \| Zynthari Border Zone \|  
-\| 9. \| Unstable Phase Rift \|  
-\| 10. \| Disputed Trade Hub \|  
-\| 11. \| Alien Biodome Station \|  
-\| 12. \| Neutron Star Proximity \|  
-\| 13. \| Uncharted Planetary System\|  
-\| 14. \| Cosmic Dust Nebula \|  
-\| 15. \| Rogue Planet Surface \|  
-\| 16. \| Varnon Swarm Boundary \|  
-\| 17. \| Experimental Shipyard \|  
-\| 18. \| Diplomatic Conference Station \|  
-\| 19. \| Deep Space Monitoring Array \|  
-\| 20. \| Isolated Terraforming Base\|
+| D20  | Location                      |
+|------|-------------------------------|
+| 1\.  | Core System Habitat           |
+| 2\.  | Remote Frontier Colony        |
+| 3\.  | Precursor Ruin Site           |
+| 4\.  | Derelict Freighter            |
+| 5\.  | Pirate Asteroid Base          |
+| 6\.  | Gas Giant Mining Platform     |
+| 7\.  | Volcanic Exoplanet            |
+| 8\.  | Zynthari Border Zone          |
+| 9\.  | Unstable Phase Rift           |
+| 10\. | Disputed Trade Hub            |
+| 11\. | Alien Biodome Station         |
+| 12\. | Neutron Star Proximity        |
+| 13\. | Uncharted Planetary System    |
+| 14\. | Cosmic Dust Nebula            |
+| 15\. | Rogue Planet Surface          |
+| 16\. | Varnon Swarm Boundary         |
+| 17\. | Experimental Shipyard         |
+| 18\. | Diplomatic Conference Station |
+| 19\. | Deep Space Monitoring Array   |
+| 20\. | Isolated Terraforming Base    |
 
 ### **Client Table**
 
-\| D20 \| Client \|  
-\| — \| ——————————– \|  
-\| 1. \| Sol Union High Command \|  
-\| 2. \| Orion Concordium Diplomatic Corps \|  
-\| 3. \| Sirius Compact Resource Authority \|  
-\| 4. \| Precursor Seekers Guild \|  
-\| 5. \| Independent Frontier Council \|  
-\| 6. \| Frontier Coalition Council \|  
-\| 7. \| Nova Terra Assembly \|  
-\| 8. \| Interstellar Free Market Consortium \|  
-\| 9. \| Zynthari Observation Directorate \|  
-\| 10. \| Rogue AI Research Division \|  
-\| 11. \| Colonial Infrastructure Union \|  
-\| 12. \| Artifact Protection Syndicate \|  
-\| 13. \| System Defense Coalition \|  
-\| 14. \| Pan-Galactic Traders Network \|  
-\| 15. \| Galactic Conservation League \|  
-\| 16. \| Zal-Terran Commonwealth Council \|  
-\| 17. \| Deep Space Xenology Institute \|  
-\| 18. \| Sector Energy Consortium \|  
-\| 19. \| Terraforming Engineers Assembly \|  
-\| 20. \| Independent Smuggler Broker \|
+| D20  | Client                              |
+|------|-------------------------------------|
+| 1\.  | Sol Union High Command              |
+| 2\.  | Orion Concordium Diplomatic Corps   |
+| 3\.  | Sirius Compact Resource Authority   |
+| 4\.  | Precursor Seekers Guild             |
+| 5\.  | Independent Frontier Council        |
+| 6\.  | Frontier Coalition Council          |
+| 7\.  | Nova Terra Assembly                 |
+| 8\.  | Interstellar Free Market Consortium |
+| 9\.  | Zynthari Observation Directorate    |
+| 10\. | Rogue AI Research Division          |
+| 11\. | Colonial Infrastructure Union       |
+| 12\. | Artifact Protection Syndicate       |
+| 13\. | System Defense Coalition            |
+| 14\. | Pan-Galactic Traders Network        |
+| 15\. | Galactic Conservation League        |
+| 16\. | Zal-Terran Commonwealth Council     |
+| 17\. | Deep Space Xenology Institute       |
+| 18\. | Sector Energy Consortium            |
+| 19\. | Terraforming Engineers Assembly     |
+| 20\. | Independent Smuggler Broker         |
 
 ### **Complication Table**
 
-\| D20 \| Complication \|  
-\| — \| ———————————– \|  
-\| 1. \| Malfunctioning Starship Systems \|  
-\| 2. \| Rival Faction Interference \|  
-\| 3. \| Subspace Anomaly Disrupts Mission \|  
-\| 4. \| Hostile Xenobiological Entity \|  
-\| 5. \| Unstable Precursor Technology \|  
-\| 6. \| Crew Conflict or Betrayal \|  
-\| 7. \| Interstellar Communication Blackout \|  
-\| 8. \| Sabotage by Unseen Forces \|  
-\| 9. \| Unexpected First Contact Event \|  
-\| 10. \| Xenological Contamination Risk \|  
-\| 11. \| Varnon Swarm Advance Detected Nearby \|  
-\| 12. \| Secret Corporate Involvement \|  
-\| 13. \| Factional Diplomatic Fallout \|  
-\| 14. \| Equipment Failure in Extreme Conditions \|  
-\| 15. \| Hostile Space Weather Phenomenon \|  
-\| 16. \| Misleading Mission Parameters \|  
-\| 17. \| Zynthari Intervention \|  
-\| 18. \| Rogue AI Opposition \|  
-\| 19. \| Unexpected Civilian Presence \|  
-\| 20. \| Distress Beacon is Hostile Trap \|
+| D20  | Complication                            |
+|------|-----------------------------------------|
+| 1\.  | Malfunctioning Starship Systems         |
+| 2\.  | Rival Faction Interference              |
+| 3\.  | Subspace Anomaly Disrupts Mission       |
+| 4\.  | Hostile Xenobiological Entity           |
+| 5\.  | Unstable Precursor Technology           |
+| 6\.  | Crew Conflict or Betrayal               |
+| 7\.  | Interstellar Communication Blackout     |
+| 8\.  | Sabotage by Unseen Forces               |
+| 9\.  | Unexpected First Contact Event          |
+| 10\. | Xenological Contamination Risk          |
+| 11\. | Varnon Swarm Advance Detected Nearby    |
+| 12\. | Secret Corporate Involvement            |
+| 13\. | Factional Diplomatic Fallout            |
+| 14\. | Equipment Failure in Extreme Conditions |
+| 15\. | Hostile Space Weather Phenomenon        |
+| 16\. | Misleading Mission Parameters           |
+| 17\. | Zynthari Intervention                   |
+| 18\. | Rogue AI Opposition                     |
+| 19\. | Unexpected Civilian Presence            |
+| 20\. | Distress Beacon is Hostile Trap         |
 
 ### **Mission Reward Table**
 
@@ -3658,28 +3533,28 @@ of credits. The Referee should offer one or the other — credits or a
 table result — not both, unless the players have significantly exceeded
 mission parameters.
 
-\| D20 \| Reward \|  
-\| — \| ———————————– \|  
-\| 1. \| Substantial Financial Compensation \|  
-\| 2. \| Advanced Precursor Artifact \|  
-\| 3. \| Rare Trade Licenses \|  
-\| 4. \| Favor from Major Faction \|  
-\| 5. \| Unique Alien Biotechnologies \|  
-\| 6. \| Access to Restricted Star Systems \|  
-\| 7. \| Personal Recognition or Rank \|  
-\| 8. \| Experimental Starship Equipment \|  
-\| 9. \| Xenobiological Data Samples \|  
-\| 10. \| Outpost Ownership Rights \|  
-\| 11. \| Exclusive Research Access \|  
-\| 12. \| Valuable Star Map Coordinates \|  
-\| 13. \| Political Influence and Leverage \|  
-\| 14. \| Relic Deciphering Resources \|  
-\| 15. \| Enhanced Faction Standing \|  
-\| 16. \| Improved Starship Components \|  
-\| 17. \| Rare Geological Resources \|  
-\| 18. \| Unexplored Star System Data \|  
-\| 19. \| Precursor Knowledge Repository \|  
-\| 20. \| Alien Diplomatic Favor \|
+| D20  | Reward                             |
+|------|------------------------------------|
+| 1\.  | Substantial Financial Compensation |
+| 2\.  | Advanced Precursor Artifact        |
+| 3\.  | Rare Trade Licenses                |
+| 4\.  | Favor from Major Faction           |
+| 5\.  | Unique Alien Biotechnologies       |
+| 6\.  | Access to Restricted Star Systems  |
+| 7\.  | Personal Recognition or Rank       |
+| 8\.  | Experimental Starship Equipment    |
+| 9\.  | Xenobiological Data Samples        |
+| 10\. | Outpost Ownership Rights           |
+| 11\. | Exclusive Research Access          |
+| 12\. | Valuable Star Map Coordinates      |
+| 13\. | Political Influence and Leverage   |
+| 14\. | Relic Deciphering Resources        |
+| 15\. | Enhanced Faction Standing          |
+| 16\. | Improved Starship Components       |
+| 17\. | Rare Geological Resources          |
+| 18\. | Unexplored Star System Data        |
+| 19\. | Precursor Knowledge Repository     |
+| 20\. | Alien Diplomatic Favor             |
 
 ### **Twist Table**
 
@@ -3880,3 +3755,68 @@ mission parameters.
 | 18  | A fugitive seeking sanctuary during the mission    |
 | 19  | An injured settler with surprising expertise       |
 | 20  | A Zynthari observer silently judging every move    |
+
+# Inspirations
+
+**Books:**
+
+- Revelation Space, Chasm City, and the Inhibitor sequence by Alastair
+  Reynolds
+- The Culture novels by Iain M. Banks (especially *Use of Weapons* and
+  *The Player of Games*)
+- Hyperion Cantos by Dan Simmons
+- Commonwealth Saga (*Pandora’s Star*, *Judas Unchained*) by Peter F.
+  Hamilton
+- A Fire Upon the Deep and A Deepness in the Sky by Vernor Vinge
+- The Engines of God and the Academy series by Jack McDevitt
+- Accelerando by Charles Stross
+- Xeelee Sequence by Stephen Baxter
+
+**Movies/TV:**
+
+- Foundation (Apple TV+)
+- Babylon 5
+- Interstellar
+- Arrival
+- Andromeda
+- Battlestar Galactica (2004)
+
+**Video Games:**
+
+- Mass Effect trilogy
+- Stellaris
+- Endless Space 2
+- No Man’s Sky
+- Elite Dangerous
+
+**Inspirational Sources:**
+
+- Artwork of Moebius (Jean Giraud) and Chris Foss for alien scale and
+  visual language
+- The Long Now Foundation for thinking in civilizational timescales
+- Fermi Paradox literature and the Great Filter hypothesis
+
+**Key Themes:**
+
+- Ancient alien civilizations and the ruins they leave behind
+- Humanity as a young species navigating a galaxy shaped by older powers
+- Post-scarcity and transhumanism alongside frontier hardship
+- Rogue AI as neither villain nor savior, but something genuinely alien
+  in motivation
+- Cosmic threats that dwarf political rivalries
+- The cost of knowledge: every Precursor discovery raises the question
+  of why they needed to leave it behind
+
+# License
+
+© 2026 Roberto Bisceglie
+
+The original 24XX SRD is by Jason Tocci license under Creative Commons
+Attribution 4.0 International License.
+
+Cover and internal illustrations are generated with ChatGPT Image 4o
+
+This work is licensed under the Creative Commons Attribution-ShareAlike
+4.0 International License. To view a copy of this license, visit
+<http://creativecommons.org/licenses/by-sa/4.0/> or send a letter to
+Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.

@@ -1,6 +1,6 @@
 # Frontier: Beyond Sol
 Roberto Bisceglie
-2026-06-04
+2026-06-06
 
 Under the ghostly glow of SZ Ursae Majoris’ seventh planet, a cold
 martian giant, the small, stealthy vessel *Nimbus* held its position,
