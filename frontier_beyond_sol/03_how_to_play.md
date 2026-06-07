@@ -116,7 +116,7 @@ Roll in lulls, at the start of a fight, or whenever no skill roll applies. For e
 
 *Frontier: Beyond Sol* can be played alone, without a Referee. You control a single character navigating the interstellar frontier, and a set of oracles takes the Referee's place — answering questions, introducing complications, and keeping the fiction honest when you can't answer for yourself.
 
-The tools below work as a cycle: The Loop tells you when to roll and how to read outcomes; the Risk Oracle gauges how much control you have before you act; the Question Oracle resolves anything off-screen or outside your character's direct influence; and Sparks give you a prompt when you need a new direction.
+The tools below work as a cycle: The Loop tells you when to roll and how to read outcomes; the Situation Roll gauges how much control you have before you act; the Question Oracle resolves anything off-screen or outside your character's direct influence; and Sparks give you a prompt when you need a new direction.
 
 ### The Loop
 
