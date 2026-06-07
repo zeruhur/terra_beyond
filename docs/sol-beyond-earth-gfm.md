@@ -1,6 +1,6 @@
 # Sol: Beyond Earth
 Roberto Bisceglie
-2026-06-06
+2026-06-07
 
 *The crew of the spacecraft, three astronauts and an engineer, sat
 calmly in their seats as they approached the space habitat. The captain,
@@ -576,11 +576,11 @@ safety.
 protagonist and the world: making decisions as your character, then
 stepping back to let the setting respond through the oracles below.
 
-The **Risk Oracle** tells you how much friction the world offers before
-you commit to an action. The **Question Oracle** lets the world answer
-questions you can’t resolve alone (what an NPC does, whether the docking
-bay is sealed, if the cargo matches the manifest). **Sparks** give you a
-prompt when you need direction or momentum.
+The **Situation Roll** tells you how much friction the world offers
+before you commit to an action. The **Question Oracle** lets the world
+answer questions you can’t resolve alone (what an NPC does, whether the
+docking bay is sealed, if the cargo matches the manifest). **Sparks**
+give you a prompt when you need direction or momentum.
 
 Trust the results. When an oracle contradicts what you expected, that’s
 where the story is.

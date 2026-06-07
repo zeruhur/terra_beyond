@@ -1,6 +1,6 @@
 # Frontier: Beyond Sol
 Roberto Bisceglie
-2026-06-06
+2026-06-07
 
 Under the ghostly glow of SZ Ursae Majoris’ seventh planet, a cold
 martian giant, the small, stealthy vessel *Nimbus* held its position,
@@ -658,7 +658,7 @@ introducing complications, and keeping the fiction honest when you can’t
 answer for yourself.
 
 The tools below work as a cycle: The Loop tells you when to roll and how
-to read outcomes; the Risk Oracle gauges how much control you have
+to read outcomes; the Situation Roll gauges how much control you have
 before you act; the Question Oracle resolves anything off-screen or
 outside your character’s direct influence; and Sparks give you a prompt
 when you need a new direction.

@@ -1,6 +1,6 @@
 # Orion: Beyond the Frontier
 Roberto Bisceglie
-2026-06-06
+2026-06-07
 
 The atmosphere within the *Radiant Horizon* was tense. As the ship
 cruised along the dim expanse of interstellar void, its hull bathed in
@@ -839,15 +839,15 @@ missions rather than resolving the threat immediately.
 *Orion: Beyond the Frontier* works as a solo game. You play your
 character; two oracles cover everything else.
 
-The **Risk Oracle** tells you how much control you have before you act —
-whether the situation is stable enough to skip a roll or volatile enough
-to make failure hit hard. The **Question Oracle** answers yes/no
+The **Situation Roll** tells you how much control you have before you
+act — whether the situation is stable enough to skip a roll or volatile
+enough to make failure hit hard. The **Question Oracle** answers yes/no
 questions about the world: NPC reactions, off-screen events, things your
 character can’t directly observe. Use the Sparks tables when you need a
 fresh direction and nothing comes to mind.
 
 You don’t need to use all three tools every scene. Most moments resolve
-through the Risk Oracle alone. The Question Oracle comes in when the
+through the Situation Roll alone. The Question Oracle comes in when the
 fiction raises a question your character can’t answer by acting. Sparks
 are a last resort, not a crutch.
 
