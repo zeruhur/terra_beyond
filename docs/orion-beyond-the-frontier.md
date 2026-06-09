@@ -1356,6 +1356,8 @@ What distinguishes Resonant ability from ordinary augmentation is its connection
 
 # Major Stellar Polities
 
+By 4000 CE, no single authority rules human space. The Sol Union's early dream of unified governance fragmented across centuries of rebellion, secession, and first contact, leaving a constellation of competing polities in its wake — each born from a different vision of what humanity should become. Some are federations of worlds, others corporate oligarchies or posthumanist collectives; one is an alien empire that predates human civilization entirely. They coexist through treaties, rivalry, and the unspoken understanding that open war in the age of jumpgates is catastrophic for everyone. Between them lie independent systems, frontier coalitions, and corridors of space where no polity's writ runs at all.
+
 ## **Sol Union**
 
 - **Foundation:** 2155, as a unified government for Earth and its early space colonies.
@@ -1448,6 +1450,8 @@ What distinguishes Resonant ability from ordinary augmentation is its connection
 - **Culture and Society:** Largely unknown to humanity; the Zynthari operate on timescales that make human political cycles appear trivial.
 
 # Factions and Alliances
+
+Polities hold territory and project power across star systems, but factions are the forces that move through them — ideological movements, corporate blocs, cults, and coalitions that operate across borders and don't answer to any single government. In the Orion Frontier, a character's relationship with these groups often matters more than their citizenship. Factions offer work, protection, and purpose; they also demand loyalty, and they remember betrayal.
 
 ## Major Factions
 
@@ -1947,101 +1951,103 @@ The Precursor Seekers maintain a permanent research vessel — the *Ark of Retic
 | 9   | Starforge Fragment    | Creates limited amounts of exotic materials when charged.                                      |
 | 10  | Echo Beacon           | Emits a signal that attracts both allies and enemies, and possibly awakens ancient constructs. |
 
-# **Stellar Fauna and Flora**
+# **Alien Life**
 
-The alien worlds of the Orion Frontier support life forms adapted to conditions that range from toxic to impossible. Many are dangerous. Most are poorly understood. Below are examples of flora and fauna encountered in the Frontier.
+No survey can catalogue the biospheres of hundreds of worlds. What follows is not a bestiary — it is a generator. When characters land on an unfamiliar planet, the Referee rolls or selects from these tables to build a life form suited to the environment. Combine results freely. Not every entry needs to apply; a sessile colonial organism has no threat behavior worth noting, and a mindless filter-feeder has no defined ecological role in the predator sense. Use what fits, discard what doesn’t.
 
-## **Flora**
+## **Generating a Life Form**
 
-### **1. Luminae Vines**
+### **1. Environment**
 
-- **Habitat**: Shadowed regions of dense Precursor ruins or deep cave systems.
-- **Description**: These bioluminescent vines glow in mesmerizing hues, pulsating in response to movement or sound. Their tendrils are covered in tiny, reactive sensors, giving them the appearance of shimmering, living circuitry.
-- **Behavior**:
-  - The vines react defensively to perceived threats, releasing spores that induce hallucinations in intruders.
-  - They coil around objects or living beings for protection, making exploration of their habitats treacherous.
-- **Uses**: The glowing sap is sought after for its healing properties and as a source of light for frontier settlements, though harvesting it is highly dangerous.
+| d6 | Environment |
+|----|-------------|
+| 1  | High-gravity rocky world; dense lower atmosphere, crushing pressure at surface |
+| 2  | Low-gravity airless moon; radiation exposure, extreme thermal cycling |
+| 3  | Ocean world or subsurface liquid environment; no surface light below a few hundred meters |
+| 4  | Gas giant upper atmosphere; perpetual storms, no solid ground |
+| 5  | Arid world; minimal water, wide daily temperature swings, high UV |
+| 6  | Dense wet biosphere; high biomass, intense resource competition |
 
-### **2. Starlight Blooms**
+### **2. Body Plan**
 
-- **Habitat**: High-altitude plateaus on airless worlds.
-- **Description**: These crystalline, flower-like structures are not plants in the traditional sense but silicon-based life forms that absorb starlight to fuel their growth. Each petal is semi-transparent and refracts light into dazzling rainbows.
-- **Behavior**:
-  - Blooms slowly rotate to track distant stars.
-  - When disturbed, they emit a high-pitched frequency that can disrupt nearby electronics.
-- **Uses**: Fragments of Starlight Blooms are prized as components in energy amplifiers and high-end optical technology.
+| d10 | Body Plan |
+|-----|-----------|
+| 1   | Radially symmetric; no defined front or back |
+| 2   | Elongated and segmented; many limbs or none |
+| 3   | Bilateral; recognizable head and body, wrong number of limbs |
+| 4   | Colonial; many small units functioning as a single organism |
+| 5   | Sessile structure with a mobile dispersal or feeding stage |
+| 6   | Flat and wide; optimized for surface area over volume |
+| 7   | Fluid-filled sac; changes shape under pressure or stimulus |
+| 8   | Rigid external skeleton; internal structures heavily protected |
+| 9   | Semi-gaseous or aerosol; no fixed form, diffuses through atmosphere |
+| 10  | Mineral or crystalline; slow metabolism, effectively geological timescales |
 
-## **Fauna**
+### **3. Scale**
 
-### **1. Umbra Stalkers**
+| d6 | Scale |
+|----|-------|
+| 1  | Microorganism; detectable only with instruments |
+| 2  | Small; fits in a hand |
+| 3  | Human-scale |
+| 4  | Large; vehicle-sized |
+| 5  | Massive; structure- or settlement-scale |
+| 6  | Atmospheric or geological; system-level presence |
 
-- **Habitat**: Subterranean caverns and shadowed planetary environments.
-- **Description**: These sleek, six-legged predators are covered in a jet-black, reflective hide that renders them nearly invisible in darkness. They are bioluminescent on their undersides, emitting an eerie, low glow that they use to communicate with their kind.
-- **Behavior**:
-  - Ambush predators, they use their luminescence to lure prey into traps.
-  - Highly intelligent, Umbra Stalkers have been observed coordinating hunts through complex light signals.
-- **Threats**:
-  - Capable of leaping great distances and attacking with razor-sharp mandibles.
-  - Emit a disorienting chittering sound when threatened, which can incapacitate their prey.
-- **Uses**: The reflective hide of an Umbra Stalker is a prized material for crafting stealth gear or armor. However, hunting them is highly dangerous, as their hunting packs are relentless in pursuit of perceived threats.
+### **4. Primary Sense**
 
-### **2. Nebula Mantas**
+| d6 | Sense |
+|----|-------|
+| 1  | Electroreception; detects electrical fields in surrounding medium |
+| 2  | Chemical gradient; navigates entirely by molecular trail, effectively blind |
+| 3  | Seismic; perceives vibration through substrate or atmosphere |
+| 4  | Thermal; infrared, no response to visible light |
+| 5  | Electromagnetic; sensitive to radio or magnetic field variation |
+| 6  | Pressure wave; sonar or echolocation equivalent |
 
-- **Habitat**: Upper atmospheres of gas giants.
-- **Description**: Enormous, manta-ray-like creatures that glide through gas giant skies, feeding on ionized particles and drifting organisms. Their translucent bodies shimmer with internal bioluminescence, creating the illusion of glowing constellations in motion.
-- **Behavior**:
-  - Passive filter feeders, but their size makes them dangerous to ships navigating their territory.
-  - React to electrical discharges by emitting EMP pulses, disabling nearby electronics.
-- **Threats**:
-  - Accidental collisions with ships can cause catastrophic damage.
-- **Uses**: Their unique bioluminescent enzymes are used in advanced sensor technology and stealth systems, making them highly valuable to researchers and corporations alike.
+### **5. Ecological Role**
 
-## **Ecosystems in the Frontier**
+| d6 | Role |
+|----|------|
+| 1  | Apex predator |
+| 2  | Filter feeder; extracts nutrients from atmosphere, water, or regolith |
+| 3  | Scavenger; consumes dead organic or processed material |
+| 4  | Symbiont; depends on another organism — mutualistic or parasitic |
+| 5  | Decomposer; breaks down complex matter, including manufactured materials |
+| 6  | Colonial producer; generates resources consumed by other life |
 
-### **Precursor Ruin Biomes**
+### **6. Threat**
 
-Precursor sites, with their energy anomalies and altered gravity fields, foster ecosystems unlike anything found elsewhere.
+| d6 | Threat |
+|----|--------|
+| 1  | Direct attack; speed, mass, or strength |
+| 2  | Toxin or corrosive secretion; contact or airborne |
+| 3  | Equipment interference; electromagnetic, chemical, or mechanical disruption |
+| 4  | Infectious; introduces biological contamination |
+| 5  | Environmental manipulation; collapses terrain, floods areas, alters local atmosphere |
+| 6  | None inherent; dangerous only through scale or reflexive behavior when disturbed |
 
-- **Symbiotic Life**: Many creatures and plants seem to have adapted to the residual energy of these sites, thriving where other organisms would perish.
-- **Examples**:
-  - **Glyph Crabs**: Small crustaceans with shell patterns resembling Precursor glyphs. They feed on the energy fields emitted by ruins.
-  - **Echo Lichen**: A fungus that absorbs residual sound vibrations, turning them into energy. Colonies of Echo Lichen hum softly, creating an eerie ambient noise.
+### **7. Commercial or Research Value**
 
-### **Gas Giant Skies**
+| d6 | Value |
+|----|-------|
+| 1  | Biochemical compounds; pharmaceutical or industrial applications |
+| 2  | Structural material; hide, shell, or mineral body with useful properties |
+| 3  | Energy source; metabolic byproduct or stored chemical energy |
+| 4  | Sensor adaptation; biological mechanism with instrument applications |
+| 5  | Live specimen; scientific value, intact capture required |
+| 6  | No established value; may indicate unexplored potential or genuine uselessness |
 
-The dense, gaseous atmospheres of these worlds support entire airborne ecosystems.
+## **Encounter Context**
 
-- **Floating Ecosystems**: Creatures like the Nebula Mantas coexist with smaller filter-feeders and parasitic organisms.
-- **Examples**:
-  - **Sky Spires**: Towering, plant-like organisms that drift on air currents, releasing spores that act as seeds and food for other creatures.
-  - **Ion Worms**: Tiny, glowing serpentine creatures that follow ion trails left by larger fauna, scavenging particles and organic debris.
-
-## **Using Flora and Fauna in Gameplay**
-
-### **Adventure Hooks**
-
-1. **Harvesting Danger** Players are hired to collect sap from Luminae Vines to treat an outbreak of radiation poisoning in a nearby colony. However, they must survive the hallucination-inducing spores and hostile wildlife.
-
-2. **Lost Expedition** A research team studying Starlight Blooms has gone missing on a barren world. The players must follow their trail and confront the creatures or environmental dangers responsible.
-
-3. **Umbra Stalker Infestation** A settlement’s underground power plant has become the hunting ground for a pack of Umbra Stalkers. The players must eliminate the threat or find a way to drive the predators away.
-
-4. **Nebula Manta Harvesting** A corporation hires the players to extract bioluminescent enzymes from Nebula Mantas. Navigating the gas giant’s treacherous skies while avoiding EMP pulses and corporate rivals proves to be no small task.
-
-### **Random Encounter Table**
-
-| d10 | Encounter                                                                                    |
-|-----|----------------------------------------------------------------------------------------------|
-| 1   | A pack of Umbra Stalkers ambushes the players in a shadowed cave.                            |
-| 2   | A Luminae Vine snares an NPC, triggering a hallucinogenic response.                          |
-| 3   | A herd of Nebula Mantas passes dangerously close to the players' ship, releasing EMP pulses. |
-| 4   | Glyph Crabs swarm the players' equipment, attracted by its energy.                           |
-| 5   | A researcher studying Echo Lichen needs help deciphering its vibrations.                     |
-| 6   | Ion Worms infiltrate the players' power systems, causing malfunctions.                       |
-| 7   | A rare bloom of Starlight Blossoms sparks a race between factions for their petals.          |
-| 8   | A Sky Spire’s spores drift into a settlement, causing unknown biological effects.            |
-| 9   | An alien nomad warns the players of a deadly creature haunting a Precursor ruin.             |
-| 10  | A colossal Nebula Manta tangles with a pirate ship near the players' position.               |
+| d6 | Situation |
+|----|-----------|
+| 1  | Territorial; the crew entered its range without knowing |
+| 2  | Displaced; something drove it from its normal habitat |
+| 3  | Attracted by equipment emissions, waste heat, or chemical signature |
+| 4  | Incidental; passing through, uninterested unless provoked |
+| 5  | Active threat to a nearby settlement or installation |
+| 6  | Subject of a corporate or research extraction contract |
 
 ## Macro-Scale Hazards
 
@@ -2055,148 +2061,148 @@ Some threats transcend the scale of individual organisms and must be understood 
 - **Behavior:** No communication is possible. The Swarm does not pursue; it advances. Ships that remain in an actively consumed system too long report equipment failures consistent with energy siphoning. Direct contact with Swarm structures causes rapid material breakdown.
 - **Uses:** The Swarm boundary is the setting for some of the most isolated and dangerous missions in the Orion Frontier. Researchers, early-warning teams, and reckless salvagers all venture there. First-hand observations are rare and valuable — most factions prefer their populations not to think too hard about what is moving toward them.
 
-### **Mission Generator**
+# **Mission Generator**  
 
-This generator produces missions set in the Orion Arm. Players take on contracts for factions, uncover Precursor mysteries, and work through the competing interests of interstellar society.
+This generator produces missions set in the Orion Arm. Players take on contracts for factions, uncover Precursor mysteries, and work through the competing interests of interstellar society.  
 
-### **Finding Missions**
+## **Finding Missions**  
 
-Roll 1d6 to determine the availability of missions. Spend 1₡ to re-roll.
+Roll 1d6 to determine the availability of missions. Spend 1₡ to re-roll.  
 
-| D6  | Job Offer                                 |
-|-----|-------------------------------------------|
-| 1-2 | No contracts available currently.         |
-| 3-4 | A risky or low-paying mission is offered. |
-| 5-6 | Choose between two available contracts.   |
+| D6  | Job Offer                                 |  
+| --- | ----------------------------------------- |  
+| 1-2 | No contracts available currently.         |  
+| 3-4 | A risky or low-paying mission is offered. |  
+| 5-6 | Choose between two available contracts.   |  
 
-### **Mission Table**
+## **Mission Table**  
 
-| D20 | Mission                         |
-|-----|---------------------------------|
-| 1.  | Secure Precursor Artifact       |
-| 2.  | Investigate Alien Signal        |
-| 3.  | Establish Orbital Outpost       |
-| 4.  | Recover Lost Starship           |
-| 5.  | Assist Colony Infrastructure    |
-| 6.  | Neutralize Pirate Threat        |
-| 7.  | Protect Trade Convoy            |
-| 8.  | Survey Hazardous Planet         |
-| 9.  | Infiltrate Rival Facility       |
-| 10. | Mediate Faction Dispute         |
-| 11. | Capture Rogue AI Node           |
-| 12. | Search for Missing Crew         |
-| 13. | Escort Diplomatic Envoy         |
-| 14. | Test Advanced Weaponry          |
-| 15. | Disable Smuggler Ring           |
-| 16. | Aid in Terraforming Effort      |
-| 17. | Repair Subspace Anomaly         |
-| 18. | Contain Xenobiological Outbreak |
-| 19. | Reinforce Colony Defenses       |
-| 20. | Discover New Resonance Point    |
+| D20 | Mission                     |  
+| --- | --------------------------- |  
+| 1.  | Secure Precursor Artifact   |  
+| 2.  | Investigate Alien Signal    |  
+| 3.  | Establish Orbital Outpost   |  
+| 4.  | Recover Lost Starship       |  
+| 5.  | Assist Colony Infrastructure|  
+| 6.  | Neutralize Pirate Threat    |  
+| 7.  | Protect Trade Convoy        |  
+| 8.  | Survey Hazardous Planet     |  
+| 9.  | Infiltrate Rival Facility   |  
+| 10. | Mediate Faction Dispute     |  
+| 11. | Capture Rogue AI Node       |  
+| 12. | Search for Missing Crew     |  
+| 13. | Escort Diplomatic Envoy     |  
+| 14. | Test Advanced Weaponry      |  
+| 15. | Disable Smuggler Ring       |  
+| 16. | Aid in Terraforming Effort  |  
+| 17. | Repair Subspace Anomaly     |  
+| 18. | Contain Xenobiological Outbreak |  
+| 19. | Reinforce Colony Defenses   |  
+| 20. | Discover New Resonance Point|  
 
-### **Location Table**
+## **Location Table**  
 
-| D20 | Location                      |
-|-----|-------------------------------|
-| 1.  | Core System Habitat           |
-| 2.  | Remote Frontier Colony        |
-| 3.  | Precursor Ruin Site           |
-| 4.  | Derelict Freighter            |
-| 5.  | Pirate Asteroid Base          |
-| 6.  | Gas Giant Mining Platform     |
-| 7.  | Volcanic Exoplanet            |
-| 8.  | Zynthari Border Zone          |
-| 9.  | Unstable Phase Rift           |
-| 10. | Disputed Trade Hub            |
-| 11. | Alien Biodome Station         |
-| 12. | Neutron Star Proximity        |
-| 13. | Uncharted Planetary System    |
-| 14. | Cosmic Dust Nebula            |
-| 15. | Rogue Planet Surface          |
-| 16. | Varnon Swarm Boundary         |
-| 17. | Experimental Shipyard         |
-| 18. | Diplomatic Conference Station |
-| 19. | Deep Space Monitoring Array   |
-| 20. | Isolated Terraforming Base    |
+| D20 | Location                  |  
+| --- | ------------------------- |  
+| 1.  | Core System Habitat       |  
+| 2.  | Remote Frontier Colony    |  
+| 3.  | Precursor Ruin Site       |  
+| 4.  | Derelict Freighter        |  
+| 5.  | Pirate Asteroid Base      |  
+| 6.  | Gas Giant Mining Platform |  
+| 7.  | Volcanic Exoplanet        |  
+| 8.  | Zynthari Border Zone      |  
+| 9.  | Unstable Phase Rift       |  
+| 10. | Disputed Trade Hub        |  
+| 11. | Alien Biodome Station     |  
+| 12. | Neutron Star Proximity    |  
+| 13. | Uncharted Planetary System|  
+| 14. | Cosmic Dust Nebula        |  
+| 15. | Rogue Planet Surface      |  
+| 16. | Varnon Swarm Boundary     |  
+| 17. | Experimental Shipyard     |  
+| 18. | Diplomatic Conference Station |  
+| 19. | Deep Space Monitoring Array |  
+| 20. | Isolated Terraforming Base|  
 
-### **Client Table**
+## **Client Table**  
 
-| D20 | Client                              |
-|-----|-------------------------------------|
-| 1.  | Sol Union High Command              |
-| 2.  | Orion Concordium Diplomatic Corps   |
-| 3.  | Sirius Compact Resource Authority   |
-| 4.  | Precursor Seekers Guild             |
-| 5.  | Independent Frontier Council        |
-| 6.  | Frontier Coalition Council          |
-| 7.  | Nova Terra Assembly                 |
-| 8.  | Interstellar Free Market Consortium |
-| 9.  | Zynthari Observation Directorate    |
-| 10. | Rogue AI Research Division          |
-| 11. | Colonial Infrastructure Union       |
-| 12. | Artifact Protection Syndicate       |
-| 13. | System Defense Coalition            |
-| 14. | Pan-Galactic Traders Network        |
-| 15. | Galactic Conservation League        |
-| 16. | Zal-Terran Commonwealth Council     |
-| 17. | Deep Space Xenology Institute       |
-| 18. | Sector Energy Consortium            |
-| 19. | Terraforming Engineers Assembly     |
-| 20. | Independent Smuggler Broker         |
+| D20 | Client                           |  
+| --- | -------------------------------- |  
+| 1.  | Sol Union High Command           |  
+| 2.  | Orion Concordium Diplomatic Corps |  
+| 3.  | Sirius Compact Resource Authority |  
+| 4.  | Precursor Seekers Guild          |  
+| 5.  | Independent Frontier Council     |  
+| 6.  | Frontier Coalition Council       |  
+| 7.  | Nova Terra Assembly              |  
+| 8.  | Interstellar Free Market Consortium |  
+| 9.  | Zynthari Observation Directorate |  
+| 10. | Rogue AI Research Division       |  
+| 11. | Colonial Infrastructure Union    |  
+| 12. | Artifact Protection Syndicate    |  
+| 13. | System Defense Coalition         |  
+| 14. | Pan-Galactic Traders Network     |  
+| 15. | Galactic Conservation League     |  
+| 16. | Zal-Terran Commonwealth Council  |  
+| 17. | Deep Space Xenology Institute    |  
+| 18. | Sector Energy Consortium         |  
+| 19. | Terraforming Engineers Assembly  |  
+| 20. | Independent Smuggler Broker      |  
 
-### **Complication Table**
+## **Complication Table**  
 
-| D20 | Complication                            |
-|-----|-----------------------------------------|
-| 1.  | Malfunctioning Starship Systems         |
-| 2.  | Rival Faction Interference              |
-| 3.  | Subspace Anomaly Disrupts Mission       |
-| 4.  | Hostile Xenobiological Entity           |
-| 5.  | Unstable Precursor Technology           |
-| 6.  | Crew Conflict or Betrayal               |
-| 7.  | Interstellar Communication Blackout     |
-| 8.  | Sabotage by Unseen Forces               |
-| 9.  | Unexpected First Contact Event          |
-| 10. | Xenological Contamination Risk          |
-| 11. | Varnon Swarm Advance Detected Nearby    |
-| 12. | Secret Corporate Involvement            |
-| 13. | Factional Diplomatic Fallout            |
-| 14. | Equipment Failure in Extreme Conditions |
-| 15. | Hostile Space Weather Phenomenon        |
-| 16. | Misleading Mission Parameters           |
-| 17. | Zynthari Intervention                   |
-| 18. | Rogue AI Opposition                     |
-| 19. | Unexpected Civilian Presence            |
-| 20. | Distress Beacon is Hostile Trap         |
+| D20 | Complication                        |  
+| --- | ----------------------------------- |  
+| 1.  | Malfunctioning Starship Systems     |  
+| 2.  | Rival Faction Interference          |  
+| 3.  | Subspace Anomaly Disrupts Mission   |  
+| 4.  | Hostile Xenobiological Entity       |  
+| 5.  | Unstable Precursor Technology       |  
+| 6.  | Crew Conflict or Betrayal           |  
+| 7.  | Interstellar Communication Blackout |  
+| 8.  | Sabotage by Unseen Forces           |  
+| 9.  | Unexpected First Contact Event      |  
+| 10. | Xenological Contamination Risk      |  
+| 11. | Varnon Swarm Advance Detected Nearby |  
+| 12. | Secret Corporate Involvement        |  
+| 13. | Factional Diplomatic Fallout        |  
+| 14. | Equipment Failure in Extreme Conditions |  
+| 15. | Hostile Space Weather Phenomenon    |  
+| 16. | Misleading Mission Parameters       |  
+| 17. | Zynthari Intervention               |  
+| 18. | Rogue AI Opposition                 |  
+| 19. | Unexpected Civilian Presence        |  
+| 20. | Distress Beacon is Hostile Trap     |  
 
-### **Mission Reward Table**
+## **Mission Reward Table**  
 
 Missions pay according to their scope and danger. As a baseline: a **standard contract** pays 1d6₡ on completion (in addition to the Advancement d6₡ earned for personal growth); a **dangerous or faction-critical job** pays 2d6₡; an **exceptional outcome** or a job for a major polity yields 3d6₡ or an item from the table below instead of credits. The Referee should offer one or the other — credits or a table result — not both, unless the players have significantly exceeded mission parameters.
 
-| D20 | Reward                             |
-|-----|------------------------------------|
-| 1.  | Substantial Financial Compensation |
-| 2.  | Advanced Precursor Artifact        |
-| 3.  | Rare Trade Licenses                |
-| 4.  | Favor from Major Faction           |
-| 5.  | Unique Alien Biotechnologies       |
-| 6.  | Access to Restricted Star Systems  |
-| 7.  | Personal Recognition or Rank       |
-| 8.  | Experimental Starship Equipment    |
-| 9.  | Xenobiological Data Samples        |
-| 10. | Outpost Ownership Rights           |
-| 11. | Exclusive Research Access          |
-| 12. | Valuable Star Map Coordinates      |
-| 13. | Political Influence and Leverage   |
-| 14. | Relic Deciphering Resources        |
-| 15. | Enhanced Faction Standing          |
-| 16. | Improved Starship Components       |
-| 17. | Rare Geological Resources          |
-| 18. | Unexplored Star System Data        |
-| 19. | Precursor Knowledge Repository     |
-| 20. | Alien Diplomatic Favor             |
+| D20 | Reward                              |  
+| --- | ----------------------------------- |  
+| 1.  | Substantial Financial Compensation |  
+| 2.  | Advanced Precursor Artifact         |  
+| 3.  | Rare Trade Licenses                 |  
+| 4.  | Favor from Major Faction            |  
+| 5.  | Unique Alien Biotechnologies        |  
+| 6.  | Access to Restricted Star Systems   |  
+| 7.  | Personal Recognition or Rank        |  
+| 8.  | Experimental Starship Equipment     |  
+| 9.  | Xenobiological Data Samples         |  
+| 10. | Outpost Ownership Rights            |  
+| 11. | Exclusive Research Access           |  
+| 12. | Valuable Star Map Coordinates       |  
+| 13. | Political Influence and Leverage    |  
+| 14. | Relic Deciphering Resources         |  
+| 15. | Enhanced Faction Standing           |  
+| 16. | Improved Starship Components        |  
+| 17. | Rare Geological Resources           |  
+| 18. | Unexplored Star System Data         |  
+| 19. | Precursor Knowledge Repository      |  
+| 20. | Alien Diplomatic Favor              |  
 
-### **Twist Table**
+## **Twist Table**
 
 | D20 | Twist                                                |
 |-----|------------------------------------------------------|
@@ -2221,32 +2227,32 @@ Missions pay according to their scope and danger. As a baseline: a **standard co
 | 19  | Environmental hazards intensify                      |
 | 20  | A hidden threat awakens                              |
 
-### **NPC Encounter Table**
+## **NPC Encounter Table**
 
-| D20 | Encounter                                     |
-|-----|-----------------------------------------------|
-| 1   | A desperate trader offering dubious goods     |
-| 2   | A mysterious Precursor scholar                |
-| 3   | A stranded pilot seeking assistance           |
-| 4   | An eccentric AI with unclear motives          |
-| 5   | A Zynthari diplomat carrying veiled warnings  |
-| 6   | A bounty hunter pursuing a shared target      |
-| 7   | A rogue faction leader offering an alliance   |
-| 8   | A corporate spy seeking intel                 |
-| 9   | A rebellious settler seeking to escape        |
+| D20 | Encounter                            |
+|-----|--------------------------------------|
+| 1   | A desperate trader offering dubious goods |
+| 2   | A mysterious Precursor scholar       |
+| 3   | A stranded pilot seeking assistance  |
+| 4   | An eccentric AI with unclear motives |
+| 5   | A Zynthari diplomat carrying veiled warnings |
+| 6   | A bounty hunter pursuing a shared target |
+| 7   | A rogue faction leader offering an alliance |
+| 8   | A corporate spy seeking intel        |
+| 9   | A rebellious settler seeking to escape |
 | 10  | A seasoned smuggler with critical information |
-| 11  | A zealot preaching Precursor divinity         |
-| 12  | A combat veteran seeking revenge              |
-| 13  | A rival scavenger with a cryptic clue         |
-| 14  | A pirate with a hidden agenda                 |
-| 15  | A disgraced official seeking redemption       |
-| 16  | A hacker offering valuable tech               |
-| 17  | A shady merchant promising rare artifacts     |
-| 18  | A scientist obsessed with anomalies           |
-| 19  | A local leader pleading for aid               |
-| 20  | A covert operative gathering intel            |
+| 11  | A zealot preaching Precursor divinity |
+| 12  | A combat veteran seeking revenge     |
+| 13  | A rival scavenger with a cryptic clue |
+| 14  | A pirate with a hidden agenda        |
+| 15  | A disgraced official seeking redemption |
+| 16  | A hacker offering valuable tech      |
+| 17  | A shady merchant promising rare artifacts |
+| 18  | A scientist obsessed with anomalies  |
+| 19  | A local leader pleading for aid      |
+| 20  | A covert operative gathering intel   |
 
-### **Environmental Challenge Table**
+## **Environmental Challenge Table**
 
 | D20 | Challenge                                         |
 |-----|---------------------------------------------------|
@@ -2271,130 +2277,135 @@ Missions pay according to their scope and danger. As a baseline: a **standard co
 | 19  | Solar flares disrupt communication                |
 | 20  | Alien spores compromise health                    |
 
-### **Faction Involvement Table**
 
-| D20 | Faction Influence                                                        |
-|-----|--------------------------------------------------------------------------|
-| 1   | A secretive Zynthari envoy oversees the mission                          |
-| 2   | Rival megacorporations vie for control of the outcome                    |
-| 3   | The Precursor Seekers Guild offers cryptic guidance                      |
-| 4   | A rogue AI network covertly assists, for unknown reasons                 |
-| 5   | Frontier settlers resist interference from outsiders                     |
-| 6   | A mercenary faction demands compensation for passage                     |
-| 7   | The Sol Union dispatches operatives to monitor events                    |
-| 8   | The Orion Concordium sends a diplomatic envoy                            |
-| 9   | Smugglers exploit the mission site for profit                            |
+## **Faction Involvement Table**
+
+| D20 | Faction Influence                         |
+|-----|-------------------------------------------|
+| 1   | A secretive Zynthari envoy oversees the mission |
+| 2   | Rival megacorporations vie for control of the outcome |
+| 3   | The Precursor Seekers Guild offers cryptic guidance |
+| 4   | A rogue AI network covertly assists, for unknown reasons |
+| 5   | Frontier settlers resist interference from outsiders |
+| 6   | A mercenary faction demands compensation for passage |
+| 7   | The Sol Union dispatches operatives to monitor events |
+| 8   | The Orion Concordium sends a diplomatic envoy |
+| 9   | Smugglers exploit the mission site for profit |
 | 10  | Religious zealots of the Fractured Path claim the mission site as sacred |
-| 11  | Pirates use the mission as a distraction for larger raids                |
-| 12  | Nova Terra transhumanists intervene, seeing potential advancements       |
-| 13  | Rebel factions use the area as a staging ground for a larger attack      |
-| 14  | An alien species tries to reclaim its lost artifact or territory         |
-| 15  | The Eclipse Network manipulates events from behind the scenes            |
-| 16  | The Interstellar Free Market Consortium pressures for a favorable deal   |
-| 17  | Conservationists demand protection of local ecosystems                   |
-| 18  | Rival archaeologists race to uncover a Precursor secret first            |
-| 19  | The Frontier Coalition demands a share of the spoils for cooperation     |
-| 20  | An unaligned collective of outlaws seeks leverage over all involved      |
+| 11  | Pirates use the mission as a distraction for larger raids |
+| 12  | Nova Terra transhumanists intervene, seeing potential advancements |
+| 13  | Rebel factions use the area as a staging ground for a larger attack |
+| 14  | An alien species tries to reclaim its lost artifact or territory |
+| 15  | The Eclipse Network manipulates events from behind the scenes |
+| 16  | The Interstellar Free Market Consortium pressures for a favorable deal |
+| 17  | Conservationists demand protection of local ecosystems |
+| 18  | Rival archaeologists race to uncover a Precursor secret first |
+| 19  | The Frontier Coalition demands a share of the spoils for cooperation |
+| 20  | An unaligned collective of outlaws seeks leverage over all involved |
 
-### **Artifact Discovery Table**
 
-| D20 | Artifact Found                                                  |
-|-----|-----------------------------------------------------------------|
-| 1   | A hovering sphere containing encoded star charts                |
-| 2   | A gravity-defying obelisk with glowing glyphs                   |
-| 3   | A shard of crystal that emits a melodic hum                     |
-| 4   | A mechanical insect that appears semi-sentient                  |
-| 5   | A disk that projects holographic schematics                     |
-| 6   | A liquid-filled cylinder showing shifting forms                 |
-| 7   | A lattice of unknown material absorbing nearby light            |
-| 8   | A floating cube that rearranges its faces continuously          |
-| 9   | A weapon-like device that seems too advanced for comprehension  |
+## **Artifact Discovery Table**
+
+| D20 | Artifact Found                            |
+|-----|-------------------------------------------|
+| 1   | A hovering sphere containing encoded star charts |
+| 2   | A gravity-defying obelisk with glowing glyphs |
+| 3   | A shard of crystal that emits a melodic hum |
+| 4   | A mechanical insect that appears semi-sentient |
+| 5   | A disk that projects holographic schematics |
+| 6   | A liquid-filled cylinder showing shifting forms |
+| 7   | A lattice of unknown material absorbing nearby light |
+| 8   | A floating cube that rearranges its faces continuously |
+| 9   | A weapon-like device that seems too advanced for comprehension |
 | 10  | A mask that connects to the wearer’s mind, enhancing perception |
-| 11  | A star-shaped pendant that radiates warmth in vacuum            |
-| 12  | A plant-like organism emitting faint electrical signals         |
-| 13  | A bracelet that generates a weak, impenetrable force field      |
-| 14  | A rod capable of disrupting electromagnetic fields nearby       |
-| 15  | A map showing Precursor ruins scattered across systems          |
-| 16  | A crystalline entity that interfaces with computer systems      |
-| 17  | A shard of metal that changes density at will                   |
-| 18  | An organic-looking weapon that bonds with its user              |
-| 19  | A book-like artifact with shifting inscriptions                 |
-| 20  | A sealed container that resists all attempts to open it         |
+| 11  | A star-shaped pendant that radiates warmth in vacuum |
+| 12  | A plant-like organism emitting faint electrical signals |
+| 13  | A bracelet that generates a weak, impenetrable force field |
+| 14  | A rod capable of disrupting electromagnetic fields nearby |
+| 15  | A map showing Precursor ruins scattered across systems |
+| 16  | A crystalline entity that interfaces with computer systems |
+| 17  | A shard of metal that changes density at will |
+| 18  | An organic-looking weapon that bonds with its user |
+| 19  | A book-like artifact with shifting inscriptions |
+| 20  | A sealed container that resists all attempts to open it |
 
-### **Precursor Ruins Features Table**
 
-| D20 | Ruin Feature                                           |
-|-----|--------------------------------------------------------|
-| 1   | A chamber filled with levitating orbs                  |
-| 2   | Walls that shift when touched                          |
-| 3   | A holographic map of a distant galaxy                  |
-| 4   | Pulsating glyphs that respond to movement              |
-| 5   | A massive spire emitting an unknown signal             |
-| 6   | A labyrinth that rearranges itself                     |
-| 7   | A gravity-defying bridge                               |
-| 8   | A vault containing suspended animation chambers        |
-| 9   | A chasm filled with glowing mists                      |
-| 10  | A control panel of incomprehensible complexity         |
-| 11  | Sentient guardians that challenge intruders            |
-| 12  | A reflecting pool that reveals alternate realities     |
-| 13  | A network of tunnels that seem endless                 |
-| 14  | A room resonating with ancient songs                   |
-| 15  | Crystal growths that shimmer in different frequencies  |
-| 16  | A suspended platform orbiting a mini black hole        |
+## **Precursor Ruins Features Table**
+
+| D20 | Ruin Feature                              |
+|-----|-------------------------------------------|
+| 1   | A chamber filled with levitating orbs     |
+| 2   | Walls that shift when touched             |
+| 3   | A holographic map of a distant galaxy     |
+| 4   | Pulsating glyphs that respond to movement |
+| 5   | A massive spire emitting an unknown signal |
+| 6   | A labyrinth that rearranges itself        |
+| 7   | A gravity-defying bridge                  |
+| 8   | A vault containing suspended animation chambers |
+| 9   | A chasm filled with glowing mists         |
+| 10  | A control panel of incomprehensible complexity |
+| 11  | Sentient guardians that challenge intruders |
+| 12  | A reflecting pool that reveals alternate realities |
+| 13  | A network of tunnels that seem endless    |
+| 14  | A room resonating with ancient songs      |
+| 15  | Crystal growths that shimmer in different frequencies |
+| 16  | A suspended platform orbiting a mini black hole |
 | 17  | An observatory showing celestial events millennia past |
-| 18  | An artifact generator producing small anomalies        |
-| 19  | A floor etched with glowing alien constellations       |
-| 20  | A hidden sanctuary untouched by time                   |
+| 18  | An artifact generator producing small anomalies |
+| 19  | A floor etched with glowing alien constellations |
+| 20  | A hidden sanctuary untouched by time      |
 
-### **Space Travel Hazard Table**
 
-| D20 | Hazard Encountered                                              |
-|-----|-----------------------------------------------------------------|
-| 1   | Unstable jumpgate disperses the ship's signal                   |
-| 2   | Solar flares disable shields and electronics                    |
-| 3   | A rogue asteroid cluster veers into the flight path             |
+## **Space Travel Hazard Table**
+
+| D20 | Hazard Encountered                        |
+|-----|-------------------------------------------|
+| 1   | Unstable jumpgate disperses the ship's signal |
+| 2   | Solar flares disable shields and electronics |
+| 3   | A rogue asteroid cluster veers into the flight path |
 | 4   | A gravity well from a collapsing star pulls the ship off course |
-| 5   | A pirate ambush in a debris field                               |
-| 6   | A temporal distortion warps the crew's perception of time       |
-| 7   | A ship-sized alien predator blocks the route                    |
-| 8   | Subspace turbulence threatens to tear the ship apart            |
-| 9   | An AI virus spreads through navigation systems                  |
-| 10  | A Zynthari border patrol stops the ship for questioning         |
-| 11  | A drifting wreck emits a distress signal                        |
-| 12  | A void rift interferes with propulsion systems                  |
-| 13  | A swarm of micrometeoroids damages hull integrity               |
-| 14  | An experimental weapon test zone proves unexpectedly active     |
-| 15  | Hostile weather in a gas giant's atmosphere disrupts sensors    |
-| 16  | An alien probe attaches itself to the hull                      |
-| 17  | Space debris triggers ship-wide system malfunctions             |
-| 18  | A mysterious signal draws the crew off-course                   |
-| 19  | Phase resonance misalignment causes a risky emergency jump      |
-| 20  | An interstellar convoy requests urgent aid against an ambush    |
+| 5   | A pirate ambush in a debris field         |
+| 6   | A temporal distortion warps the crew's perception of time |
+| 7   | A ship-sized alien predator blocks the route |
+| 8   | Subspace turbulence threatens to tear the ship apart |
+| 9   | An AI virus spreads through navigation systems |
+| 10  | A Zynthari border patrol stops the ship for questioning |
+| 11  | A drifting wreck emits a distress signal |
+| 12  | A void rift interferes with propulsion systems |
+| 13  | A swarm of micrometeoroids damages hull integrity |
+| 14  | An experimental weapon test zone proves unexpectedly active |
+| 15  | Hostile weather in a gas giant's atmosphere disrupts sensors |
+| 16  | An alien probe attaches itself to the hull |
+| 17  | Space debris triggers ship-wide system malfunctions |
+| 18  | A mysterious signal draws the crew off-course |
+| 19  | Phase resonance misalignment causes a risky emergency jump |
+| 20  | An interstellar convoy requests urgent aid against an ambush |
 
-### **NPC Role in Mission Table**
 
-| D20 | NPC Role                                           |
-|-----|----------------------------------------------------|
-| 1   | A reluctant informant hiding crucial intel         |
-| 2   | A saboteur working within the mission team         |
-| 3   | A mysterious benefactor funding the mission        |
+## **NPC Role in Mission Table**
+
+| D20 | NPC Role                                 |
+|-----|------------------------------------------|
+| 1   | A reluctant informant hiding crucial intel |
+| 2   | A saboteur working within the mission team |
+| 3   | A mysterious benefactor funding the mission |
 | 4   | A rival operative competing for the same objective |
-| 5   | A pacifist with essential knowledge                |
-| 6   | A double agent playing both sides                  |
-| 7   | A rogue trader offering crucial supplies           |
-| 8   | A skilled negotiator securing passage              |
-| 9   | A scientist obsessed with the mission’s findings   |
-| 10  | A veteran pilot with invaluable experience         |
-| 11  | A reckless adventurer complicating plans           |
-| 12  | A covert assassin targeting a key player           |
-| 13  | A diplomat mediating between factions              |
-| 14  | An AI companion controlling vital systems          |
-| 15  | A Precursor fanatic jeopardizing the mission       |
-| 16  | A mercenary hired to protect the team              |
-| 17  | A scavenger holding a vital artifact               |
-| 18  | A fugitive seeking sanctuary during the mission    |
-| 19  | An injured settler with surprising expertise       |
-| 20  | A Zynthari observer silently judging every move    |
+| 5   | A pacifist with essential knowledge       |
+| 6   | A double agent playing both sides         |
+| 7   | A rogue trader offering crucial supplies  |
+| 8   | A skilled negotiator securing passage     |
+| 9   | A scientist obsessed with the mission’s findings |
+| 10  | A veteran pilot with invaluable experience |
+| 11  | A reckless adventurer complicating plans  |
+| 12  | A covert assassin targeting a key player  |
+| 13  | A diplomat mediating between factions     |
+| 14  | An AI companion controlling vital systems |
+| 15  | A Precursor fanatic jeopardizing the mission |
+| 16  | A mercenary hired to protect the team     |
+| 17  | A scavenger holding a vital artifact      |
+| 18  | A fugitive seeking sanctuary during the mission |
+| 19  | An injured settler with surprising expertise |
+| 20  | A Zynthari observer silently judging every move |
 
 # Inspirations
 

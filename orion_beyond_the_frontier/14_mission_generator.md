@@ -1,8 +1,8 @@
-### **Mission Generator**  
+# **Mission Generator**  
 
 This generator produces missions set in the Orion Arm. Players take on contracts for factions, uncover Precursor mysteries, and work through the competing interests of interstellar society.  
 
-### **Finding Missions**  
+## **Finding Missions**  
 
 Roll 1d6 to determine the availability of missions. Spend 1₡ to re-roll.  
 
@@ -12,7 +12,7 @@ Roll 1d6 to determine the availability of missions. Spend 1₡ to re-roll.
 | 3-4 | A risky or low-paying mission is offered. |  
 | 5-6 | Choose between two available contracts.   |  
 
-### **Mission Table**  
+## **Mission Table**  
 
 | D20 | Mission                     |  
 | --- | --------------------------- |  
@@ -37,7 +37,7 @@ Roll 1d6 to determine the availability of missions. Spend 1₡ to re-roll.
 | 19. | Reinforce Colony Defenses   |  
 | 20. | Discover New Resonance Point|  
 
-### **Location Table**  
+## **Location Table**  
 
 | D20 | Location                  |  
 | --- | ------------------------- |  
@@ -62,7 +62,7 @@ Roll 1d6 to determine the availability of missions. Spend 1₡ to re-roll.
 | 19. | Deep Space Monitoring Array |  
 | 20. | Isolated Terraforming Base|  
 
-### **Client Table**  
+## **Client Table**  
 
 | D20 | Client                           |  
 | --- | -------------------------------- |  
@@ -87,7 +87,7 @@ Roll 1d6 to determine the availability of missions. Spend 1₡ to re-roll.
 | 19. | Terraforming Engineers Assembly  |  
 | 20. | Independent Smuggler Broker      |  
 
-### **Complication Table**  
+## **Complication Table**  
 
 | D20 | Complication                        |  
 | --- | ----------------------------------- |  
@@ -112,7 +112,7 @@ Roll 1d6 to determine the availability of missions. Spend 1₡ to re-roll.
 | 19. | Unexpected Civilian Presence        |  
 | 20. | Distress Beacon is Hostile Trap     |  
 
-### **Mission Reward Table**  
+## **Mission Reward Table**  
 
 Missions pay according to their scope and danger. As a baseline: a **standard contract** pays 1d6₡ on completion (in addition to the Advancement d6₡ earned for personal growth); a **dangerous or faction-critical job** pays 2d6₡; an **exceptional outcome** or a job for a major polity yields 3d6₡ or an item from the table below instead of credits. The Referee should offer one or the other — credits or a table result — not both, unless the players have significantly exceeded mission parameters.
 
@@ -139,31 +139,33 @@ Missions pay according to their scope and danger. As a baseline: a **standard co
 | 19. | Precursor Knowledge Repository      |  
 | 20. | Alien Diplomatic Favor              |  
 
-### **Twist Table**
-| D20 | Twist                                 |
-|-----|---------------------------------------|
-| 1   | The mission is a decoy for a larger plot |
-| 2   | The client is revealed as untrustworthy |
-| 3   | A crew member has secret connections to the mission |
-| 4   | The target location is heavily booby-trapped |
-| 5   | Unexpected alien involvement complicates the mission |
-| 6   | A faction war erupts during the mission |
-| 7   | A key ally betrays the team           |
-| 8   | The mission site becomes unstable     |
-| 9   | The artifact is sentient and resists capture |
-| 10  | The client withdraws support midway  |
-| 11  | Another team is pursuing the same goal |
-| 12  | Vital equipment malfunctions          |
-| 13  | A local rebellion interrupts progress |
-| 14  | Time-sensitive conditions arise       |
-| 15  | The mission leads to an undisclosed treasure |
-| 16  | The mission triggers a cosmic event   |
-| 17  | A rival crew intercepts the players   |
-| 18  | The mission is revealed as a test by a major faction |
-| 19  | Environmental hazards intensify       |
-| 20  | A hidden threat awakens               |
+## **Twist Table**
 
-### **NPC Encounter Table**
+| D20 | Twist                                                |
+|-----|------------------------------------------------------|
+| 1   | The mission is a decoy for a larger plot             |
+| 2   | The client is revealed as untrustworthy              |
+| 3   | A crew member has secret connections to the mission  |
+| 4   | The target location is heavily booby-trapped         |
+| 5   | Unexpected alien involvement complicates the mission |
+| 6   | A faction war erupts during the mission              |
+| 7   | A key ally betrays the team                          |
+| 8   | The mission site becomes unstable                    |
+| 9   | The artifact is sentient and resists capture         |
+| 10  | The client withdraws support midway                  |
+| 11  | Another team is pursuing the same goal               |
+| 12  | Vital equipment malfunctions                         |
+| 13  | A local rebellion interrupts progress                |
+| 14  | Time-sensitive conditions arise                      |
+| 15  | The mission leads to an undisclosed treasure         |
+| 16  | The mission triggers a cosmic event                  |
+| 17  | A rival crew intercepts the players                  |
+| 18  | The mission is revealed as a test by a major faction |
+| 19  | Environmental hazards intensify                      |
+| 20  | A hidden threat awakens                              |
+
+## **NPC Encounter Table**
+
 | D20 | Encounter                            |
 |-----|--------------------------------------|
 | 1   | A desperate trader offering dubious goods |
@@ -187,32 +189,34 @@ Missions pay according to their scope and danger. As a baseline: a **standard co
 | 19  | A local leader pleading for aid      |
 | 20  | A covert operative gathering intel   |
 
-### **Environmental Challenge Table**
-| D20 | Challenge                            |
-|-----|--------------------------------------|
-| 1   | Intense radiation disrupts sensors  |
-| 2   | Gravity fluctuations impair mobility |
-| 3   | Sudden electrical storms short-circuit equipment |
-| 4   | Hostile native creatures attack     |
-| 5   | Toxic atmosphere requires constant monitoring |
-| 6   | Extreme temperatures damage supplies |
-| 7   | Collapsing terrain blocks progress  |
+## **Environmental Challenge Table**
+
+| D20 | Challenge                                         |
+|-----|---------------------------------------------------|
+| 1   | Intense radiation disrupts sensors                |
+| 2   | Gravity fluctuations impair mobility              |
+| 3   | Sudden electrical storms short-circuit equipment  |
+| 4   | Hostile native creatures attack                   |
+| 5   | Toxic atmosphere requires constant monitoring     |
+| 6   | Extreme temperatures damage supplies              |
+| 7   | Collapsing terrain blocks progress                |
 | 8   | Unexpected gravitational pull shifts trajectories |
-| 9   | Hidden traps within ruins           |
-| 10  | Explosive geothermal activity       |
-| 11  | Ice storms freeze critical systems  |
-| 12  | Dense asteroid field damages hull   |
-| 13  | Nebula interference blinds navigation |
-| 14  | Rogue AI systems compromise security |
-| 15  | Contaminated water supply spreads illness |
-| 16  | Volcanic eruptions isolate the team |
-| 17  | Dangerous wildlife stalks the crew  |
-| 18  | Unstable Precursor machinery activates |
-| 19  | Solar flares disrupt communication  |
-| 20  | Alien spores compromise health      |
+| 9   | Hidden traps within ruins                         |
+| 10  | Explosive geothermal activity                     |
+| 11  | Ice storms freeze critical systems                |
+| 12  | Dense asteroid field damages hull                 |
+| 13  | Nebula interference blinds navigation             |
+| 14  | Rogue AI systems compromise security              |
+| 15  | Contaminated water supply spreads illness         |
+| 16  | Volcanic eruptions isolate the team               |
+| 17  | Dangerous wildlife stalks the crew                |
+| 18  | Unstable Precursor machinery activates            |
+| 19  | Solar flares disrupt communication                |
+| 20  | Alien spores compromise health                    |
 
 
-### **Faction Involvement Table**
+## **Faction Involvement Table**
+
 | D20 | Faction Influence                         |
 |-----|-------------------------------------------|
 | 1   | A secretive Zynthari envoy oversees the mission |
@@ -237,7 +241,8 @@ Missions pay according to their scope and danger. As a baseline: a **standard co
 | 20  | An unaligned collective of outlaws seeks leverage over all involved |
 
 
-### **Artifact Discovery Table**
+## **Artifact Discovery Table**
+
 | D20 | Artifact Found                            |
 |-----|-------------------------------------------|
 | 1   | A hovering sphere containing encoded star charts |
@@ -262,7 +267,8 @@ Missions pay according to their scope and danger. As a baseline: a **standard co
 | 20  | A sealed container that resists all attempts to open it |
 
 
-### **Precursor Ruins Features Table**
+## **Precursor Ruins Features Table**
+
 | D20 | Ruin Feature                              |
 |-----|-------------------------------------------|
 | 1   | A chamber filled with levitating orbs     |
@@ -287,7 +293,8 @@ Missions pay according to their scope and danger. As a baseline: a **standard co
 | 20  | A hidden sanctuary untouched by time      |
 
 
-### **Space Travel Hazard Table**
+## **Space Travel Hazard Table**
+
 | D20 | Hazard Encountered                        |
 |-----|-------------------------------------------|
 | 1   | Unstable jumpgate disperses the ship's signal |
@@ -312,7 +319,8 @@ Missions pay according to their scope and danger. As a baseline: a **standard co
 | 20  | An interstellar convoy requests urgent aid against an ambush |
 
 
-### **NPC Role in Mission Table**
+## **NPC Role in Mission Table**
+
 | D20 | NPC Role                                 |
 |-----|------------------------------------------|
 | 1   | A reluctant informant hiding crucial intel |

@@ -1194,6 +1194,8 @@ From a fragile beginning to an expanding web of stargates and alliances, this er
 
 ## Major Factions
 
+By 2400, the political landscape of the Sol Union is defined less by national governments than by ideological blocs competing over the direction of human civilization. These factions cut across planetary and system lines, drawing members from every corner of inhabited space. They shape policy debates in the Union Assembly, fund expeditions, back corporations, and sometimes pursue their agendas through less official means. Most people hold sympathies with at least one, and the tensions between them are a constant source of conflict, opportunity, and intrigue.
+
 ### **Stellar Conservatives**
 
 These are the inhabitants and defenders of the "core" systems, who view rapid and uncontrolled expansion as a threat to interstellar stability and sustainability. They favor policies that limit colonization in favor of more cautious exploration and resource development. They are often in conflict with frontier pioneers regarding the speed and direction of human expansion into space.
