@@ -1,6 +1,6 @@
 # Frontier: Beyond Sol
 Roberto Bisceglie
-2026-06-07
+2026-06-09
 
 Under the ghostly glow of SZ Ursae Majoris’ seventh planet, a cold
 martian giant, the small, stealthy vessel *Nimbus* held its position,
@@ -1756,6 +1756,16 @@ were no longer out of reach.
   with the hope of uncovering more about galactic history.
 
 ## Major Factions
+
+By 2400, the political landscape of the Sol Union is defined less by
+national governments than by ideological blocs competing over the
+direction of human civilization. These factions cut across planetary and
+system lines, drawing members from every corner of inhabited space. They
+shape policy debates in the Union Assembly, fund expeditions, back
+corporations, and sometimes pursue their agendas through less official
+means. Most people hold sympathies with at least one, and the tensions
+between them are a constant source of conflict, opportunity, and
+intrigue.
 
 ### **Stellar Conservatives**
 

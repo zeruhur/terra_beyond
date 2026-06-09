@@ -1,6 +1,6 @@
 # Orion: Beyond the Frontier
 Roberto Bisceglie
-2026-06-07
+2026-06-09
 
 The atmosphere within the *Radiant Horizon* was tense. As the ship
 cruised along the dim expanse of interstellar void, its hull bathed in
@@ -2199,6 +2199,18 @@ context justifies the roll.
 
 # Major Stellar Polities
 
+By 4000 CE, no single authority rules human space. The Sol Union’s early
+dream of unified governance fragmented across centuries of rebellion,
+secession, and first contact, leaving a constellation of competing
+polities in its wake — each born from a different vision of what
+humanity should become. Some are federations of worlds, others corporate
+oligarchies or posthumanist collectives; one is an alien empire that
+predates human civilization entirely. They coexist through treaties,
+rivalry, and the unspoken understanding that open war in the age of
+jumpgates is catastrophic for everyone. Between them lie independent
+systems, frontier coalitions, and corridors of space where no polity’s
+writ runs at all.
+
 ## **Sol Union**
 
 - **Foundation:** 2155, as a unified government for Earth and its early
@@ -2381,6 +2393,14 @@ context justifies the roll.
   operate on timescales that make human political cycles appear trivial.
 
 # Factions and Alliances
+
+Polities hold territory and project power across star systems, but
+factions are the forces that move through them — ideological movements,
+corporate blocs, cults, and coalitions that operate across borders and
+don’t answer to any single government. In the Orion Frontier, a
+character’s relationship with these groups often matters more than their
+citizenship. Factions offer work, protection, and purpose; they also
+demand loyalty, and they remember betrayal.
 
 ## Major Factions
 
@@ -3214,157 +3234,110 @@ administrative authority over the site.
 | 9 | Starforge Fragment | Creates limited amounts of exotic materials when charged. |
 | 10 | Echo Beacon | Emits a signal that attracts both allies and enemies, and possibly awakens ancient constructs. |
 
-# **Stellar Fauna and Flora**
+# **Alien Life**
 
-The alien worlds of the Orion Frontier support life forms adapted to
-conditions that range from toxic to impossible. Many are dangerous. Most
-are poorly understood. Below are examples of flora and fauna encountered
-in the Frontier.
+No survey can catalogue the biospheres of hundreds of worlds. What
+follows is not a bestiary — it is a generator. When characters land on
+an unfamiliar planet, the Referee rolls or selects from these tables to
+build a life form suited to the environment. Combine results freely. Not
+every entry needs to apply; a sessile colonial organism has no threat
+behavior worth noting, and a mindless filter-feeder has no defined
+ecological role in the predator sense. Use what fits, discard what
+doesn’t.
 
-## **Flora**
+## **Generating a Life Form**
 
-### **1. Luminae Vines**
+### **1. Environment**
 
-- **Habitat**: Shadowed regions of dense Precursor ruins or deep cave
-  systems.
-- **Description**: These bioluminescent vines glow in mesmerizing hues,
-  pulsating in response to movement or sound. Their tendrils are covered
-  in tiny, reactive sensors, giving them the appearance of shimmering,
-  living circuitry.
-- **Behavior**:
-  - The vines react defensively to perceived threats, releasing spores
-    that induce hallucinations in intruders.
-  - They coil around objects or living beings for protection, making
-    exploration of their habitats treacherous.
-- **Uses**: The glowing sap is sought after for its healing properties
-  and as a source of light for frontier settlements, though harvesting
-  it is highly dangerous.
-
-### **2. Starlight Blooms**
-
-- **Habitat**: High-altitude plateaus on airless worlds.
-- **Description**: These crystalline, flower-like structures are not
-  plants in the traditional sense but silicon-based life forms that
-  absorb starlight to fuel their growth. Each petal is semi-transparent
-  and refracts light into dazzling rainbows.
-- **Behavior**:
-  - Blooms slowly rotate to track distant stars.
-  - When disturbed, they emit a high-pitched frequency that can disrupt
-    nearby electronics.
-- **Uses**: Fragments of Starlight Blooms are prized as components in
-  energy amplifiers and high-end optical technology.
-
-## **Fauna**
-
-### **1. Umbra Stalkers**
-
-- **Habitat**: Subterranean caverns and shadowed planetary environments.
-- **Description**: These sleek, six-legged predators are covered in a
-  jet-black, reflective hide that renders them nearly invisible in
-  darkness. They are bioluminescent on their undersides, emitting an
-  eerie, low glow that they use to communicate with their kind.
-- **Behavior**:
-  - Ambush predators, they use their luminescence to lure prey into
-    traps.
-  - Highly intelligent, Umbra Stalkers have been observed coordinating
-    hunts through complex light signals.
-- **Threats**:
-  - Capable of leaping great distances and attacking with razor-sharp
-    mandibles.
-  - Emit a disorienting chittering sound when threatened, which can
-    incapacitate their prey.
-- **Uses**: The reflective hide of an Umbra Stalker is a prized material
-  for crafting stealth gear or armor. However, hunting them is highly
-  dangerous, as their hunting packs are relentless in pursuit of
-  perceived threats.
-
-### **2. Nebula Mantas**
-
-- **Habitat**: Upper atmospheres of gas giants.
-- **Description**: Enormous, manta-ray-like creatures that glide through
-  gas giant skies, feeding on ionized particles and drifting organisms.
-  Their translucent bodies shimmer with internal bioluminescence,
-  creating the illusion of glowing constellations in motion.
-- **Behavior**:
-  - Passive filter feeders, but their size makes them dangerous to ships
-    navigating their territory.
-  - React to electrical discharges by emitting EMP pulses, disabling
-    nearby electronics.
-- **Threats**:
-  - Accidental collisions with ships can cause catastrophic damage.
-- **Uses**: Their unique bioluminescent enzymes are used in advanced
-  sensor technology and stealth systems, making them highly valuable to
-  researchers and corporations alike.
-
-## **Ecosystems in the Frontier**
-
-### **Precursor Ruin Biomes**
-
-Precursor sites, with their energy anomalies and altered gravity fields,
-foster ecosystems unlike anything found elsewhere.
-
-- **Symbiotic Life**: Many creatures and plants seem to have adapted to
-  the residual energy of these sites, thriving where other organisms
-  would perish.
-- **Examples**:
-  - **Glyph Crabs**: Small crustaceans with shell patterns resembling
-    Precursor glyphs. They feed on the energy fields emitted by ruins.
-  - **Echo Lichen**: A fungus that absorbs residual sound vibrations,
-    turning them into energy. Colonies of Echo Lichen hum softly,
-    creating an eerie ambient noise.
-
-### **Gas Giant Skies**
-
-The dense, gaseous atmospheres of these worlds support entire airborne
-ecosystems.
-
-- **Floating Ecosystems**: Creatures like the Nebula Mantas coexist with
-  smaller filter-feeders and parasitic organisms.
-- **Examples**:
-  - **Sky Spires**: Towering, plant-like organisms that drift on air
-    currents, releasing spores that act as seeds and food for other
-    creatures.
-  - **Ion Worms**: Tiny, glowing serpentine creatures that follow ion
-    trails left by larger fauna, scavenging particles and organic
-    debris.
-
-## **Using Flora and Fauna in Gameplay**
-
-### **Adventure Hooks**
-
-1.  **Harvesting Danger** Players are hired to collect sap from Luminae
-    Vines to treat an outbreak of radiation poisoning in a nearby
-    colony. However, they must survive the hallucination-inducing spores
-    and hostile wildlife.
-
-2.  **Lost Expedition** A research team studying Starlight Blooms has
-    gone missing on a barren world. The players must follow their trail
-    and confront the creatures or environmental dangers responsible.
-
-3.  **Umbra Stalker Infestation** A settlement’s underground power plant
-    has become the hunting ground for a pack of Umbra Stalkers. The
-    players must eliminate the threat or find a way to drive the
-    predators away.
-
-4.  **Nebula Manta Harvesting** A corporation hires the players to
-    extract bioluminescent enzymes from Nebula Mantas. Navigating the
-    gas giant’s treacherous skies while avoiding EMP pulses and
-    corporate rivals proves to be no small task.
-
-### **Random Encounter Table**
-
-| d10 | Encounter |
+| d6 | Environment |
 |----|----|
-| 1 | A pack of Umbra Stalkers ambushes the players in a shadowed cave. |
-| 2 | A Luminae Vine snares an NPC, triggering a hallucinogenic response. |
-| 3 | A herd of Nebula Mantas passes dangerously close to the players’ ship, releasing EMP pulses. |
-| 4 | Glyph Crabs swarm the players’ equipment, attracted by its energy. |
-| 5 | A researcher studying Echo Lichen needs help deciphering its vibrations. |
-| 6 | Ion Worms infiltrate the players’ power systems, causing malfunctions. |
-| 7 | A rare bloom of Starlight Blossoms sparks a race between factions for their petals. |
-| 8 | A Sky Spire’s spores drift into a settlement, causing unknown biological effects. |
-| 9 | An alien nomad warns the players of a deadly creature haunting a Precursor ruin. |
-| 10 | A colossal Nebula Manta tangles with a pirate ship near the players’ position. |
+| 1 | High-gravity rocky world; dense lower atmosphere, crushing pressure at surface |
+| 2 | Low-gravity airless moon; radiation exposure, extreme thermal cycling |
+| 3 | Ocean world or subsurface liquid environment; no surface light below a few hundred meters |
+| 4 | Gas giant upper atmosphere; perpetual storms, no solid ground |
+| 5 | Arid world; minimal water, wide daily temperature swings, high UV |
+| 6 | Dense wet biosphere; high biomass, intense resource competition |
+
+### **2. Body Plan**
+
+| d10 | Body Plan |
+|----|----|
+| 1 | Radially symmetric; no defined front or back |
+| 2 | Elongated and segmented; many limbs or none |
+| 3 | Bilateral; recognizable head and body, wrong number of limbs |
+| 4 | Colonial; many small units functioning as a single organism |
+| 5 | Sessile structure with a mobile dispersal or feeding stage |
+| 6 | Flat and wide; optimized for surface area over volume |
+| 7 | Fluid-filled sac; changes shape under pressure or stimulus |
+| 8 | Rigid external skeleton; internal structures heavily protected |
+| 9 | Semi-gaseous or aerosol; no fixed form, diffuses through atmosphere |
+| 10 | Mineral or crystalline; slow metabolism, effectively geological timescales |
+
+### **3. Scale**
+
+| d6  | Scale                                            |
+|-----|--------------------------------------------------|
+| 1   | Microorganism; detectable only with instruments  |
+| 2   | Small; fits in a hand                            |
+| 3   | Human-scale                                      |
+| 4   | Large; vehicle-sized                             |
+| 5   | Massive; structure- or settlement-scale          |
+| 6   | Atmospheric or geological; system-level presence |
+
+### **4. Primary Sense**
+
+| d6 | Sense |
+|----|----|
+| 1 | Electroreception; detects electrical fields in surrounding medium |
+| 2 | Chemical gradient; navigates entirely by molecular trail, effectively blind |
+| 3 | Seismic; perceives vibration through substrate or atmosphere |
+| 4 | Thermal; infrared, no response to visible light |
+| 5 | Electromagnetic; sensitive to radio or magnetic field variation |
+| 6 | Pressure wave; sonar or echolocation equivalent |
+
+### **5. Ecological Role**
+
+| d6 | Role |
+|----|----|
+| 1 | Apex predator |
+| 2 | Filter feeder; extracts nutrients from atmosphere, water, or regolith |
+| 3 | Scavenger; consumes dead organic or processed material |
+| 4 | Symbiont; depends on another organism — mutualistic or parasitic |
+| 5 | Decomposer; breaks down complex matter, including manufactured materials |
+| 6 | Colonial producer; generates resources consumed by other life |
+
+### **6. Threat**
+
+| d6 | Threat |
+|----|----|
+| 1 | Direct attack; speed, mass, or strength |
+| 2 | Toxin or corrosive secretion; contact or airborne |
+| 3 | Equipment interference; electromagnetic, chemical, or mechanical disruption |
+| 4 | Infectious; introduces biological contamination |
+| 5 | Environmental manipulation; collapses terrain, floods areas, alters local atmosphere |
+| 6 | None inherent; dangerous only through scale or reflexive behavior when disturbed |
+
+### **7. Commercial or Research Value**
+
+| d6 | Value |
+|----|----|
+| 1 | Biochemical compounds; pharmaceutical or industrial applications |
+| 2 | Structural material; hide, shell, or mineral body with useful properties |
+| 3 | Energy source; metabolic byproduct or stored chemical energy |
+| 4 | Sensor adaptation; biological mechanism with instrument applications |
+| 5 | Live specimen; scientific value, intact capture required |
+| 6 | No established value; may indicate unexplored potential or genuine uselessness |
+
+## **Encounter Context**
+
+| d6  | Situation                                                           |
+|-----|---------------------------------------------------------------------|
+| 1   | Territorial; the crew entered its range without knowing             |
+| 2   | Displaced; something drove it from its normal habitat               |
+| 3   | Attracted by equipment emissions, waste heat, or chemical signature |
+| 4   | Incidental; passing through, uninterested unless provoked           |
+| 5   | Active threat to a nearby settlement or installation                |
+| 6   | Subject of a corporate or research extraction contract              |
 
 ## Macro-Scale Hazards
 
@@ -3395,13 +3368,13 @@ understood as system-level phenomena.
   their populations not to think too hard about what is moving toward
   them.
 
-### **Mission Generator**
+# **Mission Generator**
 
 This generator produces missions set in the Orion Arm. Players take on
 contracts for factions, uncover Precursor mysteries, and work through
 the competing interests of interstellar society.
 
-### **Finding Missions**
+## **Finding Missions**
 
 Roll 1d6 to determine the availability of missions. Spend 1₡ to re-roll.
 
@@ -3411,7 +3384,7 @@ Roll 1d6 to determine the availability of missions. Spend 1₡ to re-roll.
 | 3-4 | A risky or low-paying mission is offered. |
 | 5-6 | Choose between two available contracts.   |
 
-### **Mission Table**
+## **Mission Table**
 
 | D20  | Mission                         |
 |------|---------------------------------|
@@ -3436,7 +3409,7 @@ Roll 1d6 to determine the availability of missions. Spend 1₡ to re-roll.
 | 19\. | Reinforce Colony Defenses       |
 | 20\. | Discover New Resonance Point    |
 
-### **Location Table**
+## **Location Table**
 
 | D20  | Location                      |
 |------|-------------------------------|
@@ -3461,7 +3434,7 @@ Roll 1d6 to determine the availability of missions. Spend 1₡ to re-roll.
 | 19\. | Deep Space Monitoring Array   |
 | 20\. | Isolated Terraforming Base    |
 
-### **Client Table**
+## **Client Table**
 
 | D20  | Client                              |
 |------|-------------------------------------|
@@ -3486,7 +3459,7 @@ Roll 1d6 to determine the availability of missions. Spend 1₡ to re-roll.
 | 19\. | Terraforming Engineers Assembly     |
 | 20\. | Independent Smuggler Broker         |
 
-### **Complication Table**
+## **Complication Table**
 
 | D20  | Complication                            |
 |------|-----------------------------------------|
@@ -3511,7 +3484,7 @@ Roll 1d6 to determine the availability of missions. Spend 1₡ to re-roll.
 | 19\. | Unexpected Civilian Presence            |
 | 20\. | Distress Beacon is Hostile Trap         |
 
-### **Mission Reward Table**
+## **Mission Reward Table**
 
 Missions pay according to their scope and danger. As a baseline: a
 **standard contract** pays 1d6₡ on completion (in addition to the
@@ -3545,7 +3518,7 @@ mission parameters.
 | 19\. | Precursor Knowledge Repository     |
 | 20\. | Alien Diplomatic Favor             |
 
-### **Twist Table**
+## **Twist Table**
 
 | D20 | Twist                                                |
 |-----|------------------------------------------------------|
@@ -3570,7 +3543,7 @@ mission parameters.
 | 19  | Environmental hazards intensify                      |
 | 20  | A hidden threat awakens                              |
 
-### **NPC Encounter Table**
+## **NPC Encounter Table**
 
 | D20 | Encounter                                     |
 |-----|-----------------------------------------------|
@@ -3595,7 +3568,7 @@ mission parameters.
 | 19  | A local leader pleading for aid               |
 | 20  | A covert operative gathering intel            |
 
-### **Environmental Challenge Table**
+## **Environmental Challenge Table**
 
 | D20 | Challenge                                         |
 |-----|---------------------------------------------------|
@@ -3620,7 +3593,7 @@ mission parameters.
 | 19  | Solar flares disrupt communication                |
 | 20  | Alien spores compromise health                    |
 
-### **Faction Involvement Table**
+## **Faction Involvement Table**
 
 | D20 | Faction Influence |
 |----|----|
@@ -3645,7 +3618,7 @@ mission parameters.
 | 19 | The Frontier Coalition demands a share of the spoils for cooperation |
 | 20 | An unaligned collective of outlaws seeks leverage over all involved |
 
-### **Artifact Discovery Table**
+## **Artifact Discovery Table**
 
 | D20 | Artifact Found                                                  |
 |-----|-----------------------------------------------------------------|
@@ -3670,7 +3643,7 @@ mission parameters.
 | 19  | A book-like artifact with shifting inscriptions                 |
 | 20  | A sealed container that resists all attempts to open it         |
 
-### **Precursor Ruins Features Table**
+## **Precursor Ruins Features Table**
 
 | D20 | Ruin Feature                                           |
 |-----|--------------------------------------------------------|
@@ -3695,7 +3668,7 @@ mission parameters.
 | 19  | A floor etched with glowing alien constellations       |
 | 20  | A hidden sanctuary untouched by time                   |
 
-### **Space Travel Hazard Table**
+## **Space Travel Hazard Table**
 
 | D20 | Hazard Encountered                                              |
 |-----|-----------------------------------------------------------------|
@@ -3720,7 +3693,7 @@ mission parameters.
 | 19  | Phase resonance misalignment causes a risky emergency jump      |
 | 20  | An interstellar convoy requests urgent aid against an ambush    |
 
-### **NPC Role in Mission Table**
+## **NPC Role in Mission Table**
 
 | D20 | NPC Role                                           |
 |-----|----------------------------------------------------|

@@ -1,6 +1,6 @@
 # Sol: Beyond Earth
 Roberto Bisceglie
-2026-06-07
+2026-06-09
 
 *The crew of the spacecraft, three astronauts and an engineer, sat
 calmly in their seats as they approached the space habitat. The captain,
