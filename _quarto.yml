@@ -27,6 +27,8 @@ website:
         href: docs/orion-beyond-the-frontier.html
       - text: "Timeline"
         href: docs/terra_beyond_timeline.html
+      - text: "Calendar"
+        href: docs/sol_union_calendar.html
       - text: "About"
         href: docs/about.html
     right:

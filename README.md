@@ -16,7 +16,7 @@ Built as a multi-format Quarto website with automatic PDF, EPUB, Word, OpenDocum
    - *Inspiration:* Classic Alliance/Union.
    - *Overview:* Fragmented galactic polities, transhumanist mind-uploading, psionic Resonants, ancient Precursor ruins, and contacts with enigmatic alien civilizations like the Zynthari.
 
-There is also a unified **Terra Beyond Timeline** mapping the events of the universe from 1957 to 4000 AD.
+There is also a unified **Terra Beyond Timeline** mapping the events of the universe from 1957 to 4000 AD, and the **Sol Union Standard Calendar**, the in-universe civil calendar ratified under the Federated Autonomy Treaty.
 
 ## Website & Multi-Format Exports
 
@@ -43,6 +43,7 @@ Download links for alternate formats are automatically generated and placed at t
 │   ├── frontier-beyond-sol.md # Frontier: Beyond Sol rules & setting
 │   ├── orion-beyond-the-frontier.md # Orion: Beyond the Frontier rules & setting
 │   ├── terra_beyond_timeline.md # Universal timeline
+│   ├── sol_union_calendar.md # Sol Union Standard Calendar reference
 │   └── about.qmd            # About page
 ├── sol_beyond_earth/        # Raw source modules for Sol: Beyond Earth
 ├── frontier_beyond_sol/     # Raw source modules for Frontier: Beyond Sol
