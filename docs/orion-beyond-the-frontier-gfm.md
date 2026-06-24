@@ -1,6 +1,6 @@
 # Orion: Beyond the Frontier
 Roberto Bisceglie
-2026-06-09
+2026-06-24
 
 The atmosphere within the *Radiant Horizon* was tense. As the ship
 cruised along the dim expanse of interstellar void, its hull bathed in

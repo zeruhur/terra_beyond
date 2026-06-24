@@ -2,34 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://zeruhur.github.io/terra_beyond/docs/maps.html</loc>
-    <lastmod>2026-06-09T21:07:39.590Z</lastmod>
+    <lastmod>2026-06-24T07:29:54.992Z</lastmod>
   </url>
   <url>
     <loc>https://zeruhur.github.io/terra_beyond/docs/about.html</loc>
-    <lastmod>2026-06-09T21:07:39.580Z</lastmod>
+    <lastmod>2026-06-24T07:29:54.982Z</lastmod>
   </url>
   <url>
-    <loc>https://zeruhur.github.io/terra_beyond/docs/sol-beyond-earth.html</loc>
-    <lastmod>2026-06-09T21:07:39.592Z</lastmod>
-  </url>
-  <url>
-    <loc>https://zeruhur.github.io/terra_beyond/docs/frontier-beyond-sol.html</loc>
-    <lastmod>2026-06-09T21:07:39.590Z</lastmod>
-  </url>
-  <url>
-    <loc>https://zeruhur.github.io/terra_beyond/index.html</loc>
-    <lastmod>2026-06-09T21:07:39.653Z</lastmod>
+    <loc>https://zeruhur.github.io/terra_beyond/docs/sol_union_calendar.html</loc>
+    <lastmod>2026-06-24T07:29:54.993Z</lastmod>
   </url>
   <url>
     <loc>https://zeruhur.github.io/terra_beyond/docs/orion-beyond-the-frontier.html</loc>
-    <lastmod>2026-06-09T21:07:39.591Z</lastmod>
+    <lastmod>2026-06-24T07:29:54.993Z</lastmod>
+  </url>
+  <url>
+    <loc>https://zeruhur.github.io/terra_beyond/index.html</loc>
+    <lastmod>2026-06-24T07:29:55.054Z</lastmod>
+  </url>
+  <url>
+    <loc>https://zeruhur.github.io/terra_beyond/docs/frontier-beyond-sol.html</loc>
+    <lastmod>2026-06-24T07:29:54.992Z</lastmod>
+  </url>
+  <url>
+    <loc>https://zeruhur.github.io/terra_beyond/docs/sol-beyond-earth.html</loc>
+    <lastmod>2026-06-24T07:29:54.993Z</lastmod>
   </url>
   <url>
     <loc>https://zeruhur.github.io/terra_beyond/docs/terra_beyond_timeline.html</loc>
-    <lastmod>2026-06-09T21:07:39.592Z</lastmod>
+    <lastmod>2026-06-24T07:29:54.994Z</lastmod>
   </url>
   <url>
     <loc>https://zeruhur.github.io/terra_beyond/docs/example-document.html</loc>
-    <lastmod>2026-06-09T21:07:39.589Z</lastmod>
+    <lastmod>2026-06-24T07:29:54.991Z</lastmod>
   </url>
 </urlset>
