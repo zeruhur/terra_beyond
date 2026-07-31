@@ -1,6 +1,6 @@
 # Example Document
 Your Name
-2026-06-24
+2026-07-31
 
 This page serves as a live demonstration of how to export individual
 documents into multiple formats (PDF, Word, OpenDocument, EPUB, and
@@ -50,7 +50,9 @@ We include custom CSS/Typst styles for callouts. Here is an example:
 
 You can write code blocks and mathematical formulations:
 
-$$E = mc^2$$
+$$
+E = mc^2
+$$
 
 ``` python
 def hello_world():

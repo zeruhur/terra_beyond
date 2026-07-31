@@ -1,6 +1,6 @@
 # Sol: Beyond Earth
 Roberto Bisceglie
-2026-06-24
+2026-07-31
 
 *The crew of the spacecraft, three astronauts and an engineer, sat
 calmly in their seats as they approached the space habitat. The captain,
@@ -3437,8 +3437,8 @@ contradict each other or that don’t fit the current fiction.
 
 Roll 1d6 to get a job offer. Spend 1₡ to re-roll.
 
-1-2: Nothing available right now.  
-3-4: A mission, but high risk or low reward.  
+1-2: Nothing available right now.\
+3-4: A mission, but high risk or low reward.\
 5-6: Choose between two open missions.
 
 ## Mission Table

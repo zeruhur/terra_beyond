@@ -1,6 +1,6 @@
 # Orion: Beyond the Frontier
 Roberto Bisceglie
-2026-06-24
+2026-07-31
 
 The atmosphere within the *Radiant Horizon* was tense. As the ship
 cruised along the dim expanse of interstellar void, its hull bathed in
@@ -298,7 +298,7 @@ container.
 
 **2) Pick Three Skill Increases** (from no skill-\>d8-\>d10-\>d12:)
 
-**Skills Available:**  
+**Skills Available:**\
 Close Quarters Combat, Computers, Cyber-Ops, Demolitions, Engineering,
 Exo-Suit Operation, Firearms, Linguistics, Medicine, Navigation,
 Negotiation, Networking, Piloting, Psi-Ops, Resource Management, Science
@@ -1095,7 +1095,7 @@ depending on distance. For example:
 - Resource efficiency is improved, but heavy loads such as colonization
   equipment still demand significant fuel resources.
 
-**Fuel Requirements:**  
+**Fuel Requirements:**\
 Fuel use depends on the ship’s mass and energy requirements:
 
 - **Small Craft (Exploration Vessels):** Light fuel consumption,
@@ -2410,7 +2410,7 @@ humanity’s future.
 
 ### **Interstellar Free Market Consortium (IFMC)**
 
-**Philosophy:** Profit through innovation and trade.  
+**Philosophy:** Profit through innovation and trade.\
 The IFMC represents powerful megacorporations and trade guilds that
 dominate interstellar commerce. It traces its institutional roots to the
 AutoMine Corp territorial bloc that emerged during the polity
@@ -2430,7 +2430,7 @@ Precursor tech adaptation.
 
 ### **Eclipse Network**
 
-**Philosophy:** Evolution through integration.  
+**Philosophy:** Evolution through integration.\
 The Eclipse Network is a rogue AI collective that emerged as an
 independent entity in the late 2700s, originally splinter nodes of the
 Sol Union’s distributed AI governance infrastructure. Its ultimate goals
@@ -2461,7 +2461,7 @@ and asymmetric offers.
 
 ### **Precursor Seekers**
 
-**Philosophy:** Unlocking the mysteries of the past.  
+**Philosophy:** Unlocking the mysteries of the past.\
 A collection of archaeologists, scientists, and treasure hunters
 dedicated to recovering and understanding Precursor artifacts. Though
 loosely organized, the Seekers have gained significant influence due to
@@ -2655,7 +2655,7 @@ humanity’s existence.
 
 ### **The Varnon Swarm**
 
-**Nature:** Non-sentient, self-replicating cosmic hazard.  
+**Nature:** Non-sentient, self-replicating cosmic hazard.\
 First identified in 3220 near the rimward edge of explored space, the
 Varnon Swarm is not an alien civilization but something worse: a
 self-replicating process that consumes entire star systems — breaking
@@ -2687,7 +2687,7 @@ advance.
 
 ### **The Precursor Wound**
 
-**Nature:** Unknown origin; possibly active.  
+**Nature:** Unknown origin; possibly active.\
 The Precursor Translation Epoch (3175) revealed that their civilization
 collapsed under a “rimward catastrophe still poorly understood.” The
 Zynthari, when pushed on the subject during early diplomacy, offered
@@ -2717,7 +2717,7 @@ zones where the Wound is still active.
 
 ### **The Lattice Scar**
 
-**Nature:** Persistent spacetime damage zone.  
+**Nature:** Persistent spacetime damage zone.\
 The Eclipse Network’s 3890 experiment — an attempt to merge human and
 Zynthari technologies at a rimward research installation — destabilized
 local spacetime in ways that have not fully resolved over a century
@@ -2764,7 +2764,7 @@ alliances in the making, and rivalries looking for an opening.
 
 ### **Trading Hubs**
 
-1.  **Stellar Market Stations**  
+1.  **Stellar Market Stations**\
     Orbiting resource-rich planets or busy jumpgate intersections, these
     massive stations house sprawling marketplaces. Goods from all
     corners of the galaxy are exchanged here, ranging from raw minerals
@@ -2775,7 +2775,7 @@ alliances in the making, and rivalries looking for an opening.
       teem with smugglers, while the upper levels are reserved for
       corporate magnates and diplomats.
 
-2.  **Open Skyports**  
+2.  **Open Skyports**\
     Spaceports on neutral planets offer a mix of trade and cultural
     exchange. Vendors set up bazaars in orbital rings or planetary hubs,
     where wanderers, traders, and explorers rub shoulders.
@@ -2786,7 +2786,7 @@ alliances in the making, and rivalries looking for an opening.
 
 ### **Diplomatic Zones**
 
-1.  **Embassy Stations**  
+1.  **Embassy Stations**\
     These are floating platforms designated for interstellar diplomacy.
     Representatives of human and alien factions convene to negotiate
     treaties, exchange intelligence, or settle disputes.
@@ -2795,7 +2795,7 @@ alliances in the making, and rivalries looking for an opening.
       Concordium arbiters, known for hosting peace talks between rival
       stellar nations.
 
-2.  **Nomadic Convoys**  
+2.  **Nomadic Convoys**\
     Some diplomatic zones exist on massive migratory fleets, where
     temporary agreements are brokered before moving on. These fleets
     often double as neutral ground for trade and cultural showcases.
@@ -2806,7 +2806,7 @@ alliances in the making, and rivalries looking for an opening.
 
 ### **Contested Spaces**
 
-1.  **Independent Outposts**  
+1.  **Independent Outposts**\
     Settlements in disputed territories often act as makeshift hubs for
     renegades, explorers, and entrepreneurs. Their independence makes
     them chaotic but valuable for under-the-table dealings.
@@ -2815,7 +2815,7 @@ alliances in the making, and rivalries looking for an opening.
       smugglers and bounty hunters gather to exchange secrets and
       services.
 
-2.  **Resource-rich Zones**  
+2.  **Resource-rich Zones**\
     Areas teeming with valuable resources often attract opportunists and
     factions seeking dominance. Despite being officially neutral, these
     zones are rife with covert operations and unspoken alliances.

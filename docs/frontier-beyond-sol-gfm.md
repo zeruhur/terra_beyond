@@ -1,6 +1,6 @@
 # Frontier: Beyond Sol
 Roberto Bisceglie
-2026-06-24
+2026-07-31
 
 Under the ghostly glow of SZ Ursae Majoris’ seventh planet, a cold
 martian giant, the small, stealthy vessel *Nimbus* held its position,
@@ -3588,10 +3588,10 @@ where we fit in this massive universe.
 
 ## Alpha Centauri A System Overview
 
-**Star:** Alpha Centauri A  
-**Mass:** 1.09 Solar Masses  
-**Luminosity:** 1.60 Solar Luminosity  
-**Age:** 2.521 Billion Years  
+**Star:** Alpha Centauri A\
+**Mass:** 1.09 Solar Masses\
+**Luminosity:** 1.60 Solar Luminosity\
+**Age:** 2.521 Billion Years\
 **Habitable Zone:** 1.029 - 1.826 AU
 
 ### Planetary Bodies Summary
@@ -3662,10 +3662,10 @@ where we fit in this massive universe.
 
 ## Alpha Centauri B System Overview
 
-**Star:** Alpha Centauri B  
-**Mass:** 0.90 Solar Masses  
-**Luminosity:** 0.45 Solar Luminosity  
-**Age:** 4.061 Billion Years  
+**Star:** Alpha Centauri B\
+**Mass:** 0.90 Solar Masses\
+**Luminosity:** 0.45 Solar Luminosity\
+**Age:** 4.061 Billion Years\
 **Habitable Zone:** 0.546 - 0.968 AU
 
 ### Planetary Bodies Summary
@@ -3734,10 +3734,10 @@ where we fit in this massive universe.
 
 ## Tau Ceti System Overview
 
-**Star:** Tau Ceti  
-**Mass:** 0.82 Solar Masses  
-**Luminosity:** 0.59 Solar Luminosity  
-**Age:** 2.974 Billion Years  
+**Star:** Tau Ceti\
+**Mass:** 0.82 Solar Masses\
+**Luminosity:** 0.59 Solar Luminosity\
+**Age:** 2.974 Billion Years\
 **Habitable Zone:** 0.625 - 1.109 AU
 
 ### Planetary Bodies Summary
@@ -3790,10 +3790,10 @@ where we fit in this massive universe.
 
 ## Epsilon Eridani System Overview
 
-**Star:** Epsilon Eridani  
-**Mass:** 0.85 Solar Masses  
-**Luminosity:** 0.34 Solar Luminosity  
-**Age:** 1.485 Billion Years  
+**Star:** Epsilon Eridani\
+**Mass:** 0.85 Solar Masses\
+**Luminosity:** 0.34 Solar Luminosity\
+**Age:** 1.485 Billion Years\
 **Habitable Zone:** 0.475 - 0.842 AU
 
 ### Planetary Bodies Summary
@@ -3868,10 +3868,10 @@ where we fit in this massive universe.
 
 ## 61 Cygni A System Overview
 
-**Star:** 61 Cygni A  
-**Mass:** 0.59 Solar Masses  
-**Luminosity:** 0.09 Solar Luminosity  
-**Age:** 3.905 Billion Years  
+**Star:** 61 Cygni A\
+**Mass:** 0.59 Solar Masses\
+**Luminosity:** 0.09 Solar Luminosity\
+**Age:** 3.905 Billion Years\
 **Habitable Zone:** 0.237 - 0.421 AU
 
 ### Planetary Bodies Summary
@@ -3946,10 +3946,10 @@ where we fit in this massive universe.
 
 ## 40 Eridani A System Overview
 
-**Star:** 40 Eridani A  
-**Mass:** 0.75 Solar Masses  
-**Luminosity:** 0.38 Solar Luminosity  
-**Age:** 2.018 Billion Years  
+**Star:** 40 Eridani A\
+**Mass:** 0.75 Solar Masses\
+**Luminosity:** 0.38 Solar Luminosity\
+**Age:** 2.018 Billion Years\
 **Habitable Zone:** 0.502 - 0.890 AU
 
 ### Planetary Bodies Summary
@@ -4026,10 +4026,10 @@ where we fit in this massive universe.
 
 ## Eta Cassiopeiae A System Overview
 
-**Star:** Eta Cassiopeiae A  
-**Mass:** 0.91 Solar Masses  
-**Luminosity:** 1.15 Solar Luminosity  
-**Age:** 5.642 Billion Years  
+**Star:** Eta Cassiopeiae A\
+**Mass:** 0.91 Solar Masses\
+**Luminosity:** 1.15 Solar Luminosity\
+**Age:** 5.642 Billion Years\
 **Habitable Zone:** 0.871 - 1.544 AU
 
 ### Planetary Bodies Summary
@@ -4103,10 +4103,10 @@ where we fit in this massive universe.
 
 ## 82 Eridani System Overview
 
-**Star:** 82 Eridani  
-**Mass:** 0.97 Solar Masses  
-**Luminosity:** 0.65 Solar Luminosity  
-**Age:** 3.626 Billion Years  
+**Star:** 82 Eridani\
+**Mass:** 0.97 Solar Masses\
+**Luminosity:** 0.65 Solar Luminosity\
+**Age:** 3.626 Billion Years\
 **Habitable Zone:** 0.656 - 1.164 AU
 
 ### Planetary Bodies Summary
@@ -4174,10 +4174,10 @@ where we fit in this massive universe.
 
 ## Delta Pavonis System Overview
 
-**Star:** Delta Pavonis  
-**Mass:** 0.98 Solar Masses  
-**Luminosity:** 1.20 Solar Luminosity  
-**Age:** 4.713 Billion Years  
+**Star:** Delta Pavonis\
+**Mass:** 0.98 Solar Masses\
+**Luminosity:** 1.20 Solar Luminosity\
+**Age:** 4.713 Billion Years\
 **Habitable Zone:** 0.891 - 1.581 AU
 
 ### Planetary Bodies Summary
@@ -4246,10 +4246,10 @@ where we fit in this massive universe.
 
 ## Beta Hydri System Overview
 
-**Star:** Beta Hydri  
-**Mass:** 1.10 Solar Masses  
-**Luminosity:** 3.60 Solar Luminosity  
-**Age:** 3.021 Billion Years  
+**Star:** Beta Hydri\
+**Mass:** 1.10 Solar Masses\
+**Luminosity:** 3.60 Solar Luminosity\
+**Age:** 3.021 Billion Years\
 **Habitable Zone:** 1.544 - 2.739 AU
 
 ### Planetary Bodies Summary
@@ -4315,10 +4315,10 @@ where we fit in this massive universe.
 
 ## Pi3 Orionis A System Overview
 
-**Star:** Pi3 Orionis A  
-**Mass:** 1.30 Solar Masses  
-**Luminosity:** 3.00  
-**Age:** 1.681 billion years  
+**Star:** Pi3 Orionis A\
+**Mass:** 1.30 Solar Masses\
+**Luminosity:** 3.00\
+**Age:** 1.681 billion years\
 **Habitable Zone:** 1.410 - 2.500 AU
 
 ### Planetary Bodies Summary
@@ -4391,10 +4391,10 @@ where we fit in this massive universe.
 
 ## Chara System Overview
 
-**Star:** Chara  
-**Mass:** 1.07 Solar Masses  
-**Luminosity:** 1.20  
-**Age:** 1.432 billion years  
+**Star:** Chara\
+**Mass:** 1.07 Solar Masses\
+**Luminosity:** 1.20\
+**Age:** 1.432 billion years\
 **Habitable Zone:** 0.891 - 1.581 AU
 
 ### Planetary Bodies Summary
@@ -4451,10 +4451,10 @@ where we fit in this massive universe.
 
 ## Chi1 Orionis A System Overview
 
-**Star:** Chi1 Orionis A  
-**Mass:** 1.00 Solar Mass  
-**Luminosity:** 1.08  
-**Age:** 2.355 billion years  
+**Star:** Chi1 Orionis A\
+**Mass:** 1.00 Solar Mass\
+**Luminosity:** 1.08\
+**Age:** 2.355 billion years\
 **Habitable Zone:** 0.846 - 1.500 AU
 
 ### Planetary Bodies Summary
@@ -4512,10 +4512,10 @@ where we fit in this massive universe.
 
 ### Kappa Ceti System Overview
 
-**Star:** Kappa Ceti  
-**Mass:** 1.00 Solar Mass  
-**Luminosity:** 0.85  
-**Age:** 2.122 billion years  
+**Star:** Kappa Ceti\
+**Mass:** 1.00 Solar Mass\
+**Luminosity:** 0.85\
+**Age:** 2.122 billion years\
 **Habitable Zone:** 0.750 - 1.331 AU
 
 ### Planetary Bodies Summary
@@ -4573,10 +4573,10 @@ where we fit in this massive universe.
 
 ## Delta Eridani System Overview
 
-**Star:** Delta Eridani  
-**Mass:** 1.37 Solar Masses  
-**Luminosity:** 4.48  
-**Age:** 3.066 billion years  
+**Star:** Delta Eridani\
+**Mass:** 1.37 Solar Masses\
+**Luminosity:** 4.48\
+**Age:** 3.066 billion years\
 **Habitable Zone:** 1.722 - 3.054 AU
 
 ### Planetary Bodies Summary
@@ -4637,10 +4637,10 @@ where we fit in this massive universe.
 
 ## Gliese 445 System Overview
 
-**Star:** Gliese 445  
-**Mass:** 0.20 Solar Masses  
-**Luminosity:** Essentially null  
-**Age:** 1.554 billion years  
+**Star:** Gliese 445\
+**Mass:** 0.20 Solar Masses\
+**Luminosity:** Essentially null\
+**Age:** 1.554 billion years\
 **Habitable Zone:** 0.049 - 0.086 AU
 
 ### Planetary Bodies Summary
@@ -4706,10 +4706,10 @@ where we fit in this massive universe.
 
 ### Gliese 226 System Overview
 
-**Star:** Gliese 226  
-**Mass:** 0.20 Solar Masses  
-**Luminosity:** Essentially null  
-**Age:** 5.258 billion years  
+**Star:** Gliese 226\
+**Mass:** 0.20 Solar Masses\
+**Luminosity:** Essentially null\
+**Age:** 5.258 billion years\
 **Habitable Zone:** 0.049 - 0.086 AU
 
 ### Planetary Bodies Summary
@@ -4769,10 +4769,10 @@ where we fit in this massive universe.
 
 ### SZ Ursae Majoris System Overview
 
-**Star:** SZ Ursae Majoris  
-**Mass:** 0.20 Solar Masses  
-**Luminosity:** Practically null  
-**Age:** 5.071 billion years  
+**Star:** SZ Ursae Majoris\
+**Mass:** 0.20 Solar Masses\
+**Luminosity:** Practically null\
+**Age:** 5.071 billion years\
 **Habitable Zone:** 0.049 - 0.086 AU
 
 ### Planetary Bodies Summary
